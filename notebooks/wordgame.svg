@@ -1,0 +1,375 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Created with matplotlib (http://matplotlib.org/) -->
+<svg height="225.25pt" version="1.1" viewBox="0 0 300.4 225.25" width="300.4pt" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+*{stroke-linecap:butt;stroke-linejoin:round;}
+  </style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 225.25 
+L 300.4 225.25 
+L 300.4 0 
+L 0 0 
+z
+" style="fill:#ffffff;"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 10.7 214.55 
+L 289.7 214.55 
+L 289.7 10.7 
+L 10.7 10.7 
+z
+" style="fill:#ffffff;"/>
+   </g>
+   <g id="LineCollection_1">
+    <path clip-path="url(#pcb4d494126)" d="M 150.2 21.893209 
+L 225.35774 67.259105 
+" style="fill:none;stroke:#808080;"/>
+    <path clip-path="url(#pcb4d494126)" d="M 150.2 21.893209 
+L 75.04226 67.259105 
+" style="fill:none;stroke:#808080;"/>
+    <path clip-path="url(#pcb4d494126)" d="M 150.2 21.893209 
+L 125.14742 67.259105 
+" style="fill:none;stroke:#808080;"/>
+    <path clip-path="url(#pcb4d494126)" d="M 150.2 21.893209 
+L 175.25258 67.259105 
+" style="fill:none;stroke:#808080;"/>
+    <path clip-path="url(#pcb4d494126)" d="M 75.04226 67.259105 
+L 150.2 21.893209 
+" style="fill:none;stroke:#808080;"/>
+    <path clip-path="url(#pcb4d494126)" d="M 75.04226 67.259105 
+L 175.25258 112.625 
+" style="fill:none;stroke:#808080;"/>
+    <path clip-path="url(#pcb4d494126)" d="M 75.04226 67.259105 
+L 24.937099 112.625 
+" style="fill:none;stroke:#808080;"/>
+    <path clip-path="url(#pcb4d494126)" d="M 75.04226 67.259105 
+L 75.04226 112.625 
+" style="fill:none;stroke:#808080;"/>
+    <path clip-path="url(#pcb4d494126)" d="M 125.14742 67.259105 
+L 150.2 21.893209 
+" style="fill:none;stroke:#808080;"/>
+    <path clip-path="url(#pcb4d494126)" d="M 125.14742 67.259105 
+L 225.35774 112.625 
+" style="fill:none;stroke:#808080;"/>
+    <path clip-path="url(#pcb4d494126)" d="M 125.14742 67.259105 
+L 24.937099 112.625 
+" style="fill:none;stroke:#808080;"/>
+    <path clip-path="url(#pcb4d494126)" d="M 125.14742 67.259105 
+L 125.14742 112.625 
+" style="fill:none;stroke:#808080;"/>
+    <path clip-path="url(#pcb4d494126)" d="M 24.937099 112.625 
+L 75.04226 67.259105 
+" style="fill:none;stroke:#808080;"/>
+    <path clip-path="url(#pcb4d494126)" d="M 24.937099 112.625 
+L 125.14742 67.259105 
+" style="fill:none;stroke:#808080;"/>
+    <path clip-path="url(#pcb4d494126)" d="M 24.937099 112.625 
+L 125.14742 157.990895 
+" style="fill:none;stroke:#808080;"/>
+    <path clip-path="url(#pcb4d494126)" d="M 24.937099 112.625 
+L 75.04226 157.990895 
+" style="fill:none;stroke:#808080;"/>
+    <path clip-path="url(#pcb4d494126)" d="M 175.25258 67.259105 
+L 150.2 21.893209 
+" style="fill:none;stroke:#808080;"/>
+    <path clip-path="url(#pcb4d494126)" d="M 175.25258 67.259105 
+L 275.462901 112.625 
+" style="fill:none;stroke:#808080;"/>
+    <path clip-path="url(#pcb4d494126)" d="M 175.25258 67.259105 
+L 75.04226 112.625 
+" style="fill:none;stroke:#808080;"/>
+    <path clip-path="url(#pcb4d494126)" d="M 175.25258 67.259105 
+L 125.14742 112.625 
+" style="fill:none;stroke:#808080;"/>
+    <path clip-path="url(#pcb4d494126)" d="M 75.04226 112.625 
+L 75.04226 67.259105 
+" style="fill:none;stroke:#808080;"/>
+    <path clip-path="url(#pcb4d494126)" d="M 75.04226 112.625 
+L 175.25258 67.259105 
+" style="fill:none;stroke:#808080;"/>
+    <path clip-path="url(#pcb4d494126)" d="M 75.04226 112.625 
+L 175.25258 157.990895 
+" style="fill:none;stroke:#808080;"/>
+    <path clip-path="url(#pcb4d494126)" d="M 75.04226 112.625 
+L 75.04226 157.990895 
+" style="fill:none;stroke:#808080;"/>
+    <path clip-path="url(#pcb4d494126)" d="M 125.14742 112.625 
+L 125.14742 67.259105 
+" style="fill:none;stroke:#808080;"/>
+    <path clip-path="url(#pcb4d494126)" d="M 125.14742 112.625 
+L 175.25258 67.259105 
+" style="fill:none;stroke:#808080;"/>
+    <path clip-path="url(#pcb4d494126)" d="M 125.14742 112.625 
+L 225.35774 157.990895 
+" style="fill:none;stroke:#808080;"/>
+    <path clip-path="url(#pcb4d494126)" d="M 125.14742 112.625 
+L 75.04226 157.990895 
+" style="fill:none;stroke:#808080;"/>
+    <path clip-path="url(#pcb4d494126)" d="M 75.04226 157.990895 
+L 24.937099 112.625 
+" style="fill:none;stroke:#808080;"/>
+    <path clip-path="url(#pcb4d494126)" d="M 75.04226 157.990895 
+L 75.04226 112.625 
+" style="fill:none;stroke:#808080;"/>
+    <path clip-path="url(#pcb4d494126)" d="M 75.04226 157.990895 
+L 125.14742 112.625 
+" style="fill:none;stroke:#808080;"/>
+    <path clip-path="url(#pcb4d494126)" d="M 75.04226 157.990895 
+L 150.2 203.356791 
+" style="fill:none;stroke:#808080;"/>
+    <path clip-path="url(#pcb4d494126)" d="M 225.35774 67.259105 
+L 150.2 21.893209 
+" style="fill:none;stroke:#808080;"/>
+    <path clip-path="url(#pcb4d494126)" d="M 225.35774 67.259105 
+L 175.25258 112.625 
+" style="fill:none;stroke:#808080;"/>
+    <path clip-path="url(#pcb4d494126)" d="M 225.35774 67.259105 
+L 225.35774 112.625 
+" style="fill:none;stroke:#808080;"/>
+    <path clip-path="url(#pcb4d494126)" d="M 225.35774 67.259105 
+L 275.462901 112.625 
+" style="fill:none;stroke:#808080;"/>
+    <path clip-path="url(#pcb4d494126)" d="M 175.25258 112.625 
+L 225.35774 67.259105 
+" style="fill:none;stroke:#808080;"/>
+    <path clip-path="url(#pcb4d494126)" d="M 175.25258 112.625 
+L 75.04226 67.259105 
+" style="fill:none;stroke:#808080;"/>
+    <path clip-path="url(#pcb4d494126)" d="M 175.25258 112.625 
+L 125.14742 157.990895 
+" style="fill:none;stroke:#808080;"/>
+    <path clip-path="url(#pcb4d494126)" d="M 175.25258 112.625 
+L 175.25258 157.990895 
+" style="fill:none;stroke:#808080;"/>
+    <path clip-path="url(#pcb4d494126)" d="M 225.35774 112.625 
+L 225.35774 67.259105 
+" style="fill:none;stroke:#808080;"/>
+    <path clip-path="url(#pcb4d494126)" d="M 225.35774 112.625 
+L 125.14742 67.259105 
+" style="fill:none;stroke:#808080;"/>
+    <path clip-path="url(#pcb4d494126)" d="M 225.35774 112.625 
+L 125.14742 157.990895 
+" style="fill:none;stroke:#808080;"/>
+    <path clip-path="url(#pcb4d494126)" d="M 225.35774 112.625 
+L 225.35774 157.990895 
+" style="fill:none;stroke:#808080;"/>
+    <path clip-path="url(#pcb4d494126)" d="M 125.14742 157.990895 
+L 175.25258 112.625 
+" style="fill:none;stroke:#808080;"/>
+    <path clip-path="url(#pcb4d494126)" d="M 125.14742 157.990895 
+L 225.35774 112.625 
+" style="fill:none;stroke:#808080;"/>
+    <path clip-path="url(#pcb4d494126)" d="M 125.14742 157.990895 
+L 24.937099 112.625 
+" style="fill:none;stroke:#808080;"/>
+    <path clip-path="url(#pcb4d494126)" d="M 125.14742 157.990895 
+L 150.2 203.356791 
+" style="fill:none;stroke:#808080;"/>
+    <path clip-path="url(#pcb4d494126)" d="M 275.462901 112.625 
+L 225.35774 67.259105 
+" style="fill:none;stroke:#808080;"/>
+    <path clip-path="url(#pcb4d494126)" d="M 275.462901 112.625 
+L 175.25258 67.259105 
+" style="fill:none;stroke:#808080;"/>
+    <path clip-path="url(#pcb4d494126)" d="M 275.462901 112.625 
+L 175.25258 157.990895 
+" style="fill:none;stroke:#808080;"/>
+    <path clip-path="url(#pcb4d494126)" d="M 275.462901 112.625 
+L 225.35774 157.990895 
+" style="fill:none;stroke:#808080;"/>
+    <path clip-path="url(#pcb4d494126)" d="M 175.25258 157.990895 
+L 175.25258 112.625 
+" style="fill:none;stroke:#808080;"/>
+    <path clip-path="url(#pcb4d494126)" d="M 175.25258 157.990895 
+L 275.462901 112.625 
+" style="fill:none;stroke:#808080;"/>
+    <path clip-path="url(#pcb4d494126)" d="M 175.25258 157.990895 
+L 75.04226 112.625 
+" style="fill:none;stroke:#808080;"/>
+    <path clip-path="url(#pcb4d494126)" d="M 175.25258 157.990895 
+L 150.2 203.356791 
+" style="fill:none;stroke:#808080;"/>
+    <path clip-path="url(#pcb4d494126)" d="M 225.35774 157.990895 
+L 225.35774 112.625 
+" style="fill:none;stroke:#808080;"/>
+    <path clip-path="url(#pcb4d494126)" d="M 225.35774 157.990895 
+L 275.462901 112.625 
+" style="fill:none;stroke:#808080;"/>
+    <path clip-path="url(#pcb4d494126)" d="M 225.35774 157.990895 
+L 125.14742 112.625 
+" style="fill:none;stroke:#808080;"/>
+    <path clip-path="url(#pcb4d494126)" d="M 225.35774 157.990895 
+L 150.2 203.356791 
+" style="fill:none;stroke:#808080;"/>
+    <path clip-path="url(#pcb4d494126)" d="M 150.2 203.356791 
+L 125.14742 157.990895 
+" style="fill:none;stroke:#808080;"/>
+    <path clip-path="url(#pcb4d494126)" d="M 150.2 203.356791 
+L 175.25258 157.990895 
+" style="fill:none;stroke:#808080;"/>
+    <path clip-path="url(#pcb4d494126)" d="M 150.2 203.356791 
+L 225.35774 157.990895 
+" style="fill:none;stroke:#808080;"/>
+    <path clip-path="url(#pcb4d494126)" d="M 150.2 203.356791 
+L 75.04226 157.990895 
+" style="fill:none;stroke:#808080;"/>
+   </g>
+   <g id="matplotlib.axis_1"/>
+   <g id="matplotlib.axis_2"/>
+   <g id="PathCollection_1">
+    <defs>
+     <path d="M 0 8.660254 
+C 2.296726 8.660254 4.499694 7.747755 6.123724 6.123724 
+C 7.747755 4.499694 8.660254 2.296726 8.660254 0 
+C 8.660254 -2.296726 7.747755 -4.499694 6.123724 -6.123724 
+C 4.499694 -7.747755 2.296726 -8.660254 0 -8.660254 
+C -2.296726 -8.660254 -4.499694 -7.747755 -6.123724 -6.123724 
+C -7.747755 -4.499694 -8.660254 -2.296726 -8.660254 0 
+C -8.660254 2.296726 -7.747755 4.499694 -6.123724 6.123724 
+C -4.499694 7.747755 -2.296726 8.660254 0 8.660254 
+z
+" id="C0_0_be25ca9ce1"/>
+    </defs>
+    <g clip-path="url(#pcb4d494126)">
+     <use style="fill:#fa9b3d;stroke:#fa9b3d;" x="150.2" xlink:href="#C0_0_be25ca9ce1" y="21.893209"/>
+    </g>
+    <g clip-path="url(#pcb4d494126)">
+     <use style="fill:#f3874a;stroke:#f3874a;" x="75.04226" xlink:href="#C0_0_be25ca9ce1" y="67.259105"/>
+    </g>
+    <g clip-path="url(#pcb4d494126)">
+     <use style="fill:#bd3786;stroke:#bd3786;" x="125.14742" xlink:href="#C0_0_be25ca9ce1" y="67.259105"/>
+    </g>
+    <g clip-path="url(#pcb4d494126)">
+     <use style="fill:#5b01a5;stroke:#5b01a5;" x="24.937099" xlink:href="#C0_0_be25ca9ce1" y="112.625"/>
+    </g>
+    <g clip-path="url(#pcb4d494126)">
+     <use style="fill:#d35171;stroke:#d35171;" x="175.25258" xlink:href="#C0_0_be25ca9ce1" y="67.259105"/>
+    </g>
+    <g clip-path="url(#pcb4d494126)">
+     <use style="fill:#48039f;stroke:#48039f;" x="75.04226" xlink:href="#C0_0_be25ca9ce1" y="112.625"/>
+    </g>
+    <g clip-path="url(#pcb4d494126)">
+     <use style="fill:#b6308b;stroke:#b6308b;" x="125.14742" xlink:href="#C0_0_be25ca9ce1" y="112.625"/>
+    </g>
+    <g clip-path="url(#pcb4d494126)">
+     <use style="fill:#e26561;stroke:#e26561;" x="75.04226" xlink:href="#C0_0_be25ca9ce1" y="157.990895"/>
+    </g>
+    <g clip-path="url(#pcb4d494126)">
+     <use style="fill:#fca338;stroke:#fca338;" x="225.35774" xlink:href="#C0_0_be25ca9ce1" y="67.259105"/>
+    </g>
+    <g clip-path="url(#pcb4d494126)">
+     <use style="fill:#fdc827;stroke:#fdc827;" x="175.25258" xlink:href="#C0_0_be25ca9ce1" y="112.625"/>
+    </g>
+    <g clip-path="url(#pcb4d494126)">
+     <use style="fill:#f3874a;stroke:#f3874a;" x="225.35774" xlink:href="#C0_0_be25ca9ce1" y="112.625"/>
+    </g>
+    <g clip-path="url(#pcb4d494126)">
+     <use style="fill:#7b02a8;stroke:#7b02a8;" x="125.14742" xlink:href="#C0_0_be25ca9ce1" y="157.990895"/>
+    </g>
+    <g clip-path="url(#pcb4d494126)">
+     <use style="fill:#d35171;stroke:#d35171;" x="275.462901" xlink:href="#C0_0_be25ca9ce1" y="112.625"/>
+    </g>
+    <g clip-path="url(#pcb4d494126)">
+     <use style="fill:#fcd225;stroke:#fcd225;" x="175.25258" xlink:href="#C0_0_be25ca9ce1" y="157.990895"/>
+    </g>
+    <g clip-path="url(#pcb4d494126)">
+     <use style="fill:#0d0887;stroke:#0d0887;" x="225.35774" xlink:href="#C0_0_be25ca9ce1" y="157.990895"/>
+    </g>
+    <g clip-path="url(#pcb4d494126)">
+     <use style="fill:#f0f921;stroke:#f0f921;" x="150.2" xlink:href="#C0_0_be25ca9ce1" y="203.356791"/>
+    </g>
+   </g>
+   <g id="text_1">
+    <g clip-path="url(#pcb4d494126)">
+     <text style="font-family:DejaVu Sans;font-size:12px;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 150.2, 25.204459)" x="150.2" y="25.204459">GENE</text>
+    </g>
+   </g>
+   <g id="text_2">
+    <g clip-path="url(#pcb4d494126)">
+     <text style="font-family:DejaVu Sans;font-size:12px;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 75.04226, 70.570355)" x="75.04226" y="70.570355">GEND</text>
+    </g>
+   </g>
+   <g id="text_3">
+    <g clip-path="url(#pcb4d494126)">
+     <text style="font-family:DejaVu Sans;font-size:12px;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 125.14742, 70.570355)" x="125.14742" y="70.570355">GERE</text>
+    </g>
+   </g>
+   <g id="text_4">
+    <g clip-path="url(#pcb4d494126)">
+     <text style="font-family:DejaVu Sans;font-size:12px;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 24.937099, 115.93625)" x="24.937099" y="115.93625">GERD</text>
+    </g>
+   </g>
+   <g id="text_5">
+    <g clip-path="url(#pcb4d494126)">
+     <text style="font-family:DejaVu Sans;font-size:12px;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 175.25258, 70.570355)" x="175.25258" y="70.570355">GONE</text>
+    </g>
+   </g>
+   <g id="text_6">
+    <g clip-path="url(#pcb4d494126)">
+     <text style="font-family:DejaVu Sans;font-size:12px;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 75.04226, 115.93625)" x="75.04226" y="115.93625">GOND</text>
+    </g>
+   </g>
+   <g id="text_7">
+    <g clip-path="url(#pcb4d494126)">
+     <text style="font-family:DejaVu Sans;font-size:12px;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 125.14742, 115.93625)" x="125.14742" y="115.93625">GORE</text>
+    </g>
+   </g>
+   <g id="text_8">
+    <g clip-path="url(#pcb4d494126)">
+     <text style="font-family:DejaVu Sans;font-size:12px;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 75.04226, 161.302145)" x="75.04226" y="161.302145">GORD</text>
+    </g>
+   </g>
+   <g id="text_9">
+    <g clip-path="url(#pcb4d494126)">
+     <text style="font-family:DejaVu Sans;font-size:12px;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 225.35774, 70.570355)" x="225.35774" y="70.570355">WENE</text>
+    </g>
+   </g>
+   <g id="text_10">
+    <g clip-path="url(#pcb4d494126)">
+     <text style="font-family:DejaVu Sans;font-size:12px;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 175.25258, 115.93625)" x="175.25258" y="115.93625">WEND</text>
+    </g>
+   </g>
+   <g id="text_11">
+    <g clip-path="url(#pcb4d494126)">
+     <text style="font-family:DejaVu Sans;font-size:12px;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 225.35774, 115.93625)" x="225.35774" y="115.93625">WERE</text>
+    </g>
+   </g>
+   <g id="text_12">
+    <g clip-path="url(#pcb4d494126)">
+     <text style="font-family:DejaVu Sans;font-size:12px;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 125.14742, 161.302145)" x="125.14742" y="161.302145">WERD</text>
+    </g>
+   </g>
+   <g id="text_13">
+    <g clip-path="url(#pcb4d494126)">
+     <text style="font-family:DejaVu Sans;font-size:12px;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 275.462901, 115.93625)" x="275.462901" y="115.93625">WONE</text>
+    </g>
+   </g>
+   <g id="text_14">
+    <g clip-path="url(#pcb4d494126)">
+     <text style="font-family:DejaVu Sans;font-size:12px;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 175.25258, 161.302145)" x="175.25258" y="161.302145">WOND</text>
+    </g>
+   </g>
+   <g id="text_15">
+    <g clip-path="url(#pcb4d494126)">
+     <text style="font-family:DejaVu Sans;font-size:12px;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 225.35774, 161.302145)" x="225.35774" y="161.302145">WORE</text>
+    </g>
+   </g>
+   <g id="text_16">
+    <g clip-path="url(#pcb4d494126)">
+     <text style="font-family:DejaVu Sans;font-size:12px;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 150.2, 206.668041)" x="150.2" y="206.668041">WORD</text>
+    </g>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="pcb4d494126">
+   <rect height="203.85" width="279" x="10.7" y="10.7"/>
+  </clipPath>
+ </defs>
+</svg>

@@ -12,6 +12,8 @@ This is amazing.
 
 # Evolving proteins must navigate sequence space.
 
+Bar graph showing how overwhelming large sequence space is.
+
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
 # Protein evolution depends on the genotype-phenotype map.
