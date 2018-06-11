@@ -1,0 +1,353 @@
+<!doctype html>
+<html lang="en">
+
+	<head>
+		<meta charset="utf-8">
+
+		<title>UO Thesis Defense</title>
+
+		<meta name="description" content="A framework for easily creating beautiful presentations using HTML">
+		<meta name="author" content="Hakim El Hattab">
+
+		<meta name="apple-mobile-web-app-capable" content="yes">
+		<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+
+		<link rel="stylesheet" href="reveal.js/css/reveal.css">
+		<link rel="stylesheet" href="style/theme.css" id="theme">
+
+
+		<!-- Theme used for syntax highlighting of code -->
+		<link rel="stylesheet" href="reveal.js/lib/css/zenburn.css">
+
+        <!-- some stylesheet clean up (removes borders around images)-->
+        <style>
+            .reveal section img {
+              margin: 15px 0px;
+              background: rgba(255, 255, 255, 0.0);
+              border: 0px solid #222;
+              box-shadow: 0 0 0px rgba(0, 0, 0, 0.0); }
+        </style>
+
+		<!-- Printing and PDF exports -->
+		<script>
+			var link = document.createElement( 'link' );
+			link.rel = 'stylesheet';
+			link.type = 'text/css';
+			link.href = window.location.search.match( /print-pdf/gi ) ? 'reveal.js/css/print/pdf.css' : 'reveal.js/css/print/paper.css';
+			document.getElementsByTagName( 'head' )[0].appendChild( link );
+		</script>
+
+		<!--[if lt IE 9]>
+		<script src="lib/js/html5shiv.js"></script>
+		<![endif]-->
+	</head>
+
+	<body>
+
+		<div class="reveal">
+
+			<!-- Any section element inside of this container is displayed as a slide -->
+			<div class="slides">
+
+     <section>
+       <!-- This is test -->
+       
+       <p><img src="slidemachine_media/slide-title_1.png" alt="an image"></p>
+     </section>
+     
+     <section>
+       <h1>Proteins evolved</h1>
+       <p>This is amazing.</p>
+     </section>
+     
+     <section>
+       <h1>Evolving proteins must navigate sequence space.</h1>
+     </section>
+     
+     <section>
+       <h1>Protein evolution depends on the genotype-phenotype map.</h1>
+     </section>
+     
+     <section>
+       <h1>John Maynard Smith's word game.</h1>
+     </section>
+     
+     <section>
+       <h1>How do naturally evolving proteins navigate the genotype-phenotype map?</h1>
+     </section>
+     
+     <section>
+       <h1>Protein led to resistance in malaria.</h1>
+       <p>Introduce Malaria, CQ, and PfCRT.</p>
+       <p>Define genotype</p>
+       <p>Show empty map.</p>
+     </section>
+     
+     <section>
+       <h1>How did Pf evolve resistance to chloroquine</h1>
+     </section>
+     
+     <section>
+       <h1>Drug resistance mechanism.</h1>
+       <p>Define phenotype.</p>
+       <p>Color map.</p>
+     </section>
+     
+     <section>
+       <h1>Few trajectories are possible in PfCRT.</h1>
+       <p>Show pathways.</p>
+       <p>Only XX of XX trajectories are observed. What about the rest of the map?</p>
+       <p>Appreciate the amount of work.</p>
+     </section>
+     
+     <section>
+       <h2>Can we predict phenotypes in sparsely sampled genotype-phenotype maps?</h2>
+       <p>Computational tools to predict.</p>
+     </section>
+     
+     <section>
+       <h2>Construct an additive model</h2>
+     </section>
+     
+     <section>
+       <h2>Additive model in PfCRT.</h2>
+       <p>Introduces epistasis</p>
+     </section>
+     
+     <section>
+       <h2>What are the implications of epistasis?</h2>
+       <p>Epistasis is important.</p>
+     </section>
+     
+     <section>
+       <h1>How should we treat epistasis?</h1>
+     </section>
+     
+     <section>
+       <h1>First strategy: global epistasis.</h1>
+       <p>cite genetics paper.
+       cite jakes paper.</p>
+     </section>
+     
+     <section>
+       <h1>Develop global epistasis model.</h1>
+       <p>Two features that stand out.</p>
+       <ol>
+       <li>Classification</li>
+       <li>Nonlinearity.</li>
+       </ol>
+     </section>
+     
+     <section>
+       <h1>Global epistasis is a common feature of genotype-phenotype maps.</h1>
+     </section>
+     
+     <section>
+       <h1>What about the leftover variation?</h1>
+       <p>Define local epistasis.</p>
+     </section>
+     
+     <section>
+       <h1>Local epistasis model.</h1>
+       <p>Show math.</p>
+     </section>
+     
+     <section>
+       <h1>Show improvement on PfCRT data.</h1>
+     </section>
+     
+     <section>
+       <h1>Local epistasis is a common feature of genotype-phenotype maps.</h1>
+     </section>
+     
+     <section>
+       <h1>Pairwise epistasis doesn't quite get us there.</h1>
+       <p>Improves fit.</p>
+     </section>
+     
+     <section>
+       <h1>Add high-order epistasis</h1>
+       <p>helps our fit.</p>
+     </section>
+     
+     <section>
+       <h1>High-order epistasis is a general feature of genotype-phenotype maps.</h1>
+       <p>Show bar graphs.</p>
+     </section>
+     
+     <section>
+       <h1>Let's check out local epistasis affects our predictions.</h1>
+       <p>Epistasis makes our predictions worse.</p>
+     </section>
+     
+     <section>
+       <h1>Summarize predictions with black and white line</h1>
+       <p>red/black chart.</p>
+     </section>
+     
+     <section>
+       <h1>This is common to literature maps.</h1>
+       <p>red/black lines for many data sets</p>
+     </section>
+     
+     <section>
+       <h1>Where does high-order epistasis come from?</h1>
+     </section>
+     
+     <section>
+       <h1>Build simple genotype-phenotype maps from lattice proteins</h1>
+       <p>This is a simple thought experiment.</p>
+     </section>
+     
+     <section>
+       <h1>Lattice proteins exhibit high-order epistasis.</h1>
+       <p>Wait a minute! I thought lattice proteins only have interactions between two sites at a time.</p>
+     </section>
+     
+     <section>
+       <h1>Let's examine a lattice protein over a series of mutations.</h1>
+     </section>
+     
+     <section>
+       <h1>Epistasis is a consequence of the ensemble.</h1>
+     </section>
+     
+     <section>
+       <h1>Anneliese's experiment.</h1>
+     </section>
+     
+     <section>
+       <h1>Demonstrate lac repressor</h1>
+     </section>
+     
+     <section>
+       <h1>Show initial results.</h1>
+     </section>
+     
+     <section>
+       <h1>Develop an ensemble model?</h1>
+       <p>Yet to be done.
+       Cite Jake's paper.</p>
+     </section>
+     
+     <section>
+       <h1>High-order epistasis does not work.</h1>
+     </section>
+     
+     <section>
+       <h1>We are stuck with global epistasis models.</h1>
+       <p>However, we use epistasis as a metric for uncertainty.</p>
+     </section>
+     
+     <section>
+       <h1>Let's return to the PfCRT dataset.</h1>
+     </section>
+     
+     <section>
+       <h1>We'll try to predict the remaining map.</h1>
+     </section>
+     
+     <section>
+       <h1>How do we do?</h1>
+     </section>
+     
+     <section>
+       <h1>We estimate the uncertainty in our predictions.</h1>
+     </section>
+     
+     <section>
+       <h1>We predicted the remaining genotype-phenotype maps.</h1>
+       <p>XX of XX trajectories are possible.</p>
+     </section>
+     
+     <section>
+       <h1>Conclusions</h1>
+       <ul>
+       <li>Only a few trajectories to drug resistance are possible.</li>
+       <li>Many neutral steps were required.</li>
+       <li>This main explain why drug resistance took so long to evolve.</li>
+       </ul>
+     </section>
+     
+     <section>
+       <h1>More conclusions</h1>
+       <ul>
+       <li>Local epistasis models are the wrong model.</li>
+       <li>Epistasis, at this point, is our measure of uncertainty.</li>
+       <li>Software is great.</li>
+       </ul>
+     </section>
+     
+     <section>
+       <h1>Future directions</h1>
+       <ul>
+       <li>Variational Auto encoders</li>
+       <li>Better global models</li>
+       </ul>
+     </section>
+     
+     <section>
+       <h1>Acknowledgements.</h1>
+       <p>The Harms lab</p>
+     </section>
+     
+     <section>
+       <h1>High</h1>
+     </section>
+     
+     <section>
+     
+     </section>
+     
+     <section>
+     
+     </section>
+     
+     
+    
+			</div>
+
+		</div>
+
+		<script src="reveal.js/lib/js/head.min.js"></script>
+		<script src="reveal.js/js/reveal.js"></script>
+
+		<script>
+
+			// More info https://github.com/hakimel/reveal.js#configuration
+			Reveal.initialize({
+				controls: true,
+				progress: true,
+				history: true,
+				center: true,
+
+                width: 1280,
+                height: 720,
+                margins: 0.05,
+
+				transition: 'slide', // none/fade/slide/convex/concave/zoom
+
+                math: {
+                    mathjax: 'https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js',
+                    config: 'TeX-AMS_HTML-full'  // See http://docs.mathjax.org/en/latest/config-files.html
+                },
+
+				// More info https://github.com/hakimel/reveal.js#dependencies
+				dependencies: [
+					{ src: 'reveal.js/lib/js/classList.js', condition: function() { return !document.body.classList; } },
+					{ src: 'reveal.js/plugin/markdown/marked.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+					{ src: 'reveal.js/plugin/markdown/markdown.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+					{ src: 'reveal.js/plugin/highlight/highlight.js', async: true, callback: function() { hljs.initHighlightingOnLoad(); } },
+					{ src: 'reveal.js/plugin/search/search.js', async: true },
+					{ src: 'reveal.js/plugin/zoom-js/zoom.js', async: true },
+					{ src: 'reveal.js/plugin/notes/notes.js', async: true },
+                    { src: 'reveal.js/plugin/math/math.js', async: true}
+				]
+			});
+
+		</script>
+
+	</body>
+</html>
