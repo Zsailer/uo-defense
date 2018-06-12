@@ -1,6 +1,6 @@
 <!-- This is test -->
 
-![sm.inkscape](graphics/slide-title.svg)
+![sm.inkscape](slides/slide-title.svg)
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
@@ -20,7 +20,9 @@ Bar graph showing how overwhelming large sequence space is.
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
-# John Maynard Smith's word game.
+<!-- John maynard smith's wordgame -->
+
+![sm.inkscape](slides/slide-wordgame.svg)
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
@@ -28,41 +30,22 @@ Bar graph showing how overwhelming large sequence space is.
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
-# Protein led to resistance in malaria.
+<!-- Intro to PfCRT -->
 
-Introduce Malaria, CQ, and PfCRT.
-
-Define genotype
-
-Show empty map.
+![sm.inkscape](slides/slide-pfcrt-intro.svg) 10000000000,11000000000,11110000000,10001000000,10001100000,10001111000,10001100000,10000101100,10000101110,10000101111
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
-# How did Pf evolve resistance to chloroquine
+
+<!-- PfCRT empty network -->
+
+![sm.inkscape](slides/slide-pfcrt-wordgame.svg) 100,010,001
+
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
-# Drug resistance mechanism.
+# Can we predict phenotypes in sparsely sampled genotype-phenotype maps?
 
-Define phenotype.
-
-Color map.
-
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
-
-# Few trajectories are possible in PfCRT.
-
-Show pathways.
-
-Only XX of XX trajectories are observed. What about the rest of the map?
-
-Appreciate the amount of work.
-
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
-
-## Can we predict phenotypes in sparsely sampled genotype-phenotype maps?
-
-Computational tools to predict.
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
