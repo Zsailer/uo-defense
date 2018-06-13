@@ -36,19 +36,15 @@ Bar graph showing how overwhelming large sequence space is.
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
-
 <!-- PfCRT empty network -->
 
 ![sm.inkscape](slides/slide-pfcrt-wordgame.svg) 100000000000,110000000000,111000000000,100110000000,100101000000,100000100000,100000110000,100000111000,100000110100,100101000000,100100000010,100100000001
-
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
 # Can we predict phenotypes in a sparsely sampled genotype-phenotype map?
 
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
-
-# Our goal:
+## Our goal:
 
 - General model.
 - Fast computation.
@@ -146,15 +142,8 @@ How many genotypes must I measure to reach my best predictions?
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
-# Complete predicted map.
+![sm.inkscape](slides/slide-pred-pfcrt-map.svg) 10000,11000,10100,10010,10001
 
-Estimated error rate.
-
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
-
-# Viable trajectories.
-
-XX of XX trajectories are possible.
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
@@ -180,11 +169,7 @@ XX of XX trajectories are possible.
 - Variational Auto encoders
 - Better global models (ensemble model)
 
-Yet to be done.
-Cite Jake's paper.
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
 # Acknowledgements.
-
-The Harms lab
