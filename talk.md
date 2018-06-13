@@ -60,38 +60,23 @@ Bar graph showing how overwhelming large sequence space is.
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
-## The additive model
-
-- Show math for additive model
-- Show Pobs vs Pmodel
-- Define epistasis
+![sm.inkscape](slides/slide-model.svg) 100000000000,110000000000,111000000000,111100000000,111110000000,111111000000,111111100000,111111110000,111111111000,111111111100,100000001110,100000001111
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
-# How do we treat epistasis?
+![sm.inkscape](slides/slide-global-intro.svg) 1000,1100,1110,1111
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
-# Global epistasis.
-
-Show math for classifier.
-Show math for nonlinear function.
-Show Pobs vs. Pmodel
-
-cite genetics paper.
-cite jakes paper.
+![sm.inkscape](slides/slide-global-model.svg) 1100000000,1110000000,1111000000,1111100000,1011110000,1011111000,1000011000,1000011100,1000011110,1000000111
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
-# Global epistasis is a common feature of genotype-phenotype maps.
-
-Show other maps
+![sm.inkscape](slides/slide-global-experimental.svg)
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
-# Global epistasis improves prediction.
-
-Summarize prediction
+![sm.inkscape](slides/slide-global-predictions.svg) 1100,1110,1101
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
@@ -99,12 +84,7 @@ Summarize prediction
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
-# Local epistasis model.
-
-Show math for pairwise
-Show Pobs vs. Pmodel curve.
-Show math for high-order
-Show Pobs vs. Pmodel curve
+![sm.inkscape](slides/slide-high-order-model.svg) 10000000,11110000,11111000,11011100,11011110,11011011
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
