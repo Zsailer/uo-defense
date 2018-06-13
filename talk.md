@@ -30,10 +30,6 @@ Bar graph showing how overwhelming large sequence space is.
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
-# Introduce rowena's lab.
-
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
-
 <!-- Intro to PfCRT -->
 
 ![sm.inkscape](slides/slide-pfcrt-intro.svg) 10000000000,11000000000,11110000000,10001000000,10001100000,10001111000,10001100000,10000101100,10000101110,10000101111
@@ -88,86 +84,65 @@ Bar graph showing how overwhelming large sequence space is.
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
-# Local epistasis is a common feature of genotype-phenotype maps.
-
-Show datasets lined up.
+![sm.inkscape](slides/slide-local-experimental.svg)
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
-# Local epistasis kills prediction
-
-Epistasis makes our predictions worse.
+![sm.inkscape](slides/slide-local-predictions.svg) 11000,11100,11010,11001
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
-# Summarize model steps
-
-red/black chart.
+![sm.inkscape](slides/slide-model-summary.svg) 100,110,111
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
-# Experimental data sets.
-
-red/black lines for many data sets
+![sm.inkscape](slides/slide-model-summary-exp.svg)
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
-# Why does epistasis fail?
-
-- Low-order/high-order plot
-- High-order epistasis is common.
+![sm.inkscape](slides/slide-why-local-fails.svg) 1000,1100,1110,1111
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
-# Where does high-order epistasis come from?
+![sm.inkscape](slides/slide-where-he-comes-from.svg) 10,11
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
-# Build simple genotype-phenotype maps from lattice proteins
-
-This is a simple thought experiment.
+![sm.inkscape](slides/slide-lattice-intro.svg) 10000000,11100000,11110000,11001000,11000100,11000110,11000111
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
-# Lattice proteins exhibit high-order epistasis.
-
-Wait a minute! I thought lattice proteins only have interactions between two sites at a time.
+![sm.inkscape](slides/slide-lattice-surprise.svg) 10,11
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
-# Let's examine a lattice protein over a series of mutations.
+![sm.inkscape](slides/slide-lattice-ensemble.svg) 10000000,11000000,11100000,11110000,11111000,11111100,11111110,11111111
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
-# Epistasis is a consequence of the ensemble.
+## High-order epistasis arises because mutations can affect multiple states in a system simultaneously
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
-# Anneliese's experiment.
+# Can we observe this experimentally?
 
-Lac repressor
-
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
-
-# How should we treat epistasis?
-
-Uncertainty
+(Anneliese's experiment)
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
-# How many measurements for 8-site space?
+# High-order epistasis is not useful for prediction.
 
-Show
+How should we treat epistasis?
 
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
-
-# Interesting aside
-
-Not many measurements are needed in general.
+How many genotypes must I measure to reach my best predictions?
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
-# 52 Measurements should be enough
+![sm.inkscape](slides/slide-nobs-power.svg) 10000,11000,11100,11110,11111
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+![sm.inkscape](slides/slide-nobs-pfcrt.svg) 1000,1100,1110,1111
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
