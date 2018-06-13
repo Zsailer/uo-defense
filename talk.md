@@ -30,6 +30,10 @@ Bar graph showing how overwhelming large sequence space is.
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
+# Introduce rowena's lab.
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
 <!-- Intro to PfCRT -->
 
 ![sm.inkscape](slides/slide-pfcrt-intro.svg) 10000000000,11000000000,11110000000,10001000000,10001100000,10001111000,10001100000,10000101100,10000101110,10000101111
@@ -39,108 +43,99 @@ Bar graph showing how overwhelming large sequence space is.
 
 <!-- PfCRT empty network -->
 
-![sm.inkscape](slides/slide-pfcrt-wordgame.svg) 100,010,001
+![sm.inkscape](slides/slide-pfcrt-wordgame.svg) 100000000000,110000000000,111000000000,100110000000,100101000000,100000100000,100000110000,100000111000,100000110100,100101000000,100100000010,100100000001
 
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
-# Can we predict phenotypes in sparsely sampled genotype-phenotype maps?
-
-
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
-
-## Construct an additive model
+# Can we predict phenotypes in a sparsely sampled genotype-phenotype map?
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
-## Additive model in PfCRT.
+# Our goal:
 
-Introduces epistasis
-
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
-
-## What are the implications of epistasis?
-
-Epistasis is important.
+- General model.
+- Fast computation.
+- Quality software.
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
-# How should we treat epistasis?
+## The additive model
+
+- Show math for additive model
+- Show Pobs vs Pmodel
+- Define epistasis
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
-# First strategy: global epistasis.
+# How do we treat epistasis?
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+# Global epistasis.
+
+Show math for classifier.
+Show math for nonlinear function.
+Show Pobs vs. Pmodel
 
 cite genetics paper.
 cite jakes paper.
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
-# Develop global epistasis model.
-
-Two features that stand out.
-1. Classification
-2. Nonlinearity.
-
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
-
 # Global epistasis is a common feature of genotype-phenotype maps.
 
+Show other maps
+
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
-# What about the leftover variation?
+# Global epistasis improves prediction.
 
-Define local epistasis.
+Summarize prediction
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+# What about remaining epistasis?
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
 # Local epistasis model.
 
-Show math.
-
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
-
-# Show improvement on PfCRT data.
+Show math for pairwise
+Show Pobs vs. Pmodel curve.
+Show math for high-order
+Show Pobs vs. Pmodel curve
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
 # Local epistasis is a common feature of genotype-phenotype maps.
 
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
-
-# Pairwise epistasis doesn't quite get us there.
-
-Improves fit.
+Show datasets lined up.
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
-# Add high-order epistasis
-
-helps our fit.
-
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
-
-# High-order epistasis is a general feature of genotype-phenotype maps.
-
-Show bar graphs.
-
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
-
-# Let's check out local epistasis affects our predictions.
+# Local epistasis kills prediction
 
 Epistasis makes our predictions worse.
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
-# Summarize predictions with black and white line
+# Summarize model steps
 
 red/black chart.
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
-# This is common to literature maps.
+# Experimental data sets.
 
 red/black lines for many data sets
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+# Why does epistasis fail?
+
+- Low-order/high-order plot
+- High-order epistasis is common.
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
@@ -170,50 +165,39 @@ Wait a minute! I thought lattice proteins only have interactions between two sit
 
 # Anneliese's experiment.
 
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
-
-# Demonstrate lac repressor
+Lac repressor
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
-# Show initial results.
+# How should we treat epistasis?
+
+Uncertainty
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
-# Develop an ensemble model?
+# How many measurements for 8-site space?
 
-Yet to be done.
-Cite Jake's paper.
-
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
-
-# High-order epistasis does not work.
+Show
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
-# We are stuck with global epistasis models.
+# Interesting aside
 
-However, we use epistasis as a metric for uncertainty.
-
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
-
-# Let's return to the PfCRT dataset.
+Not many measurements are needed in general.
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
-# We'll try to predict the remaining map.
+# 52 Measurements should be enough
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
-# How do we do?
+# Complete predicted map.
+
+Estimated error rate.
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
-# We estimate the uncertainty in our predictions.
-
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
-
-# We predicted the remaining genotype-phenotype maps.
+# Viable trajectories.
 
 XX of XX trajectories are possible.
 
@@ -231,6 +215,7 @@ XX of XX trajectories are possible.
 
 - Local epistasis models are the wrong model.
 - Epistasis, at this point, is our measure of uncertainty.
+- Few measurements are needed to predict
 - Software is great.
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
@@ -238,18 +223,13 @@ XX of XX trajectories are possible.
 # Future directions
 
 - Variational Auto encoders
-- Better global models
+- Better global models (ensemble model)
+
+Yet to be done.
+Cite Jake's paper.
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
 # Acknowledgements.
 
 The Harms lab
-
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
-
-# High
-
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
-
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
