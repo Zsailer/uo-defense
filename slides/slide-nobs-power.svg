@@ -1379,16 +1379,16 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="0.7"
-     inkscape:cx="910.44127"
+     inkscape:cx="630.44127"
      inkscape:cy="261.33257"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer5"
+     inkscape:current-layer="layer1"
      showgrid="false"
      units="px"
-     inkscape:window-width="1920"
-     inkscape:window-height="1058"
-     inkscape:window-x="1440"
-     inkscape:window-y="0"
+     inkscape:window-width="1440"
+     inkscape:window-height="856"
+     inkscape:window-x="199"
+     inkscape:window-y="1102"
      inkscape:window-maximized="1" />
   <metadata
      id="metadata5">
@@ -1465,7 +1465,7 @@
            y="29.055664"
            style="stroke-linecap:butt;stroke-linejoin:round" /></flowRegion><flowPara
          id="flowPara45"
-         style="stroke-linecap:butt;stroke-linejoin:round">How many genotypes should I measure to reach best my predictions?</flowPara></flowRoot>    <flowRoot
+         style="stroke-linecap:butt;stroke-linejoin:round">How many genotypes should I measure to reach the best predictions?</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot2726"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.33333302px;line-height:1.25;font-family:arial;-inkscape-font-specification:arial;text-align:center;text-anchor:middle;opacity:0.98999999;vector-effect:none;fill:#ff0000;fill-opacity:1;stroke:#060000;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"

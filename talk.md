@@ -4,15 +4,15 @@
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
-# Proteins evolved
+# Proteins evolved.
+
+(Show a diverse set of proteins with cool functions)
 
 This is amazing.
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
-# Evolving proteins must navigate sequence space.
-
-Bar graph showing how overwhelming large sequence space is.
+![sm.inkscape](slides/slide-sequence-space.svg) 111100001,111110001,111111001,111111101,111111111
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
@@ -20,13 +20,33 @@ Bar graph showing how overwhelming large sequence space is.
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
-<!-- John maynard smith's wordgame -->
+<!-- Protein evolution depends on the genotype-phenotype map. (wordgame) -->
 
-![sm.inkscape](slides/slide-wordgame.svg)
+![sm.inkscape](slides/slide-wordgame.svg) 100000,110000,101000,100100,100010,100001
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
-# How do naturally evolving proteins navigate the genotype-phenotype map?
+# To understand how a protein evolved, we must study its genotype-phenotype map.
+
+Why is one mutation taken over another?
+In what order did mutations accumulate?
+What are the physical/chemical determinants of a protein's evolutionary outcome.
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+<!-- Genotype-phenotypes maps are intractable. -->
+
+![sm.inkscape](slides/slide-gpm-size.svg)
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+![sm.inkscape](slides/slide-prediction-is-hard.svg)
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+<!-- Outline talk -->
+
+![sm.inkscape](slides/slide-outline-phd.svg) 10000000000,11000000000,11110000000,10001000000,10001100000,10001111000,10001100000,10000101100,10000101110,10000101111
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
@@ -42,25 +62,23 @@ Bar graph showing how overwhelming large sequence space is.
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
-# Can we predict phenotypes in a sparsely sampled genotype-phenotype map?
+## How did drug resistance evolve in malaria.
 
-## Our goal:
-
-- General model.
-- Fast computation.
-- Quality software.
+1. Predict the genotype-phenotype map
+2. Compare to experimental predictions
+3. Infer evolutionary trajectories to CQ reistances.
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
-![sm.inkscape](slides/slide-model.svg) 100000000000,110000000000,111000000000,111100000000,111110000000,111111000000,111111100000,111111110000,111111111000,111111111100,100000001110,100000001111
+![sm.inkscape](slides/slide-model.svg) 1100000000000,1111000000000,1111110000000,1111111000000,1111111100000,1111111110000,1110101111000,1100000001100,1100000001110,1100000001111
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
-![sm.inkscape](slides/slide-global-intro.svg) 1000,1100,1110,1111
+![sm.inkscape](slides/slide-what-to-do-about-epistasis.svg)
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
-![sm.inkscape](slides/slide-global-model.svg) 1100000000,1110000000,1111000000,1111100000,1011110000,1011111000,1000011000,1000011100,1000011110,1000000111
+![sm.inkscape](slides/slide-global-model.svg) 100000000000,110000000000,111000000000,111100000000,111110000000,111111000000,111111100000,111011110000,111011111000,111000011100,111000011110,111000000111
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
@@ -169,7 +187,15 @@ How many genotypes must I measure to reach my best predictions?
 - Variational Auto encoders
 - Better global models (ensemble model)
 
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+# "Dark" Projects
+
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
 # Acknowledgements.
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+# What's next?

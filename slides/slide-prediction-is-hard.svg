@@ -1,0 +1,1681 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1280"
+   height="720"
+   viewBox="0 0 338.66665 190.50001"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.2 5c3e80d, 2017-08-06"
+   sodipodi:docname="slide-prediction-is-hard.svg">
+  <defs
+     id="defs2"
+     style="stroke-linecap:butt;stroke-linejoin:round">
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible;"
+       id="marker3264"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow2Send">
+      <path
+         transform="scale(0.3) rotate(180) translate(-2.3,0)"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#d40000;stroke-opacity:0.99215686;fill:#d40000;fill-opacity:0.99215686"
+         id="path3262" />
+    </marker>
+    <linearGradient
+       id="linearGradient849"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#a3f7bf;stop-opacity:1;"
+         offset="0"
+         id="stop847" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient843"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#29a19c;stop-opacity:1;"
+         offset="0"
+         id="stop841" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient2300"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#27323a;stop-opacity:1;"
+         offset="0"
+         id="stop2298" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient2292"
+       osb:paint="solid"
+       gradientTransform="matrix(0.32979754,0,0,0.32979754,65.50516,204.39402)">
+      <stop
+         style="stop-color:#435055;stop-opacity:1;"
+         offset="0"
+         id="stop2290" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient2284">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop2282" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient844">
+      <stop
+         style="stop-color:#e39393;stop-opacity:1;"
+         offset="0"
+         id="stop842" />
+    </linearGradient>
+    <style
+       id="style1401"
+       type="text/css">
+*{stroke-linecap:butt;stroke-linejoin:round;}
+  </style>
+    <path
+       id="C0_0_9507c96404"
+       d="M 0,7.905694 C 2.096615,7.905694 4.10764,7.0727 5.59017,5.59017 7.0727,4.10764 7.905694,2.096615 7.905694,0 7.905694,-2.096615 7.0727,-4.10764 5.59017,-5.59017 4.10764,-7.0727 2.096615,-7.905694 0,-7.905694 c -2.096615,0 -4.10764,0.832994 -5.59017,2.315524 C -7.0727,-4.10764 -7.905694,-2.096615 -7.905694,0 c 0,2.096615 0.832994,4.10764 2.315524,5.59017 C -4.10764,7.0727 -2.096615,7.905694 0,7.905694 Z"
+       inkscape:connector-curvature="0"
+       style="stroke-linecap:butt;stroke-linejoin:round" />
+    <clipPath
+       id="pc55a0a36cc"
+       style="stroke-linecap:butt;stroke-linejoin:round">
+      <rect
+         id="rect1868"
+         y="10.7"
+         x="10.7"
+         width="251.10001"
+         height="203.85001"
+         style="stroke-linecap:butt;stroke-linejoin:round" />
+    </clipPath>
+    <style
+       id="style3906"
+       type="text/css">
+*{stroke-linecap:butt;stroke-linejoin:round;}
+  </style>
+    <path
+       id="C0_0_010ed3f120"
+       d="m 0,6.123724 c 1.624031,0 3.181764,-0.645234 4.330127,-1.793597 C 5.47849,3.181764 6.123724,1.624031 6.123724,0 6.123724,-1.624031 5.47849,-3.181764 4.330127,-4.330127 3.181764,-5.47849 1.624031,-6.123724 0,-6.123724 c -1.624031,0 -3.181764,0.645234 -4.330127,1.793597 C -5.47849,-3.181764 -6.123724,-1.624031 -6.123724,0 c 0,1.624031 0.645234,3.181764 1.793597,4.330127 C -3.181764,5.47849 -1.624031,6.123724 0,6.123724 Z"
+       inkscape:connector-curvature="0"
+       style="stroke-linecap:butt;stroke-linejoin:round" />
+    <clipPath
+       id="p7796a10713"
+       style="stroke-linecap:butt;stroke-linejoin:round">
+      <rect
+         id="rect4949"
+         y="10.7"
+         x="10.7"
+         width="390.60001"
+         height="203.85001"
+         style="stroke-linecap:butt;stroke-linejoin:round" />
+    </clipPath>
+    <clipPath
+       id="pcb4d494126-7-1">
+      <rect
+         id="rect2510-6-7"
+         y="10.7"
+         x="10.7"
+         width="279"
+         height="203.85001" />
+    </clipPath>
+    <clipPath
+       id="clipPath2394">
+      <rect
+         id="rect2392"
+         y="10.7"
+         x="10.7"
+         width="279"
+         height="203.85001" />
+    </clipPath>
+    <clipPath
+       id="clipPath2398">
+      <rect
+         id="rect2396"
+         y="10.7"
+         x="10.7"
+         width="279"
+         height="203.85001" />
+    </clipPath>
+    <clipPath
+       id="clipPath2402">
+      <rect
+         id="rect2400"
+         y="10.7"
+         x="10.7"
+         width="279"
+         height="203.85001" />
+    </clipPath>
+    <linearGradient
+       id="linearGradient5881"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#d40000;stop-opacity:1;"
+         offset="0"
+         id="stop5879" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5881"
+       id="linearGradient19056"
+       gradientUnits="userSpaceOnUse"
+       x1="207.97832"
+       y1="87.477562"
+       x2="232.89684"
+       y2="87.477562"
+       gradientTransform="translate(-2.0337291e-7,-3.4709076e-6)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5881"
+       id="linearGradient19054"
+       gradientUnits="userSpaceOnUse"
+       x1="176.61652"
+       y1="87.423767"
+       x2="201.49762"
+       y2="87.423767"
+       gradientTransform="translate(-2.0337291e-7,-3.4709076e-6)" />
+    <clipPath
+       id="clipPath2442">
+      <rect
+         id="rect2440"
+         y="10.7"
+         x="10.7"
+         width="279"
+         height="203.85001" />
+    </clipPath>
+    <clipPath
+       id="clipPath2451">
+      <rect
+         id="rect2449"
+         y="10.7"
+         x="10.7"
+         width="279"
+         height="203.85001" />
+    </clipPath>
+    <clipPath
+       id="clipPath2460">
+      <rect
+         id="rect2458"
+         y="10.7"
+         x="10.7"
+         width="279"
+         height="203.85001" />
+    </clipPath>
+    <clipPath
+       id="clipPath2469">
+      <rect
+         id="rect2467"
+         y="10.7"
+         x="10.7"
+         width="279"
+         height="203.85001" />
+    </clipPath>
+    <clipPath
+       id="clipPath2478">
+      <rect
+         id="rect2476"
+         y="10.7"
+         x="10.7"
+         width="279"
+         height="203.85001" />
+    </clipPath>
+    <clipPath
+       id="clipPath2487">
+      <rect
+         id="rect2485"
+         y="10.7"
+         x="10.7"
+         width="279"
+         height="203.85001" />
+    </clipPath>
+    <clipPath
+       id="clipPath2496">
+      <rect
+         id="rect2494"
+         y="10.7"
+         x="10.7"
+         width="279"
+         height="203.85001" />
+    </clipPath>
+    <clipPath
+       id="clipPath2505">
+      <rect
+         id="rect2503"
+         y="10.7"
+         x="10.7"
+         width="279"
+         height="203.85001" />
+    </clipPath>
+    <clipPath
+       id="clipPath2514">
+      <rect
+         id="rect2512"
+         y="10.7"
+         x="10.7"
+         width="279"
+         height="203.85001" />
+    </clipPath>
+    <clipPath
+       id="clipPath2523">
+      <rect
+         id="rect2521"
+         y="10.7"
+         x="10.7"
+         width="279"
+         height="203.85001" />
+    </clipPath>
+    <clipPath
+       id="clipPath2532">
+      <rect
+         id="rect2530"
+         y="10.7"
+         x="10.7"
+         width="279"
+         height="203.85001" />
+    </clipPath>
+    <clipPath
+       id="clipPath2541">
+      <rect
+         id="rect2539"
+         y="10.7"
+         x="10.7"
+         width="279"
+         height="203.85001" />
+    </clipPath>
+    <clipPath
+       id="clipPath2550">
+      <rect
+         id="rect2548"
+         y="10.7"
+         x="10.7"
+         width="279"
+         height="203.85001" />
+    </clipPath>
+    <clipPath
+       id="clipPath2559">
+      <rect
+         id="rect2557"
+         y="10.7"
+         x="10.7"
+         width="279"
+         height="203.85001" />
+    </clipPath>
+    <clipPath
+       id="clipPath2568">
+      <rect
+         id="rect2566"
+         y="10.7"
+         x="10.7"
+         width="279"
+         height="203.85001" />
+    </clipPath>
+    <clipPath
+       id="clipPath2577">
+      <rect
+         id="rect2575"
+         y="10.7"
+         x="10.7"
+         width="279"
+         height="203.85001" />
+    </clipPath>
+    <clipPath
+       id="clipPath2586">
+      <rect
+         id="rect2584"
+         y="10.7"
+         x="10.7"
+         width="279"
+         height="203.85001" />
+    </clipPath>
+    <clipPath
+       id="clipPath2595">
+      <rect
+         id="rect2593"
+         y="10.7"
+         x="10.7"
+         width="279"
+         height="203.85001" />
+    </clipPath>
+    <clipPath
+       id="clipPath2604">
+      <rect
+         id="rect2602"
+         y="10.7"
+         x="10.7"
+         width="279"
+         height="203.85001" />
+    </clipPath>
+    <clipPath
+       id="clipPath2613">
+      <rect
+         id="rect2611"
+         y="10.7"
+         x="10.7"
+         width="279"
+         height="203.85001" />
+    </clipPath>
+    <clipPath
+       id="clipPath2622">
+      <rect
+         id="rect2620"
+         y="10.7"
+         x="10.7"
+         width="279"
+         height="203.85001" />
+    </clipPath>
+    <clipPath
+       id="clipPath2631">
+      <rect
+         id="rect2629"
+         y="10.7"
+         x="10.7"
+         width="279"
+         height="203.85001" />
+    </clipPath>
+    <clipPath
+       id="clipPath2640">
+      <rect
+         id="rect2638"
+         y="10.7"
+         x="10.7"
+         width="279"
+         height="203.85001" />
+    </clipPath>
+    <clipPath
+       id="clipPath2649">
+      <rect
+         id="rect2647"
+         y="10.7"
+         x="10.7"
+         width="279"
+         height="203.85001" />
+    </clipPath>
+    <clipPath
+       id="clipPath2658">
+      <rect
+         id="rect2656"
+         y="10.7"
+         x="10.7"
+         width="279"
+         height="203.85001" />
+    </clipPath>
+    <clipPath
+       id="clipPath2667">
+      <rect
+         id="rect2665"
+         y="10.7"
+         x="10.7"
+         width="279"
+         height="203.85001" />
+    </clipPath>
+    <clipPath
+       id="clipPath2676">
+      <rect
+         id="rect2674"
+         y="10.7"
+         x="10.7"
+         width="279"
+         height="203.85001" />
+    </clipPath>
+    <clipPath
+       id="clipPath2685">
+      <rect
+         id="rect2683"
+         y="10.7"
+         x="10.7"
+         width="279"
+         height="203.85001" />
+    </clipPath>
+    <clipPath
+       id="clipPath2694">
+      <rect
+         id="rect2692"
+         y="10.7"
+         x="10.7"
+         width="279"
+         height="203.85001" />
+    </clipPath>
+    <clipPath
+       id="clipPath2703">
+      <rect
+         id="rect2701"
+         y="10.7"
+         x="10.7"
+         width="279"
+         height="203.85001" />
+    </clipPath>
+    <clipPath
+       id="clipPath2712">
+      <rect
+         id="rect2710"
+         y="10.7"
+         x="10.7"
+         width="279"
+         height="203.85001" />
+    </clipPath>
+    <clipPath
+       id="clipPath2721">
+      <rect
+         id="rect2719"
+         y="10.7"
+         x="10.7"
+         width="279"
+         height="203.85001" />
+    </clipPath>
+    <clipPath
+       id="clipPath2730">
+      <rect
+         id="rect2728"
+         y="10.7"
+         x="10.7"
+         width="279"
+         height="203.85001" />
+    </clipPath>
+    <clipPath
+       id="clipPath2739">
+      <rect
+         id="rect2737"
+         y="10.7"
+         x="10.7"
+         width="279"
+         height="203.85001" />
+    </clipPath>
+    <clipPath
+       id="clipPath2748">
+      <rect
+         id="rect2746"
+         y="10.7"
+         x="10.7"
+         width="279"
+         height="203.85001" />
+    </clipPath>
+    <clipPath
+       id="clipPath2757">
+      <rect
+         id="rect2755"
+         y="10.7"
+         x="10.7"
+         width="279"
+         height="203.85001" />
+    </clipPath>
+    <clipPath
+       id="clipPath2766">
+      <rect
+         id="rect2764"
+         y="10.7"
+         x="10.7"
+         width="279"
+         height="203.85001" />
+    </clipPath>
+    <clipPath
+       id="clipPath2775">
+      <rect
+         id="rect2773"
+         y="10.7"
+         x="10.7"
+         width="279"
+         height="203.85001" />
+    </clipPath>
+    <clipPath
+       id="clipPath2784">
+      <rect
+         id="rect2782"
+         y="10.7"
+         x="10.7"
+         width="279"
+         height="203.85001" />
+    </clipPath>
+    <clipPath
+       id="clipPath2793">
+      <rect
+         id="rect2791"
+         y="10.7"
+         x="10.7"
+         width="279"
+         height="203.85001" />
+    </clipPath>
+    <clipPath
+       id="clipPath2802">
+      <rect
+         id="rect2800"
+         y="10.7"
+         x="10.7"
+         width="279"
+         height="203.85001" />
+    </clipPath>
+    <clipPath
+       id="clipPath2811">
+      <rect
+         id="rect2809"
+         y="10.7"
+         x="10.7"
+         width="279"
+         height="203.85001" />
+    </clipPath>
+    <clipPath
+       id="clipPath2820">
+      <rect
+         id="rect2818"
+         y="10.7"
+         x="10.7"
+         width="279"
+         height="203.85001" />
+    </clipPath>
+    <clipPath
+       id="clipPath2829">
+      <rect
+         id="rect2827"
+         y="10.7"
+         x="10.7"
+         width="279"
+         height="203.85001" />
+    </clipPath>
+    <clipPath
+       id="clipPath2838">
+      <rect
+         id="rect2836"
+         y="10.7"
+         x="10.7"
+         width="279"
+         height="203.85001" />
+    </clipPath>
+    <clipPath
+       id="clipPath2847">
+      <rect
+         id="rect2845"
+         y="10.7"
+         x="10.7"
+         width="279"
+         height="203.85001" />
+    </clipPath>
+    <clipPath
+       id="clipPath2856">
+      <rect
+         id="rect2854"
+         y="10.7"
+         x="10.7"
+         width="279"
+         height="203.85001" />
+    </clipPath>
+    <clipPath
+       id="clipPath2865">
+      <rect
+         id="rect2863"
+         y="10.7"
+         x="10.7"
+         width="279"
+         height="203.85001" />
+    </clipPath>
+    <clipPath
+       id="clipPath2874">
+      <rect
+         id="rect2872"
+         y="10.7"
+         x="10.7"
+         width="279"
+         height="203.85001" />
+    </clipPath>
+    <clipPath
+       id="clipPath2883">
+      <rect
+         id="rect2881"
+         y="10.7"
+         x="10.7"
+         width="279"
+         height="203.85001" />
+    </clipPath>
+    <clipPath
+       id="clipPath2892">
+      <rect
+         id="rect2890"
+         y="10.7"
+         x="10.7"
+         width="279"
+         height="203.85001" />
+    </clipPath>
+    <clipPath
+       id="clipPath2901">
+      <rect
+         id="rect2899"
+         y="10.7"
+         x="10.7"
+         width="279"
+         height="203.85001" />
+    </clipPath>
+    <clipPath
+       id="clipPath2910">
+      <rect
+         id="rect2908"
+         y="10.7"
+         x="10.7"
+         width="279"
+         height="203.85001" />
+    </clipPath>
+    <clipPath
+       id="clipPath2919">
+      <rect
+         id="rect2917"
+         y="10.7"
+         x="10.7"
+         width="279"
+         height="203.85001" />
+    </clipPath>
+    <clipPath
+       id="clipPath2928">
+      <rect
+         id="rect2926"
+         y="10.7"
+         x="10.7"
+         width="279"
+         height="203.85001" />
+    </clipPath>
+    <clipPath
+       id="clipPath2937">
+      <rect
+         id="rect2935"
+         y="10.7"
+         x="10.7"
+         width="279"
+         height="203.85001" />
+    </clipPath>
+    <clipPath
+       id="clipPath2946">
+      <rect
+         id="rect2944"
+         y="10.7"
+         x="10.7"
+         width="279"
+         height="203.85001" />
+    </clipPath>
+    <clipPath
+       id="clipPath2955">
+      <rect
+         id="rect2953"
+         y="10.7"
+         x="10.7"
+         width="279"
+         height="203.85001" />
+    </clipPath>
+    <clipPath
+       id="clipPath2964">
+      <rect
+         id="rect2962"
+         y="10.7"
+         x="10.7"
+         width="279"
+         height="203.85001" />
+    </clipPath>
+    <clipPath
+       id="clipPath2973">
+      <rect
+         id="rect2971"
+         y="10.7"
+         x="10.7"
+         width="279"
+         height="203.85001" />
+    </clipPath>
+    <clipPath
+       id="pcb4d494126-4-2">
+      <rect
+         id="rect2510-5-2"
+         y="10.7"
+         x="10.7"
+         width="279"
+         height="203.85001" />
+    </clipPath>
+    <clipPath
+       id="clipPath2994">
+      <rect
+         id="rect2992"
+         y="10.7"
+         x="10.7"
+         width="279"
+         height="203.85001" />
+    </clipPath>
+    <clipPath
+       id="clipPath3003">
+      <rect
+         id="rect3001"
+         y="10.7"
+         x="10.7"
+         width="279"
+         height="203.85001" />
+    </clipPath>
+    <clipPath
+       id="clipPath3012">
+      <rect
+         id="rect3010"
+         y="10.7"
+         x="10.7"
+         width="279"
+         height="203.85001" />
+    </clipPath>
+    <clipPath
+       id="clipPath3021">
+      <rect
+         id="rect3019"
+         y="10.7"
+         x="10.7"
+         width="279"
+         height="203.85001" />
+    </clipPath>
+    <clipPath
+       id="clipPath3030">
+      <rect
+         id="rect3028"
+         y="10.7"
+         x="10.7"
+         width="279"
+         height="203.85001" />
+    </clipPath>
+    <clipPath
+       id="clipPath3039">
+      <rect
+         id="rect3037"
+         y="10.7"
+         x="10.7"
+         width="279"
+         height="203.85001" />
+    </clipPath>
+    <clipPath
+       id="clipPath3048">
+      <rect
+         id="rect3046"
+         y="10.7"
+         x="10.7"
+         width="279"
+         height="203.85001" />
+    </clipPath>
+    <clipPath
+       id="clipPath3057">
+      <rect
+         id="rect3055"
+         y="10.7"
+         x="10.7"
+         width="279"
+         height="203.85001" />
+    </clipPath>
+    <clipPath
+       id="clipPath3066">
+      <rect
+         id="rect3064"
+         y="10.7"
+         x="10.7"
+         width="279"
+         height="203.85001" />
+    </clipPath>
+    <clipPath
+       id="clipPath3075">
+      <rect
+         id="rect3073"
+         y="10.7"
+         x="10.7"
+         width="279"
+         height="203.85001" />
+    </clipPath>
+    <clipPath
+       id="clipPath3084">
+      <rect
+         id="rect3082"
+         y="10.7"
+         x="10.7"
+         width="279"
+         height="203.85001" />
+    </clipPath>
+    <clipPath
+       id="clipPath3093">
+      <rect
+         id="rect3091"
+         y="10.7"
+         x="10.7"
+         width="279"
+         height="203.85001" />
+    </clipPath>
+    <clipPath
+       id="clipPath3102">
+      <rect
+         id="rect3100"
+         y="10.7"
+         x="10.7"
+         width="279"
+         height="203.85001" />
+    </clipPath>
+    <clipPath
+       id="clipPath3111">
+      <rect
+         id="rect3109"
+         y="10.7"
+         x="10.7"
+         width="279"
+         height="203.85001" />
+    </clipPath>
+    <clipPath
+       id="clipPath3120">
+      <rect
+         id="rect3118"
+         y="10.7"
+         x="10.7"
+         width="279"
+         height="203.85001" />
+    </clipPath>
+    <clipPath
+       id="clipPath3129">
+      <rect
+         id="rect3127"
+         y="10.7"
+         x="10.7"
+         width="279"
+         height="203.85001" />
+    </clipPath>
+    <clipPath
+       id="clipPath3138">
+      <rect
+         id="rect3136"
+         y="10.7"
+         x="10.7"
+         width="279"
+         height="203.85001" />
+    </clipPath>
+    <clipPath
+       id="clipPath3147">
+      <rect
+         id="rect3145"
+         y="10.7"
+         x="10.7"
+         width="279"
+         height="203.85001" />
+    </clipPath>
+    <clipPath
+       id="clipPath3156">
+      <rect
+         id="rect3154"
+         y="10.7"
+         x="10.7"
+         width="279"
+         height="203.85001" />
+    </clipPath>
+    <clipPath
+       id="clipPath3165">
+      <rect
+         id="rect3163"
+         y="10.7"
+         x="10.7"
+         width="279"
+         height="203.85001" />
+    </clipPath>
+    <clipPath
+       id="clipPath3174">
+      <rect
+         id="rect3172"
+         y="10.7"
+         x="10.7"
+         width="279"
+         height="203.85001" />
+    </clipPath>
+    <clipPath
+       id="clipPath3183">
+      <rect
+         id="rect3181"
+         y="10.7"
+         x="10.7"
+         width="279"
+         height="203.85001" />
+    </clipPath>
+    <clipPath
+       id="clipPath3192">
+      <rect
+         id="rect3190"
+         y="10.7"
+         x="10.7"
+         width="279"
+         height="203.85001" />
+    </clipPath>
+    <clipPath
+       id="clipPath3201">
+      <rect
+         id="rect3199"
+         y="10.7"
+         x="10.7"
+         width="279"
+         height="203.85001" />
+    </clipPath>
+    <clipPath
+       id="clipPath3210">
+      <rect
+         id="rect3208"
+         y="10.7"
+         x="10.7"
+         width="279"
+         height="203.85001" />
+    </clipPath>
+    <clipPath
+       id="clipPath3219">
+      <rect
+         id="rect3217"
+         y="10.7"
+         x="10.7"
+         width="279"
+         height="203.85001" />
+    </clipPath>
+    <clipPath
+       id="clipPath3228">
+      <rect
+         id="rect3226"
+         y="10.7"
+         x="10.7"
+         width="279"
+         height="203.85001" />
+    </clipPath>
+    <clipPath
+       id="clipPath3237">
+      <rect
+         id="rect3235"
+         y="10.7"
+         x="10.7"
+         width="279"
+         height="203.85001" />
+    </clipPath>
+    <clipPath
+       id="clipPath3246">
+      <rect
+         id="rect3244"
+         y="10.7"
+         x="10.7"
+         width="279"
+         height="203.85001" />
+    </clipPath>
+    <clipPath
+       id="clipPath3255">
+      <rect
+         id="rect3253"
+         y="10.7"
+         x="10.7"
+         width="279"
+         height="203.85001" />
+    </clipPath>
+    <clipPath
+       id="clipPath3264">
+      <rect
+         id="rect3262"
+         y="10.7"
+         x="10.7"
+         width="279"
+         height="203.85001" />
+    </clipPath>
+    <clipPath
+       id="clipPath3273">
+      <rect
+         id="rect3271"
+         y="10.7"
+         x="10.7"
+         width="279"
+         height="203.85001" />
+    </clipPath>
+    <clipPath
+       id="clipPath3282">
+      <rect
+         id="rect3280"
+         y="10.7"
+         x="10.7"
+         width="279"
+         height="203.85001" />
+    </clipPath>
+    <clipPath
+       id="clipPath3291">
+      <rect
+         id="rect3289"
+         y="10.7"
+         x="10.7"
+         width="279"
+         height="203.85001" />
+    </clipPath>
+    <clipPath
+       id="clipPath3300">
+      <rect
+         id="rect3298"
+         y="10.7"
+         x="10.7"
+         width="279"
+         height="203.85001" />
+    </clipPath>
+    <clipPath
+       id="clipPath3309">
+      <rect
+         id="rect3307"
+         y="10.7"
+         x="10.7"
+         width="279"
+         height="203.85001" />
+    </clipPath>
+    <clipPath
+       id="clipPath3318">
+      <rect
+         id="rect3316"
+         y="10.7"
+         x="10.7"
+         width="279"
+         height="203.85001" />
+    </clipPath>
+    <clipPath
+       id="clipPath3327">
+      <rect
+         id="rect3325"
+         y="10.7"
+         x="10.7"
+         width="279"
+         height="203.85001" />
+    </clipPath>
+    <clipPath
+       id="clipPath3336">
+      <rect
+         id="rect3334"
+         y="10.7"
+         x="10.7"
+         width="279"
+         height="203.85001" />
+    </clipPath>
+    <clipPath
+       id="clipPath3345">
+      <rect
+         id="rect3343"
+         y="10.7"
+         x="10.7"
+         width="279"
+         height="203.85001" />
+    </clipPath>
+    <clipPath
+       id="clipPath3354">
+      <rect
+         id="rect3352"
+         y="10.7"
+         x="10.7"
+         width="279"
+         height="203.85001" />
+    </clipPath>
+    <clipPath
+       id="clipPath3363">
+      <rect
+         id="rect3361"
+         y="10.7"
+         x="10.7"
+         width="279"
+         height="203.85001" />
+    </clipPath>
+    <clipPath
+       id="clipPath3372">
+      <rect
+         id="rect3370"
+         y="10.7"
+         x="10.7"
+         width="279"
+         height="203.85001" />
+    </clipPath>
+    <clipPath
+       id="clipPath3381">
+      <rect
+         id="rect3379"
+         y="10.7"
+         x="10.7"
+         width="279"
+         height="203.85001" />
+    </clipPath>
+    <clipPath
+       id="clipPath3390">
+      <rect
+         id="rect3388"
+         y="10.7"
+         x="10.7"
+         width="279"
+         height="203.85001" />
+    </clipPath>
+    <clipPath
+       id="clipPath3399">
+      <rect
+         id="rect3397"
+         y="10.7"
+         x="10.7"
+         width="279"
+         height="203.85001" />
+    </clipPath>
+    <clipPath
+       id="clipPath3408">
+      <rect
+         id="rect3406"
+         y="10.7"
+         x="10.7"
+         width="279"
+         height="203.85001" />
+    </clipPath>
+    <clipPath
+       id="clipPath3417">
+      <rect
+         id="rect3415"
+         y="10.7"
+         x="10.7"
+         width="279"
+         height="203.85001" />
+    </clipPath>
+    <clipPath
+       id="clipPath3426">
+      <rect
+         id="rect3424"
+         y="10.7"
+         x="10.7"
+         width="279"
+         height="203.85001" />
+    </clipPath>
+    <clipPath
+       id="clipPath3435">
+      <rect
+         id="rect3433"
+         y="10.7"
+         x="10.7"
+         width="279"
+         height="203.85001" />
+    </clipPath>
+    <clipPath
+       id="clipPath3444">
+      <rect
+         id="rect3442"
+         y="10.7"
+         x="10.7"
+         width="279"
+         height="203.85001" />
+    </clipPath>
+    <clipPath
+       id="clipPath3453">
+      <rect
+         id="rect3451"
+         y="10.7"
+         x="10.7"
+         width="279"
+         height="203.85001" />
+    </clipPath>
+    <clipPath
+       id="clipPath3462">
+      <rect
+         id="rect3460"
+         y="10.7"
+         x="10.7"
+         width="279"
+         height="203.85001" />
+    </clipPath>
+    <clipPath
+       id="clipPath3471">
+      <rect
+         id="rect3469"
+         y="10.7"
+         x="10.7"
+         width="279"
+         height="203.85001" />
+    </clipPath>
+    <clipPath
+       id="clipPath3480">
+      <rect
+         id="rect3478"
+         y="10.7"
+         x="10.7"
+         width="279"
+         height="203.85001" />
+    </clipPath>
+    <clipPath
+       id="clipPath3489">
+      <rect
+         id="rect3487"
+         y="10.7"
+         x="10.7"
+         width="279"
+         height="203.85001" />
+    </clipPath>
+    <clipPath
+       id="clipPath3498">
+      <rect
+         id="rect3496"
+         y="10.7"
+         x="10.7"
+         width="279"
+         height="203.85001" />
+    </clipPath>
+    <clipPath
+       id="clipPath3507">
+      <rect
+         id="rect3505"
+         y="10.7"
+         x="10.7"
+         width="279"
+         height="203.85001" />
+    </clipPath>
+    <clipPath
+       id="clipPath3516">
+      <rect
+         id="rect3514"
+         y="10.7"
+         x="10.7"
+         width="279"
+         height="203.85001" />
+    </clipPath>
+    <clipPath
+       id="clipPath3525">
+      <rect
+         id="rect3523"
+         y="10.7"
+         x="10.7"
+         width="279"
+         height="203.85001" />
+    </clipPath>
+    <clipPath
+       id="clipPath3534">
+      <rect
+         id="rect3532"
+         y="10.7"
+         x="10.7"
+         width="279"
+         height="203.85001" />
+    </clipPath>
+    <clipPath
+       id="clipPath3543">
+      <rect
+         id="rect3541"
+         y="10.7"
+         x="10.7"
+         width="279"
+         height="203.85001" />
+    </clipPath>
+    <clipPath
+       id="clipPath3552">
+      <rect
+         id="rect3550"
+         y="10.7"
+         x="10.7"
+         width="279"
+         height="203.85001" />
+    </clipPath>
+    <clipPath
+       id="clipPath3556">
+      <rect
+         id="rect3554"
+         y="10.7"
+         x="10.7"
+         width="279"
+         height="203.85001" />
+    </clipPath>
+    <clipPath
+       id="clipPath3560">
+      <rect
+         id="rect3558"
+         y="10.7"
+         x="10.7"
+         width="279"
+         height="203.85001" />
+    </clipPath>
+    <clipPath
+       id="clipPath3564">
+      <rect
+         id="rect3562"
+         y="10.7"
+         x="10.7"
+         width="279"
+         height="203.85001" />
+    </clipPath>
+    <clipPath
+       id="clipPath3568">
+      <rect
+         id="rect3566"
+         y="10.7"
+         x="10.7"
+         width="279"
+         height="203.85001" />
+    </clipPath>
+    <clipPath
+       id="clipPath3572">
+      <rect
+         id="rect3570"
+         y="10.7"
+         x="10.7"
+         width="279"
+         height="203.85001" />
+    </clipPath>
+    <clipPath
+       id="clipPath3576">
+      <rect
+         id="rect3574"
+         y="10.7"
+         x="10.7"
+         width="279"
+         height="203.85001" />
+    </clipPath>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker3264-7"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Send">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(-0.3,0,0,-0.3,0.69,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#5c5c5c;fill-opacity:1;fill-rule:evenodd;stroke:#5c5c5c;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path3262-3" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker3264-7-3"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Send">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(-0.3,0,0,-0.3,0.69,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#d40000;fill-opacity:0.99215686;fill-rule:evenodd;stroke:#d40000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:0.99215686"
+         id="path3262-3-9" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker3264-7-3-7"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Send">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(-0.3,0,0,-0.3,0.69,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#5c5c5c;fill-opacity:1;fill-rule:evenodd;stroke:#5c5c5c;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path3262-3-9-0" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="1"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.49497475"
+     inkscape:cx="606.01891"
+     inkscape:cy="-42.30791"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="1758"
+     inkscape:window-height="1049"
+     inkscape:window-x="1604"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:snap-global="false" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-106.49997)"
+     style="stroke-linecap:butt;stroke-linejoin:round">
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot16"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.33333302px;line-height:1.25;font-family:roboto;-inkscape-font-specification:roboto;text-align:start;text-anchor:start;opacity:0.98999999;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:6.66666651;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.5"
+       transform="matrix(0.26458333,0,0,0.26458333,0,111.79164)"><flowRegion
+         id="flowRegion18"
+         style="stroke-linecap:butt;stroke-linejoin:round"><rect
+           id="rect20"
+           width="212.13203"
+           height="135.36044"
+           x="284.86301"
+           y="269.67502"
+           style="stroke-linecap:butt;stroke-linejoin:round" /></flowRegion><flowPara
+         id="flowPara22"
+         style="stroke-linecap:butt;stroke-linejoin:round" /></flowRoot>    <g
+       id="matplotlib.axis_1"
+       style="stroke-linecap:butt;stroke-linejoin:round"
+       transform="matrix(0.35277779,0,0,0.35277779,-22.408101,188.31284)" />
+    <g
+       id="matplotlib.axis_2"
+       style="stroke-linecap:butt;stroke-linejoin:round"
+       transform="matrix(0.35277779,0,0,0.35277779,-22.408101,188.31284)" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot2120"
+       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:40px;line-height:1;font-family:Roboto;-inkscape-font-specification:'Roboto Light';text-align:end;text-anchor:end;opacity:0.98999999;vector-effect:none;fill:#a3f7bf;fill-opacity:1;stroke:none;stroke-width:6.66666651;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.5"><flowRegion
+         id="flowRegion2122"
+         style="stroke-linecap:butt;stroke-linejoin:round"><rect
+           id="rect2124"
+           width="705.21924"
+           height="78.703918"
+           x="42.426407"
+           y="477.85443"
+           style="stroke-linecap:butt;stroke-linejoin:round" /></flowRegion><flowPara
+         id="flowPara2126"
+         style="stroke-linecap:butt;stroke-linejoin:round" /></flowRoot>    <g
+       id="matplotlib.axis_1-7"
+       style="stroke-linecap:butt;stroke-linejoin:round"
+       transform="matrix(0.35277778,0,0,0.35277778,-69.64841,183.18504)" />
+    <g
+       id="matplotlib.axis_2-9"
+       style="stroke-linecap:butt;stroke-linejoin:round"
+       transform="matrix(0.35277778,0,0,0.35277778,-69.64841,183.18504)" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot844"
+       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:26.66666603px;line-height:1.25;font-family:roboto;-inkscape-font-specification:'roboto Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;writing-mode:lr-tb;text-anchor:end;opacity:0.98999999;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:5.33333349;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.99215686"
+       transform="matrix(0.38425408,0,0,0.38425408,-100.01523,60.776125)"><flowRegion
+         id="flowRegion846"
+         style="stroke-linecap:butt;stroke-linejoin:round"><rect
+           id="rect848"
+           width="800.04077"
+           height="250.51784"
+           x="282.84271"
+           y="142.19275"
+           style="stroke-linecap:butt;stroke-linejoin:round" /></flowRegion><flowPara
+         id="flowPara850"
+         style="stroke-linecap:butt;stroke-linejoin:round">We need computational tools to predict genotype-phenotype maps</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot852"
+       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:26.66666603px;line-height:1.25;font-family:roboto;-inkscape-font-specification:'roboto Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;writing-mode:lr-tb;text-anchor:end;opacity:0.98999999;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:5.33333349;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.99215686"
+       transform="matrix(0.39011092,0,0,0.39011092,-305.36138,138.13991)"><flowRegion
+         id="flowRegion854"
+         style="stroke-linecap:butt;stroke-linejoin:round"><rect
+           id="rect856"
+           width="1078.8429"
+           height="117.17769"
+           x="319.20819"
+           y="358.36539"
+           style="stroke-linecap:butt;stroke-linejoin:round" /></flowRegion><flowPara
+         id="flowPara858"
+         style="stroke-linecap:butt;stroke-linejoin:round">Epistasis makes prediction hard.</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot2892"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.66666603px;line-height:1.25;font-family:xkcd;-inkscape-font-specification:xkcd;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;writing-mode:lr-tb;text-anchor:end;opacity:0.98999999;vector-effect:none;fill:#d40000;fill-opacity:1;stroke:none;stroke-width:5.33333349;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.99215686"
+       transform="matrix(0.42878784,0,0,0.42878784,-253.4394,-19.602861)"><flowRegion
+         id="flowRegion2894"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:xkcd;-inkscape-font-specification:xkcd;fill:#d40000;stroke-linecap:butt;stroke-linejoin:round"><rect
+           id="rect2896"
+           width="442.85715"
+           height="302.85715"
+           x="248.57143"
+           y="408.57144"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:xkcd;-inkscape-font-specification:xkcd;fill:#d40000;stroke-linecap:butt;stroke-linejoin:round" /></flowRegion><flowPara
+         id="flowPara2898"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:xkcd;-inkscape-font-specification:xkcd;fill:#d40000;stroke-linecap:butt;stroke-linejoin:round">GENE</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot2892-9"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.66666603px;line-height:1.25;font-family:xkcd;-inkscape-font-specification:xkcd;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;writing-mode:lr-tb;text-anchor:end;opacity:0.98999999;vector-effect:none;fill:#d40000;fill-opacity:1;stroke:none;stroke-width:5.33333349;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.99215686"
+       transform="matrix(0.42878784,0,0,0.42878784,-249.99845,45.014977)"><flowRegion
+         id="flowRegion2894-3"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:xkcd;-inkscape-font-specification:xkcd;fill:#d40000;stroke-linecap:butt;stroke-linejoin:round"><rect
+           id="rect2896-8"
+           width="442.85715"
+           height="302.85715"
+           x="248.57143"
+           y="408.57144"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:xkcd;-inkscape-font-specification:xkcd;fill:#d40000;stroke-linecap:butt;stroke-linejoin:round" /></flowRegion><flowPara
+         id="flowPara2898-0"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:xkcd;-inkscape-font-specification:xkcd;fill:#d40000;stroke-linecap:butt;stroke-linejoin:round">GONE</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot2892-2"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.66666603px;line-height:1.25;font-family:xkcd;-inkscape-font-specification:xkcd;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;writing-mode:lr-tb;text-anchor:end;opacity:0.98999999;vector-effect:none;fill:#5c5c5c;fill-opacity:1;stroke:none;stroke-width:5.33333349;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.99215686"
+       transform="matrix(0.42878784,0,0,0.42878784,-168.73791,-20.208986)"><flowRegion
+         id="flowRegion2894-4"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:xkcd;-inkscape-font-specification:xkcd;fill:#5c5c5c;fill-opacity:1;stroke-linecap:butt;stroke-linejoin:round"><rect
+           id="rect2896-83"
+           width="442.85715"
+           height="302.85715"
+           x="248.57143"
+           y="408.57144"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:xkcd;-inkscape-font-specification:xkcd;fill:#5c5c5c;fill-opacity:1;stroke-linecap:butt;stroke-linejoin:round" /></flowRegion><flowPara
+         id="flowPara2898-9"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:xkcd;-inkscape-font-specification:xkcd;fill:#5c5c5c;fill-opacity:1;stroke-linecap:butt;stroke-linejoin:round">GERE</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot2892-0"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.66666603px;line-height:1.25;font-family:xkcd;-inkscape-font-specification:xkcd;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;writing-mode:lr-tb;text-anchor:end;opacity:0.98999999;vector-effect:none;fill:#d40000;fill-opacity:1;stroke:none;stroke-width:5.33333349;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.99215686"
+       transform="matrix(0.42878784,0,0,0.42878784,-165.47592,45.564426)"><flowRegion
+         id="flowRegion2894-5"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:xkcd;-inkscape-font-specification:xkcd;fill:#d40000;stroke-linecap:butt;stroke-linejoin:round"><rect
+           id="rect2896-2"
+           width="442.85715"
+           height="302.85715"
+           x="248.57143"
+           y="408.57144"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:xkcd;-inkscape-font-specification:xkcd;fill:#d40000;stroke-linecap:butt;stroke-linejoin:round" /></flowRegion><flowPara
+         id="flowPara2898-2"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:xkcd;-inkscape-font-specification:xkcd;fill:#d40000;stroke-linecap:butt;stroke-linejoin:round">GORE</flowPara></flowRoot>    <path
+       style="fill:none;stroke:#d40000;stroke-width:2.58007956;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.99215686;marker-end:url(#marker3264)"
+       d="m 38.533416,168.35663 v 45.61211"
+       id="path2978"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#d40000;stroke-width:2.58007956;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.99215686;marker-end:url(#marker3264-7-3)"
+       d="M 48.791945,224.92499 H 94.40405"
+       id="path2978-7-9"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#5c5c5c;stroke-width:2.58007956;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker3264-7-3-7)"
+       d="M 46.394549,161.36836 H 92.00667"
+       id="path2978-7-9-3"
+       inkscape:connector-curvature="0" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4703"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.66666603px;line-height:1.25;font-family:xkcd;-inkscape-font-specification:xkcd;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;writing-mode:lr-tb;text-anchor:end;opacity:0.98999999;vector-effect:none;fill:#5c5c5c;fill-opacity:1;stroke:none;stroke-width:10.66666698;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       transform="matrix(0.44757154,0,0,0.44757154,-108.71312,-158.5841)"><flowRegion
+         id="flowRegion4705"
+         style="fill:#5c5c5c;fill-opacity:1;stroke:none;stroke-linecap:butt;stroke-linejoin:round"><rect
+           id="rect4707"
+           width="268.70056"
+           height="111.11678"
+           x="151.52289"
+           y="673.53296"
+           style="fill:#5c5c5c;fill-opacity:1;stroke:none;stroke-linecap:butt;stroke-linejoin:round" /></flowRegion><flowPara
+         id="flowPara4709"
+         style="fill:#5c5c5c;fill-opacity:1;stroke:none;stroke-linecap:butt;stroke-linejoin:round">N3R</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4703-7"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.66666603px;line-height:1.25;font-family:xkcd;-inkscape-font-specification:xkcd;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;writing-mode:lr-tb;text-anchor:end;opacity:0.98999999;vector-effect:none;fill:#d50000;fill-opacity:1;stroke:none;stroke-width:10.66666698;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       transform="matrix(0.44757155,0,0,0.44757155,-106.1952,-70.402237)"><flowRegion
+         id="flowRegion4705-6"
+         style="fill:#d50000;fill-opacity:1;stroke:none;stroke-linecap:butt;stroke-linejoin:round"><rect
+           id="rect4707-2"
+           width="268.70056"
+           height="111.11678"
+           x="151.52289"
+           y="673.53296"
+           style="fill:#d50000;fill-opacity:1;stroke:none;stroke-linecap:butt;stroke-linejoin:round" /></flowRegion><flowPara
+         id="flowPara4709-7"
+         style="fill:#d50000;fill-opacity:1;stroke:none;stroke-linecap:butt;stroke-linejoin:round">N3R</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4703-7-0"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.66666603px;line-height:1.25;font-family:xkcd;-inkscape-font-specification:xkcd;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;writing-mode:lr-tb;text-anchor:end;opacity:0.98999999;vector-effect:none;fill:#d50000;fill-opacity:1;stroke:none;stroke-width:10.66666698;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       transform="matrix(0.37555194,0,0,0.37555194,-126.33698,-66.643079)"><flowRegion
+         id="flowRegion4705-6-3"
+         style="fill:#d50000;fill-opacity:1;stroke:none;stroke-linecap:butt;stroke-linejoin:round"><rect
+           id="rect4707-2-9"
+           width="268.70056"
+           height="111.11678"
+           x="151.52289"
+           y="673.53296"
+           style="fill:#d50000;fill-opacity:1;stroke:none;stroke-linecap:butt;stroke-linejoin:round" /></flowRegion><flowPara
+         id="flowPara4709-7-9"
+         style="fill:#d50000;fill-opacity:1;stroke:none;stroke-linecap:butt;stroke-linejoin:round">E2O</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot5649"
+       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:26.66666603px;line-height:1.25;font-family:roboto;-inkscape-font-specification:'roboto Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;opacity:0.98999999;vector-effect:none;fill:#d50000;fill-opacity:1;stroke:none;stroke-width:10.66666698;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       transform="matrix(0.30349178,0,0,0.30349178,-143.22171,120.94205)"><flowRegion
+         id="flowRegion5651"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:roboto;-inkscape-font-specification:'roboto Light';text-align:start;text-anchor:start;stroke-linecap:butt;stroke-linejoin:round"><rect
+           id="rect5653"
+           width="324.70581"
+           height="372.11591"
+           x="664.68036"
+           y="188.65976"
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:roboto;-inkscape-font-specification:'roboto Light';text-align:start;text-anchor:start;stroke-linecap:butt;stroke-linejoin:round" /></flowRegion><flowPara
+         id="flowPara5655"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:roboto;-inkscape-font-specification:'roboto Light';text-align:center;text-anchor:middle;fill:#000000;stroke-linecap:butt;stroke-linejoin:round">The effect of <flowSpan
+   style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:roboto;-inkscape-font-specification:'roboto Medium';stroke-linecap:butt;stroke-linejoin:round"
+   id="flowSpan5692">N</flowSpan>3<flowSpan
+   style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:roboto;-inkscape-font-specification:'roboto Medium';stroke-linecap:butt;stroke-linejoin:round"
+   id="flowSpan5694">R</flowSpan> mutation depends on <flowSpan
+   style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:roboto;-inkscape-font-specification:'roboto Medium';stroke-linecap:butt;stroke-linejoin:round"
+   id="flowSpan5688">E</flowSpan>2<flowSpan
+   style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:roboto;-inkscape-font-specification:'roboto Medium';stroke-linecap:butt;stroke-linejoin:round"
+   id="flowSpan5690">0</flowSpan></flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot5657"
+       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:26.66666603px;line-height:1.25;font-family:roboto;-inkscape-font-specification:'roboto Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;writing-mode:lr-tb;text-anchor:end;opacity:0.98999999;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:10.66666698;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       transform="matrix(0.5040718,0,0,0.5040718,-515.25706,94.358539)"><flowRegion
+         id="flowRegion5659"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:roboto;-inkscape-font-specification:'roboto Light';stroke-linecap:butt;stroke-linejoin:round"><rect
+           id="rect5661"
+           width="478.81232"
+           height="206.07112"
+           x="743.47229"
+           y="307.85776"
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:roboto;-inkscape-font-specification:'roboto Light';stroke-linecap:butt;stroke-linejoin:round" /></flowRegion><flowPara
+         id="flowPara5663"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:roboto;-inkscape-font-specification:'roboto Light';stroke-linecap:butt;stroke-linejoin:round">Epistasis</flowPara></flowRoot>    <g
+       id="g5684"
+       transform="matrix(0.52662479,0.51016786,-0.51016786,0.52662479,132.04439,156.96357)"
+       style="stroke-width:2.63914204;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none">
+      <path
+         inkscape:connector-curvature="0"
+         id="path5665"
+         d="m -67.619188,63.406405 h 20.84702"
+         style="fill:none;stroke:#000000;stroke-width:2.63914204;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path5665-9"
+         d="m -57.195678,52.982895 v 20.84702"
+         style="fill:none;stroke:#000000;stroke-width:2.63914204;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+  </g>
+</svg>

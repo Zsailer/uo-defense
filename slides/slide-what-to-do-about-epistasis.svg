@@ -1495,15 +1495,15 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="0.49497475"
-     inkscape:cx="824.42514"
+     inkscape:cx="428.44535"
      inkscape:cy="318.47543"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer4"
+     inkscape:current-layer="layer3"
      showgrid="false"
      units="px"
-     inkscape:window-width="1920"
-     inkscape:window-height="1058"
-     inkscape:window-x="1440"
+     inkscape:window-width="1440"
+     inkscape:window-height="856"
+     inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:snap-global="false" />
@@ -5117,17 +5117,17 @@
        xml:space="preserve"
        id="flowRoot4069"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:73.33333588px;line-height:1.25;font-family:xkcd;-inkscape-font-specification:xkcd;text-align:end;text-anchor:end;opacity:0.98999999;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:7.9370079;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       transform="matrix(0.26458333,0,0,0.26458333,0,106.49997)"><flowRegion
+       transform="matrix(0.22182507,0,0,0.22182507,6.4383307,108.39347)"><flowRegion
          id="flowRegion4071"
          style="stroke-linecap:butt;stroke-linejoin:round"><rect
            id="rect4073"
-           width="1038.4368"
-           height="123.23861"
+           width="1232.3861"
+           height="125.25892"
            x="107.07617"
            y="35.116581"
            style="stroke-linecap:butt;stroke-linejoin:round" /></flowRegion><flowPara
          id="flowPara4075"
-         style="stroke-linecap:butt;stroke-linejoin:round;-inkscape-font-specification:'roboto Light';font-family:roboto;font-weight:300;font-style:normal;font-stretch:normal;font-variant:normal">How should we treat epistasis?</flowPara></flowRoot>  </g>
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:roboto;-inkscape-font-specification:'roboto Light';stroke-linecap:butt;stroke-linejoin:round">What should we do about epistasis?</flowPara></flowRoot>  </g>
   <g
      inkscape:groupmode="layer"
      id="layer2"
@@ -5163,11 +5163,11 @@
      style="display:inline;stroke-linecap:butt;stroke-linejoin:round">
     <path
        style="fill:none;stroke:#ff0000;stroke-width:2.82222223;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Send)"
-       d="m 144.32554,126.88985 c 8.19659,-3.02917 16.39285,-6.05823 22.86182,-10.55839 6.46897,-4.50016 11.34891,-10.64528 15.21352,-16.775199 3.86461,-6.129918 6.64791,-12.044434 8.07328,-21.548369 1.42536,-9.503936 1.42536,-22.453745 1.42536,-35.403294"
+       d="m 144.32554,126.88985 c 7.49103,-3.02918 15.08933,-6.10174 20.804,-10.58015 5.71467,-4.47842 9.78162,-10.47994 13.34212,-16.681647 3.5605,-6.201709 6.3438,-12.116226 9.09211,-21.620182 2.74832,-9.503956 5.39415,-22.453765 8.03992,-35.403273"
        id="path4862"
        inkscape:connector-curvature="0"
        inkscape:path-effect="#path-effect4864"
-       inkscape:original-d="m 144.32554,126.88985 c 8.19653,-3.02932 16.3928,-6.05837 24.5888,-9.08716 4.63275,-6.05814 9.62197,-12.11648 14.43255,-18.174329 2.91871,-6.201966 5.70201,-12.116483 8.55263,-18.174328 2.6e-4,-12.950077 2.6e-4,-25.899886 0,-38.849435"
+       inkscape:original-d="m 144.32554,126.88985 c 7.49098,-3.02932 15.08927,-6.10188 22.47213,-9.08716 4.0466,-5.97137 8.11355,-11.97289 12.31589,-18.174329 2.91871,-6.201964 5.70201,-12.116483 8.55263,-18.174328 2.6461,-12.950076 5.29193,-25.899886 7.9375,-38.849435"
        sodipodi:nodetypes="ccccc" />
     <flowRoot
        xml:space="preserve"
