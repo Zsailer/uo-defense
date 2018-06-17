@@ -17,7 +17,7 @@
    version="1.1"
    id="svg8"
    inkscape:version="0.92.2 5c3e80d, 2017-08-06"
-   sodipodi:docname="slight-global-experimental.svg">
+   sodipodi:docname="slide-global-experimental.svg">
   <defs
      id="defs2"
      style="stroke-linecap:butt;stroke-linejoin:round">
@@ -461,16 +461,16 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="0.7"
-     inkscape:cx="774.63541"
-     inkscape:cy="351.52841"
+     inkscape:cx="894.63541"
+     inkscape:cy="294.38555"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
      units="px"
-     inkscape:window-width="1920"
-     inkscape:window-height="1058"
-     inkscape:window-x="1440"
-     inkscape:window-y="0"
+     inkscape:window-width="1440"
+     inkscape:window-height="856"
+     inkscape:window-x="0"
+     inkscape:window-y="869"
      inkscape:window-maximized="1" />
   <metadata
      id="metadata5">
@@ -480,7 +480,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -10323,5 +10323,21 @@
          id="flowPara15239"
          style="font-size:42.66666794px;stroke-linecap:butt;stroke-linejoin:round"><flowSpan
    style="-inkscape-font-specification:roboto;font-family:roboto;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
-   id="flowSpan15241">global epistasis</flowSpan> is a common feature of experimental genotype-phenotype map</flowPara></flowRoot>  </g>
+   id="flowSpan15241">global epistasis</flowSpan> is a common feature of experimental genotype-phenotype map</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4485"
+       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:26.66666603px;line-height:1;font-family:roboto;-inkscape-font-specification:'roboto Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;writing-mode:lr-tb;text-anchor:end;opacity:0.98999999;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       transform="matrix(0.26458333,0,0,0.26458333,-62.242437,85.945328)"><flowRegion
+         id="flowRegion4487"
+         style="stroke-linecap:butt;stroke-linejoin:round"><rect
+           id="rect4489"
+           width="836.40631"
+           height="347.49246"
+           x="664.68036"
+           y="760.40613"
+           style="stroke-linecap:butt;stroke-linejoin:round" /></flowRegion><flowPara
+         id="flowPara4491"
+         style="stroke-linecap:butt;stroke-linejoin:round">Sailer and Harms. <flowSpan
+   style="font-style:italic;stroke-linecap:butt;stroke-linejoin:round"
+   id="flowSpan4493">Genetics.</flowSpan> 2017</flowPara></flowRoot>  </g>
 </svg>

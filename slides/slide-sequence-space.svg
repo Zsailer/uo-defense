@@ -1810,16 +1810,16 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="0.49497476"
-     inkscape:cx="1186.1771"
-     inkscape:cy="-248.61817"
+     inkscape:cx="790.19731"
+     inkscape:cy="74.630636"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer9"
+     inkscape:current-layer="g2405-7"
      showgrid="false"
      units="px"
      inkscape:window-width="1775"
      inkscape:window-height="1034"
-     inkscape:window-x="1714"
-     inkscape:window-y="346"
+     inkscape:window-x="1572"
+     inkscape:window-y="12"
      inkscape:window-maximized="0"
      showguides="false"
      inkscape:snap-global="false" />
@@ -4718,8 +4718,8 @@
              height="266.68027"
              width="796.00018"
              id="rect27556-0" /></flowRegion><flowPara
-           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:roboto;-inkscape-font-specification:'roboto Light';fill:#000000;fill-opacity:1;stroke-linecap:butt;stroke-linejoin:round"
-           id="flowPara27558-2">Sequence space is sparse.</flowPara></flowRoot>    </g>
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:roboto;-inkscape-font-specification:'roboto Light';fill:#000000;fill-opacity:1;stroke-linecap:butt;stroke-linejoin:round;font-size:24.3968813px"
+           id="flowPara27558-2">Sequence space large but sparse.</flowPara></flowRoot>    </g>
   </g>
   <g
      inkscape:groupmode="layer"

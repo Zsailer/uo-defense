@@ -26,10 +26,12 @@ This is amazing.
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
-# To understand how a protein evolved, we must study its genotype-phenotype map.
+## To understand how a protein evolved, we must study its genotype-phenotype map.
 
 Why is one mutation taken over another?
+
 In what order did mutations accumulate?
+
 What are the physical/chemical determinants of a protein's evolutionary outcome.
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
@@ -46,7 +48,7 @@ What are the physical/chemical determinants of a protein's evolutionary outcome.
 
 <!-- Outline talk -->
 
-![sm.inkscape](slides/slide-outline-phd.svg) 10000000000,11000000000,11110000000,10001000000,10001100000,10001111000,10001100000,10000101100,10000101110,10000101111
+![sm.inkscape](slides/slide-outline-phd.svg)
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
@@ -78,7 +80,15 @@ What are the physical/chemical determinants of a protein's evolutionary outcome.
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
-![sm.inkscape](slides/slide-global-model.svg) 100000000000,110000000000,111000000000,111100000000,111110000000,111111000000,111111100000,111011110000,111011111000,111000011100,111000011110,111000000111
+![sm.inkscape](slides/slide-high-order.svg) 11000000000,11110000000,11111000000,11111110000,11111111000,11111111100,11111111110,11111111111
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+![sm.inkscape](slides/slide-global-intro.svg) 11000,11100,11110,11111
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+![sm.inkscape](slides/slide-global-model.svg) 11100000000000,11111000000000,11111100000000,11111110000000,11111111000000,11111100100000,11111100110000,11111100111000,11111100111100,11110000111101
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
@@ -86,19 +96,31 @@ What are the physical/chemical determinants of a protein's evolutionary outcome.
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
-![sm.inkscape](slides/slide-global-predictions.svg) 1100,1110,1101
+![sm.inkscape](slides/slide-global-predictions.svg) 11000,11100,11010,11011
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
-# What about remaining epistasis?
+<!-- How should we treat the remaining epistasis -->
+
+![sm.inkscape](slides/slide-remaining-epistasis.svg)
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
-![sm.inkscape](slides/slide-high-order-model.svg) 10000000,11110000,11111000,11011100,11011110,11011011
+<!-- Should we add a high-order model? -->
+
+![sm.inkscape](slides/slide-remaining-high-order.svg)
+
+<!-- Is epistasis common in experimental maps -->
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+<!-- High-order epistasis is ubiquitous in experimental maps -->
 
 ![sm.inkscape](slides/slide-local-experimental.svg)
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+![sm.inkscape](slides/slide-high-order-model.svg)
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
@@ -107,10 +129,6 @@ What are the physical/chemical determinants of a protein's evolutionary outcome.
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
 ![sm.inkscape](slides/slide-model-summary.svg) 100,110,111
-
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
-
-![sm.inkscape](slides/slide-model-summary-exp.svg)
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
@@ -136,6 +154,8 @@ What are the physical/chemical determinants of a protein's evolutionary outcome.
 
 ## High-order epistasis arises because mutations can affect multiple states in a system simultaneously
 
+Any system that involves a collection of states will likely exhibit high-order epistasis.
+
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
 # Can we observe this experimentally?
@@ -144,11 +164,9 @@ What are the physical/chemical determinants of a protein's evolutionary outcome.
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
-# High-order epistasis is not useful for prediction.
+# Specific, multi-way interactions are not useful for prediction.
 
-How should we treat epistasis?
-
-How many genotypes must I measure to reach my best predictions?
+It is uncertainty.
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
@@ -189,13 +207,22 @@ How many genotypes must I measure to reach my best predictions?
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
-# "Dark" Projects
-
-
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
-
-# Acknowledgements.
+# Open source contributions
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
-# What's next?
+# Phylogenetics in Python
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+# Bioinformatics program
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+![sm.inkscape](slides/slide-acknowledgments.svg)
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+![sm.inkscape](slides/slide-people-i-admire.svg)
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>

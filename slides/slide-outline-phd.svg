@@ -158,7 +158,7 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="0.49497475"
-     inkscape:cx="1203.8328"
+     inkscape:cx="807.85301"
      inkscape:cy="366.65519"
      inkscape:document-units="mm"
      inkscape:current-layer="layer5"
@@ -256,7 +256,7 @@
            x="-608.11182"
            y="-57.817455"
            style="stroke-linecap:butt;stroke-linejoin:round;fill:#000000;fill-opacity:1;" /></flowRegion><flowPara
-         id="flowPara858"></flowPara></flowRoot>    <flowRoot
+         id="flowPara858" /></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot860"
        style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:18.66666603px;line-height:1.25;font-family:roboto;-inkscape-font-specification:'roboto Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;opacity:0.98999999;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:26.66666603;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.99215686"
@@ -281,7 +281,7 @@
            x="-125.25891"
            y="136.13184"
            style="stroke-linecap:butt;stroke-linejoin:round" /></flowRegion><flowPara
-         id="flowPara1087"></flowPara></flowRoot>    <flowRoot
+         id="flowPara1087" /></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot1089"
        style="line-height:1.25;fill:#000000;fill-opacity:1;stroke-width:26.66666667;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;-inkscape-font-specification:'roboto Medium';font-family:roboto;font-weight:500;font-style:normal;font-stretch:normal;font-variant:normal;font-size:26.66666667px;font-variant-east_asian:normal;opacity:0.99;vector-effect:none;stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.99215686;text-anchor:middle;text-align:center;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal"><flowRegion
@@ -292,15 +292,16 @@
            x="-652.55853"
            y="711.91876"
            style="stroke-linecap:butt;stroke-linejoin:round" /></flowRegion><flowPara
-         id="flowPara1095"></flowPara></flowRoot>  </g>
+         id="flowPara1095" /></flowRoot>  </g>
   <g
      inkscape:groupmode="layer"
      id="layer2"
-     inkscape:label="papers">
+     inkscape:label="papers"
+     style="display:none;stroke-linecap:butt;stroke-linejoin:round">
     <flowRoot
        xml:space="preserve"
        id="flowRoot868"
-       style="stroke-linecap:round;stroke-linejoin:round;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:26.66666794px;line-height:1.25;font-family:roboto;-inkscape-font-specification:'roboto Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;writing-mode:lr-tb;text-anchor:end;opacity:0.98999999;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:26.66666603;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.99215686"
+       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:26.66666794px;line-height:1.25;font-family:roboto;-inkscape-font-specification:'roboto Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;writing-mode:lr-tb;text-anchor:end;opacity:0.98999999;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:26.66666603;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.99215686"
        transform="matrix(0.26458333,0,0,0.26458333,26.872811,-31.014009)"><flowRegion
          id="flowRegion870"
          style="font-size:26.66666794px;text-align:end;text-anchor:end;stroke-linecap:butt;stroke-linejoin:round"><rect
@@ -316,7 +317,7 @@
          id="flowPara1145">genotype-phenotype maps</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot868-7"
-       style="stroke-linecap:round;stroke-linejoin:round;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.66666794px;line-height:1.25;font-family:roboto;-inkscape-font-specification:roboto;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;opacity:0.98999999;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:26.66666603;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.99215686"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.66666794px;line-height:1.25;font-family:roboto;-inkscape-font-specification:roboto;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;opacity:0.98999999;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:26.66666603;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.99215686"
        transform="matrix(0.26458333,0,0,0.26458333,62.674677,5.50002)"><flowRegion
          id="flowRegion870-9"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.66666794px;font-family:roboto;-inkscape-font-specification:roboto;stroke-linecap:butt;stroke-linejoin:round"><rect
@@ -330,7 +331,7 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.66666794px;font-family:roboto;-inkscape-font-specification:roboto;stroke-linecap:butt;stroke-linejoin:round">High-order epistasis shapes evolutionary trajectories</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot868-7-0"
-       style="stroke-linecap:round;stroke-linejoin:round;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.66666794px;line-height:1.25;font-family:roboto;-inkscape-font-specification:roboto;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;opacity:0.98999999;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:26.66666603;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.99215686"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.66666794px;line-height:1.25;font-family:roboto;-inkscape-font-specification:roboto;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;opacity:0.98999999;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:26.66666603;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.99215686"
        transform="matrix(0.26458333,0,0,0.26458333,64.231856,34.61049)"><flowRegion
          id="flowRegion870-9-2"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.66666794px;font-family:roboto;-inkscape-font-specification:roboto;stroke-linecap:butt;stroke-linejoin:round"><rect
@@ -344,7 +345,7 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.66666794px;font-family:roboto;-inkscape-font-specification:roboto;stroke-linecap:butt;stroke-linejoin:round">Molecular ensembles make evolution unpredictable</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot868-7-0-3"
-       style="stroke-linecap:round;stroke-linejoin:round;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.66666794px;line-height:1.25;font-family:roboto;-inkscape-font-specification:roboto;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;opacity:0.98999999;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:26.66666603;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.99215686"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.66666794px;line-height:1.25;font-family:roboto;-inkscape-font-specification:roboto;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;opacity:0.98999999;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:26.66666603;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.99215686"
        transform="matrix(0.26458333,0,0,0.26458333,108.07069,64.039311)"><flowRegion
          id="flowRegion870-9-2-9"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.66666794px;font-family:roboto;-inkscape-font-specification:roboto;stroke-linecap:butt;stroke-linejoin:round"><rect
@@ -358,7 +359,7 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.66666794px;font-family:roboto;-inkscape-font-specification:roboto;stroke-linecap:butt;stroke-linejoin:round">Epistasis is uncertainty.</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot948"
-       style="stroke-linecap:round;stroke-linejoin:round;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.66666794px;line-height:1.25;font-family:roboto;-inkscape-font-specification:roboto;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;writing-mode:lr-tb;text-anchor:end;opacity:0.98999999;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:26.66666603;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.99215686"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.66666794px;line-height:1.25;font-family:roboto;-inkscape-font-specification:roboto;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;writing-mode:lr-tb;text-anchor:end;opacity:0.98999999;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:26.66666603;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.99215686"
        transform="matrix(0.26458333,0,0,0.26458333,126.83157,13.37422)"><flowRegion
          id="flowRegion950"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.66666794px;font-family:roboto;-inkscape-font-specification:roboto;text-align:end;text-anchor:end;stroke-linecap:butt;stroke-linejoin:round"><rect
@@ -372,7 +373,7 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.66666794px;font-family:roboto;-inkscape-font-specification:roboto;text-align:end;text-anchor:end;stroke-linecap:butt;stroke-linejoin:round">Reconstructing a genotype-phenotype map from a small number of measurements </flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot956"
-       style="stroke-linecap:round;stroke-linejoin:round;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:26.66666603px;line-height:1.25;font-family:roboto;-inkscape-font-specification:'roboto Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;opacity:0.98999999;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:26.66666603;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.99215686"
+       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:26.66666603px;line-height:1.25;font-family:roboto;-inkscape-font-specification:'roboto Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;opacity:0.98999999;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:26.66666603;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.99215686"
        transform="matrix(0.26458333,0,0,0.26458333,291.55985,-134.71459)"><flowRegion
          id="flowRegion958"
          style="stroke-linecap:butt;stroke-linejoin:round"><rect
@@ -388,7 +389,7 @@
    id="flowSpan964">Genetics</flowSpan>. 2017</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot956-2"
-       style="stroke-linecap:round;stroke-linejoin:round;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:26.66666603px;line-height:1.25;font-family:roboto;-inkscape-font-specification:'roboto Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;opacity:0.98999999;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:26.66666603;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.99215686"
+       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:26.66666603px;line-height:1.25;font-family:roboto;-inkscape-font-specification:'roboto Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;opacity:0.98999999;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:26.66666603;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.99215686"
        transform="matrix(0.26458333,0,0,0.26458333,272.10531,-107.2377)"><flowRegion
          id="flowRegion958-2"
          style="stroke-linecap:butt;stroke-linejoin:round"><rect
@@ -404,7 +405,7 @@
    id="flowSpan1021"> PLoS Comp. Bio</flowSpan>. 2017</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot956-2-9"
-       style="stroke-linecap:round;stroke-linejoin:round;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:26.66666603px;line-height:1.25;font-family:roboto;-inkscape-font-specification:'roboto Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;opacity:0.98999999;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:26.66666603;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.99215686"
+       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:26.66666603px;line-height:1.25;font-family:roboto;-inkscape-font-specification:'roboto Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;opacity:0.98999999;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:26.66666603;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.99215686"
        transform="matrix(0.26458333,0,0,0.26458333,287.71847,-78.031999)"><flowRegion
          id="flowRegion958-2-0"
          style="stroke-linecap:butt;stroke-linejoin:round"><rect
@@ -420,7 +421,7 @@
    id="flowSpan1017">PNAS</flowSpan>. 2017</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot956-2-9-9"
-       style="stroke-linecap:round;stroke-linejoin:round;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:26.66666603px;line-height:1.25;font-family:roboto;-inkscape-font-specification:'roboto Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;opacity:0.98999999;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:26.66666603;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.99215686"
+       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:26.66666603px;line-height:1.25;font-family:roboto;-inkscape-font-specification:'roboto Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;opacity:0.98999999;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:26.66666603;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.99215686"
        transform="matrix(0.26458333,0,0,0.26458333,295.15869,-48.495815)"><flowRegion
          id="flowRegion958-2-0-9"
          style="stroke-linecap:butt;stroke-linejoin:round"><rect
@@ -436,7 +437,7 @@
    id="flowSpan1052">In Prep.</flowSpan></flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot956-2-9-9-9"
-       style="stroke-linecap:round;stroke-linejoin:round;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:26.66666603px;line-height:1.25;font-family:roboto;-inkscape-font-specification:'roboto Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;opacity:0.98999999;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:26.66666603;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.99215686"
+       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:26.66666603px;line-height:1.25;font-family:roboto;-inkscape-font-specification:'roboto Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;opacity:0.98999999;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:26.66666603;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.99215686"
        transform="matrix(0.26458333,0,0,0.26458333,294.82227,-12.861214)"><flowRegion
          id="flowRegion958-2-0-9-8"
          style="stroke-linecap:butt;stroke-linejoin:round"><rect
@@ -453,10 +454,11 @@
   <g
      inkscape:groupmode="layer"
      id="layer3"
-     inkscape:label="q1">
+     inkscape:label="q1"
+     style="display:none;stroke-linecap:butt;stroke-linejoin:round">
     <path
        transform="translate(0,-106.49997)"
-       style="stroke-linecap:round;stroke-linejoin:miter;fill:none;stroke:#000000;stroke-width:1.41111112;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:none;stroke:#000000;stroke-width:1.41111112;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 157.90025,136.27912 c -1.41084,0 -2.82181,0 -2.73376,6.09221 0.0881,6.09222 1.67536,18.27413 1.75741,24.36611 0.082,6.09198 -1.34302,6.09198 -1.3745,6.12345 -0.0315,0.0315 1.32275,0.0942 1.24027,6.80997 -0.0825,6.7158 -1.63363,20.24037 -1.65812,26.7322 -0.0245,6.49183 1.48385,6.49183 2.95769,6.49183"
        id="path1133"
        inkscape:connector-curvature="0"
@@ -466,7 +468,7 @@
     <flowRoot
        xml:space="preserve"
        id="flowRoot1137"
-       style="stroke-linecap:round;stroke-linejoin:round;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:26.66666603px;line-height:1.25;font-family:roboto;-inkscape-font-specification:'roboto Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;opacity:0.98999999;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:5.33333349;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.99215686"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:26.66666603px;line-height:1.25;font-family:roboto;-inkscape-font-specification:'roboto Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;opacity:0.98999999;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:5.33333349;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.99215686"
        transform="matrix(0.39874764,0,0,0.39874764,294.29342,12.14209)"><flowRegion
          id="flowRegion1139"
          style="stroke-linecap:butt;stroke-linejoin:round"><rect
@@ -481,10 +483,11 @@
   <g
      inkscape:groupmode="layer"
      id="layer4"
-     inkscape:label="q2">
+     inkscape:label="q2"
+     style="display:none;stroke-linecap:butt;stroke-linejoin:round">
     <path
        transform="translate(0,-106.49997)"
-       style="stroke-linecap:round;stroke-linejoin:miter;fill:none;stroke:#000000;stroke-width:1.41111112;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:none;stroke:#000000;stroke-width:1.41111112;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 157.90025,230.31584 c -0.88168,0 -1.76353,0 -1.67549,1.50568 0.0881,1.50568 1.14625,4.51651 1.2283,6.02223 0.0821,1.50572 -0.81333,1.50572 -0.84481,1.5372 -0.0315,0.0315 0.7961,0.0942 0.71366,1.84268 -0.0824,1.74852 -1.09518,5.2226 -1.11971,6.89029 -0.0245,1.66769 0.94236,1.66769 1.88704,1.66769"
        id="path1133-9"
        inkscape:connector-curvature="0"
@@ -494,7 +497,7 @@
     <flowRoot
        xml:space="preserve"
        id="flowRoot1137-3"
-       style="stroke-linecap:round;stroke-linejoin:round;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:26.66666603px;line-height:1.25;font-family:roboto;-inkscape-font-specification:'roboto Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;opacity:0.98999999;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:5.33333349;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.99215686"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:26.66666603px;line-height:1.25;font-family:roboto;-inkscape-font-specification:'roboto Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;opacity:0.98999999;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:5.33333349;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.99215686"
        transform="matrix(0.39874764,0,0,0.39874764,292.82234,66.89897)"><flowRegion
          id="flowRegion1139-6"
          style="stroke-linecap:butt;stroke-linejoin:round"><rect
@@ -509,7 +512,8 @@
   <g
      inkscape:groupmode="layer"
      id="layer5"
-     inkscape:label="q3">
+     inkscape:label="q3"
+     style="display:none;stroke-linecap:butt;stroke-linejoin:round">
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:7.05555534px;line-height:1.25;font-family:roboto;-inkscape-font-specification:'roboto Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;writing-mode:lr-tb;text-anchor:end;opacity:0.98999999;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.41111112;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.99215686"
@@ -523,7 +527,7 @@
          y="145.35786" /></text>
     <path
        transform="translate(0,-106.49997)"
-       style="stroke-linecap:round;stroke-linejoin:miter;fill:none;stroke:#000000;stroke-width:1.41111112;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:none;stroke:#000000;stroke-width:1.41111112;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 157.90025,258.49332 c -1.05807,0 -2.11629,0 -2.02825,2.6523 0.088,2.65229 1.32262,7.95591 1.40467,10.60821 0.0821,2.65229 -0.9899,2.65229 -1.02137,2.68376 -0.0315,0.0315 0.97164,0.0942 0.8892,2.19749 -0.0824,2.10332 -1.27466,6.2953 -1.29918,8.30757 -0.0245,2.01227 1.12285,2.01227 2.24392,2.01227"
        id="path1133-9-2"
        inkscape:connector-curvature="0"
@@ -533,7 +537,7 @@
     <flowRoot
        xml:space="preserve"
        id="flowRoot1137-3-8"
-       style="stroke-linecap:round;stroke-linejoin:round;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:26.66666603px;line-height:1.25;font-family:roboto;-inkscape-font-specification:'roboto Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;opacity:0.98999999;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:5.33333349;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.99215686"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:26.66666603px;line-height:1.25;font-family:roboto;-inkscape-font-specification:'roboto Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;opacity:0.98999999;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:5.33333349;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.99215686"
        transform="matrix(0.39874764,0,0,0.39874764,290.32097,123.5601)"><flowRegion
          id="flowRegion1139-6-1"
          style="stroke-linecap:butt;stroke-linejoin:round"><rect
