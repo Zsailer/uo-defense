@@ -6374,15 +6374,15 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="0.49497475"
-     inkscape:cx="1136.3103"
-     inkscape:cy="64.938687"
+     inkscape:cx="988.82803"
+     inkscape:cy="226.56309"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer6"
+     inkscape:current-layer="layer10"
      showgrid="false"
      units="px"
      inkscape:window-width="1717"
      inkscape:window-height="1009"
-     inkscape:window-x="1545"
+     inkscape:window-x="664"
      inkscape:window-y="0"
      inkscape:window-maximized="0"
      inkscape:snap-global="false"
@@ -6401,9 +6401,28 @@
   </metadata>
   <g
      inkscape:groupmode="layer"
+     id="layer10"
+     inkscape:label="title">
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot2003"
+       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:40.27201843px;line-height:1;font-family:roboto;-inkscape-font-specification:'roboto Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;writing-mode:lr-tb;text-anchor:end;opacity:0.98999999;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:1, 1;stroke-dashoffset:0;stroke-opacity:1"
+       transform="matrix(0.26458333,0,0,0.26458333,-27.261492,6.4144686)"><flowRegion
+         id="flowRegion2005"
+         style="stroke-linecap:butt;stroke-linejoin:round"><rect
+           id="rect2007"
+           width="1214.2034"
+           height="151.52289"
+           x="70.710678"
+           y="6.8323083"
+           style="stroke-linecap:butt;stroke-linejoin:round" /></flowRegion><flowPara
+         id="flowPara2009"
+         style="stroke-linecap:butt;stroke-linejoin:round">Protein evolution depends on the genotype-phenotype map.</flowPara></flowRoot>  </g>
+  <g
+     inkscape:groupmode="layer"
      id="layer6"
      inkscape:label="xkcd"
-     style="display:none;stroke-linecap:butt;stroke-linejoin:round">
+     style="display:inline;stroke-linecap:butt;stroke-linejoin:round">
     <flowRoot
        xml:space="preserve"
        id="flowRoot3816"
@@ -6514,7 +6533,7 @@
            y="620"
            style="stroke-linecap:butt;stroke-linejoin:round" /></flowRegion><flowPara
          id="flowPara2509"
-         style="stroke-linecap:butt;stroke-linejoin:round"></flowPara></flowRoot>  </g>
+         style="stroke-linecap:butt;stroke-linejoin:round" /></flowRoot>  </g>
   <g
      inkscape:groupmode="layer"
      id="layer9"
@@ -6557,7 +6576,7 @@
      inkscape:groupmode="layer"
      id="layer5"
      inkscape:label="start"
-     style="display:none;stroke-linecap:butt;stroke-linejoin:round">
+     style="display:inline;stroke-linecap:butt;stroke-linejoin:round">
     <g
        style="stroke-linecap:butt;stroke-linejoin:round"
        id="g3448"
@@ -6583,7 +6602,7 @@
      inkscape:groupmode="layer"
      id="layer4"
      inkscape:label="words"
-     style="display:none;stroke-linecap:butt;stroke-linejoin:round">
+     style="display:inline;stroke-linecap:butt;stroke-linejoin:round">
     <g
        id="g3485"
        style="stroke-linecap:butt;stroke-linejoin:round"
@@ -6675,7 +6694,7 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,-106.49997)"
-     style="display:none;stroke-linecap:butt;stroke-linejoin:round">
+     style="display:inline;stroke-linecap:butt;stroke-linejoin:round">
     <flowRoot
        xml:space="preserve"
        id="flowRoot16"
@@ -7437,7 +7456,7 @@
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="+viable"
-     style="display:none;stroke-linecap:butt;stroke-linejoin:round">
+     style="display:inline;stroke-linecap:butt;stroke-linejoin:round">
     <g
        id="g6222"
        style="display:inline;stroke-linecap:butt;stroke-linejoin:round"
@@ -8696,7 +8715,7 @@
      inkscape:groupmode="layer"
      id="layer3"
      inkscape:label="+traj"
-     style="display:none;stroke-linecap:butt;stroke-linejoin:round">
+     style="display:inline;stroke-linecap:butt;stroke-linejoin:round">
     <g
        id="g3500-9-4"
        style="display:inline;stroke-width:0.95742553;stroke-linecap:butt;stroke-linejoin:round"
@@ -10122,7 +10141,7 @@
      inkscape:groupmode="layer"
      id="layer8"
      inkscape:label="quote"
-     style="display:none;stroke-linecap:butt;stroke-linejoin:round">
+     style="display:inline;stroke-linecap:butt;stroke-linejoin:round">
     <flowRoot
        xml:space="preserve"
        id="flowRoot2495"

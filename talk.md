@@ -16,23 +16,15 @@ This is amazing.
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
-# Protein evolution depends on the genotype-phenotype map.
-
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
-
 <!-- Protein evolution depends on the genotype-phenotype map. (wordgame) -->
 
-![sm.inkscape](slides/slide-wordgame.svg) 110000000,111000000,110100000,110010000,110001000,110000100,010000010,010000011
+![sm.inkscape](slides/slide-wordgame.svg) 1110000000,1111000000,1110100000,1110010000,1110001000,1110000100,1010000010,0010000011
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
-## To understand how a protein evolved, we must study its genotype-phenotype map.
+<!-- questions -->
 
-Why is one mutation taken over another?
-
-In what order did mutations accumulate?
-
-What are the physical/chemical determinants of a protein's evolutionary outcome.
+![sm.inkscape](slides/slide-questions.svg)
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
@@ -54,21 +46,29 @@ What are the physical/chemical determinants of a protein's evolutionary outcome.
 
 <!-- Intro to PfCRT -->
 
-![sm.inkscape](slides/slide-pfcrt-intro.svg) 10000000000,11000000000,11110000000,10001000000,10001100000,10001111000,10001100000,10000101100,10000101110,10000101111
+![sm.inkscape](slides/slide-pfcrt-intro.svg) 10000000000,11000000000,11100000000,11110000000,10001000000,10001100000,10001110000,10001111000,10001111100,10001111110,10000101111
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
 <!-- PfCRT empty network -->
 
-![sm.inkscape](slides/slide-pfcrt-wordgame.svg) 100000000000,110000000000,111000000000,100110000000,100101000000,100000100000,100000110000,100000111000,100000110100,100101000000,100100000010,100100000001
+![sm.inkscape](slides/slide-pfcrt-wordgame.svg) 110000,111000,100110,100101
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
-## How did drug resistance evolve in malaria.
+<!-- Introduce collaboration -->
 
-1. Predict the genotype-phenotype map
-2. Compare to experimental predictions
-3. Infer evolutionary trajectories to CQ reistances.
+![sm.inkscape](slides/slide-pfcrt-collab.svg) 1000000,1100000,1010000,1011000,1011100,1011110,1011111
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+<!-- Introduce collaboration -->
+
+![sm.inkscape](slides/slide-pfcrt-traj.svg) 11100,11010,11001
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+![sm.inkscape](slides/slide-malaria-question.svg)
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
@@ -142,29 +142,27 @@ What are the physical/chemical determinants of a protein's evolutionary outcome.
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
-![sm.inkscape](slides/slide-why-local-fails.svg) 1000,1100,1110,1111
-
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
-
 ![sm.inkscape](slides/slide-where-he-comes-from.svg) 10,11
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
-![sm.inkscape](slides/slide-lattice-intro.svg) 10000000,11100000,11110000,11001000,11000100,11000110,11000111
+<!-- Intro to ensembles -->
+
+![sm.inkscape](slides/slide-ensemble-epistasis.svg)
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
-![sm.inkscape](slides/slide-lattice-surprise.svg) 10,11
+<!-- Ensemble double mutant cycle -->
+
+![sm.inkscape](slides/slide-ensemble-mutant-cycle.svg)
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
-![sm.inkscape](slides/slide-lattice-ensemble.svg) 10000000,11000000,11100000,11110000,11111000,11111100,11111110,11111111
+![sm.inkscape](slides/slide-lattice-intro.svg) 1000000,1100000,1110000,1101000,1100100,1100110,1100101
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
 ## High-order epistasis arises because mutations can affect multiple states in a system simultaneously
-
-Any system that involves a collection of states will likely exhibit high-order epistasis.
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
@@ -174,18 +172,25 @@ Any system that involves a collection of states will likely exhibit high-order e
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
+Any system that involves a collection of states will likely exhibit high-order epistasis.
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
 <!-- How should we treat epistasis -->
 
 ![sm.inkscape](slides/slide-epistasis-as-uncertainty.svg) 11000,11100,11110,11111
 
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+# The best model.
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
-![sm.inkscape](slides/slide-nobs-power.svg) 10000,11000,11100,11110,11111
+![sm.inkscape](slides/slide-nobs-power.svg)
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
-![sm.inkscape](slides/slide-nobs-pfcrt.svg) 1000,1100,1110,1111
+![sm.inkscape](slides/slide-calibration-curve.svg)
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
@@ -241,4 +246,4 @@ Any system that involves a collection of states will likely exhibit high-order e
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
-Questions?
+# Questions?

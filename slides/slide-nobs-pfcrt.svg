@@ -8,7 +8,6 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="1280"
@@ -1545,17 +1544,17 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.7"
-     inkscape:cx="630.44127"
-     inkscape:cy="261.33257"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="577.1636"
+     inkscape:cy="301.73867"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer4"
+     inkscape:current-layer="layer1"
      showgrid="false"
      units="px"
      inkscape:window-width="1875"
      inkscape:window-height="1041"
-     inkscape:window-x="1458"
-     inkscape:window-y="0"
+     inkscape:window-x="121"
+     inkscape:window-y="52"
      inkscape:window-maximized="0"
      inkscape:snap-global="false" />
   <metadata
@@ -1791,315 +1790,16 @@
            y="29.055664"
            style="stroke-linecap:butt;stroke-linejoin:round" /></flowRegion><flowPara
          id="flowPara45"
-         style="stroke-linecap:butt;stroke-linejoin:round">Are the 52 genotypes enough to predict the PfCRT genotype-phenotype map?</flowPara></flowRoot>  </g>
-  <g
-     inkscape:groupmode="layer"
-     id="layer2"
-     inkscape:label="axis">
-    <g
-       id="line2d_5"
-       style="stroke-linecap:butt;stroke-linejoin:round"
-       transform="matrix(0.92411447,0,0,0.92411455,85.805087,47.91025)">
-      <defs
-         id="defs53">
-        <path
-           d="M 0,0 H -3.5"
-           id="path2108"
-           style="stroke:#000000;stroke-width:0.80000001;stroke-linecap:butt;stroke-linejoin:round"
-           inkscape:connector-curvature="0" />
-      </defs>
-      <g
-         id="g57"
-         style="stroke-linecap:butt;stroke-linejoin:round">
-        <use
-           style="stroke:#000000;stroke-width:0.80000001;stroke-linecap:butt;stroke-linejoin:round"
-           x="33.660938"
-           xlink:href="#mbd6ab94c72"
-           y="119.42"
-           id="use55"
-           width="100%"
-           height="100%" />
-      </g>
-    </g>
-    <g
-       id="text_5"
-       style="stroke-linecap:butt;stroke-linejoin:round"
-       transform="matrix(0.74173601,0,0,0.74173609,92.483437,68.997909)">
-      <text
-         style="font-style:normal;font-weight:normal;font-size:10px;line-height:0%;font-family:Arial;text-anchor:end;stroke-linecap:butt;stroke-linejoin:round"
-         x="26.660938"
-         y="122.99891"
-         id="text60">0.00</text>
-    </g>
-    <g
-       id="line2d_6"
-       style="stroke-linecap:butt;stroke-linejoin:round"
-       transform="matrix(0.92411447,0,0,0.92411455,85.805087,47.91025)">
-      <g
-         id="g66"
-         style="stroke-linecap:butt;stroke-linejoin:round">
-        <use
-           style="stroke:#000000;stroke-width:0.80000001;stroke-linecap:butt;stroke-linejoin:round"
-           x="33.660938"
-           xlink:href="#mbd6ab94c72"
-           y="94.710907"
-           id="use64"
-           width="100%"
-           height="100%" />
-      </g>
-    </g>
-    <g
-       id="text_6"
-       style="stroke-linecap:butt;stroke-linejoin:round"
-       transform="matrix(0.74173601,0,0,0.74173609,92.483437,64.632261)">
-      <text
-         style="font-style:normal;font-weight:normal;font-size:10px;line-height:0%;font-family:Arial;text-anchor:end;stroke-linecap:butt;stroke-linejoin:round"
-         x="26.660938"
-         y="98.289818"
-         id="text69">0.25</text>
-    </g>
-    <g
-       id="line2d_7"
-       style="stroke-linecap:butt;stroke-linejoin:round"
-       transform="matrix(0.92411447,0,0,0.92411455,85.805087,47.91025)">
-      <g
-         id="g75"
-         style="stroke-linecap:butt;stroke-linejoin:round">
-        <use
-           style="stroke:#000000;stroke-width:0.80000001;stroke-linecap:butt;stroke-linejoin:round"
-           x="33.660938"
-           xlink:href="#mbd6ab94c72"
-           y="70.001816"
-           id="use73"
-           width="100%"
-           height="100%" />
-      </g>
-    </g>
-    <g
-       id="text_7"
-       style="stroke-linecap:butt;stroke-linejoin:round"
-       transform="matrix(0.74173601,0,0,0.74173609,92.483437,60.266609)">
-      <text
-         style="font-style:normal;font-weight:normal;font-size:10px;line-height:0%;font-family:Arial;text-anchor:end;stroke-linecap:butt;stroke-linejoin:round"
-         x="26.660938"
-         y="73.580727"
-         id="text78">0.50</text>
-    </g>
-    <g
-       id="line2d_8"
-       style="stroke-linecap:butt;stroke-linejoin:round"
-       transform="matrix(0.92411447,0,0,0.92411455,85.805087,47.91025)">
-      <g
-         id="g84"
-         style="stroke-linecap:butt;stroke-linejoin:round">
-        <use
-           style="stroke:#000000;stroke-width:0.80000001;stroke-linecap:butt;stroke-linejoin:round"
-           x="33.660938"
-           xlink:href="#mbd6ab94c72"
-           y="45.292728"
-           id="use82"
-           width="100%"
-           height="100%" />
-      </g>
-    </g>
-    <g
-       id="text_8"
-       style="stroke-linecap:butt;stroke-linejoin:round"
-       transform="matrix(0.74173601,0,0,0.74173609,92.483437,55.90095)">
-      <text
-         style="font-style:normal;font-weight:normal;font-size:10px;line-height:0%;font-family:Arial;text-anchor:end;stroke-linecap:butt;stroke-linejoin:round"
-         x="26.660938"
-         y="48.871635"
-         id="text87">0.75</text>
-    </g>
-    <g
-       id="line2d_9"
-       style="stroke-linecap:butt;stroke-linejoin:round"
-       transform="matrix(0.92411447,0,0,0.92411455,85.805087,47.91025)">
-      <g
-         id="g93"
-         style="stroke-linecap:butt;stroke-linejoin:round">
-        <use
-           style="stroke:#000000;stroke-width:0.80000001;stroke-linecap:butt;stroke-linejoin:round"
-           x="33.660938"
-           xlink:href="#mbd6ab94c72"
-           y="20.583635"
-           id="use91"
-           width="100%"
-           height="100%" />
-      </g>
-    </g>
-    <g
-       id="text_9-3"
-       style="stroke-linecap:butt;stroke-linejoin:round"
-       transform="matrix(0.74173601,0,0,0.74173609,92.483437,51.535309)">
-      <text
-         style="font-style:normal;font-weight:normal;font-size:10px;line-height:0%;font-family:Arial;text-anchor:end;stroke-linecap:butt;stroke-linejoin:round"
-         x="26.660938"
-         y="24.162542"
-         id="text96">1.00</text>
-    </g>
-    <path
-       transform="translate(0,-106.49997)"
-       d="m 120.37054,268.20145 v 3.35147"
-       style="stroke-linecap:butt;stroke-linejoin:round;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.48262313;stroke-miterlimit:9;stroke-dasharray:none;stroke-opacity:1"
-       id="path4663"
-       inkscape:connector-curvature="0" />
-    <text
-       transform="translate(0,-106.49997)"
-       style="stroke-linecap:butt;stroke-linejoin:round;font-variant:normal;font-weight:normal;font-size:7.08397388px;line-height:0%;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.71408325"
-       id="text4665"
-       x="118.34242"
-       y="277.84937">
-      <tspan
-         style="stroke-width:0.71408325;stroke-linecap:butt;stroke-linejoin:round"
-         x="118.34242"
-         y="277.84937"
-         id="tspan4667">0</tspan>
-    </text>
-    <path
-       transform="translate(0,-106.49997)"
-       d="m 151.53915,268.20145 v 3.35147"
-       style="stroke-linecap:butt;stroke-linejoin:round;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.48262313;stroke-miterlimit:9;stroke-dasharray:none;stroke-opacity:1"
-       id="path4669"
-       inkscape:connector-curvature="0" />
-    <text
-       transform="translate(0,-106.49997)"
-       style="stroke-linecap:butt;stroke-linejoin:round;font-variant:normal;font-weight:normal;font-size:8.56899929px;line-height:0%;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.71408325"
-       id="text4671"
-       x="147.22025"
-       y="277.84937">
-      <tspan
-         x="147.22025 151.15884"
-         y="277.84937"
-         sodipodi:role="line"
-         id="tspan4673"
-         style="font-size:7.08397388px;line-height:1.25;stroke-width:0.71408325;stroke-linecap:butt;stroke-linejoin:round">25</tspan>
-    </text>
-    <path
-       transform="translate(0,-106.49997)"
-       d="m 182.70774,268.20145 v 3.35147"
-       style="stroke-linecap:butt;stroke-linejoin:round;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.48262313;stroke-miterlimit:9;stroke-dasharray:none;stroke-opacity:1"
-       id="path4675"
-       inkscape:connector-curvature="0" />
-    <text
-       transform="translate(0,-106.49997)"
-       style="stroke-linecap:butt;stroke-linejoin:round;font-variant:normal;font-weight:normal;font-size:8.56899929px;line-height:0%;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.71408325"
-       id="text4677"
-       x="178.04262"
-       y="277.84937">
-      <tspan
-         x="178.04262 181.98114"
-         y="277.84937"
-         sodipodi:role="line"
-         id="tspan4679"
-         style="font-size:7.08397388px;line-height:1.25;stroke-width:0.71408325;stroke-linecap:butt;stroke-linejoin:round">50</tspan>
-    </text>
-    <path
-       transform="translate(0,-106.49997)"
-       d="m 213.87631,268.20145 v 3.35147"
-       style="stroke-linecap:butt;stroke-linejoin:round;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.48262313;stroke-miterlimit:9;stroke-dasharray:none;stroke-opacity:1"
-       id="path4681"
-       inkscape:connector-curvature="0" />
-    <text
-       transform="translate(0,-106.49997)"
-       style="stroke-linecap:butt;stroke-linejoin:round;font-variant:normal;font-weight:normal;font-size:8.56899929px;line-height:0%;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.71408325"
-       id="text4683"
-       x="208.82889"
-       y="277.84937">
-      <tspan
-         x="208.82889 212.76749"
-         y="277.84937"
-         sodipodi:role="line"
-         id="tspan4685"
-         style="font-size:7.08397388px;line-height:1.25;stroke-width:0.71408325;stroke-linecap:butt;stroke-linejoin:round">75</tspan>
-    </text>
-    <text
-       transform="translate(0,-106.49997)"
-       style="stroke-linecap:butt;stroke-linejoin:round;font-variant:normal;font-weight:normal;font-size:7.16095161px;line-height:0%;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.59674591"
-       id="text4687"
-       x="133.88281"
-       y="285.40396">
-      <tspan
-         x="133.88281 138.15695 141.44839 146.37953 149.67099 152.96245 154.93372 156.57939 159.87077 161.51648 163.16217 166.4536 169.74495 172.70485 175.99634 177.96762 180.92754 184.21902 185.86473 187.17896 190.47037 193.76183"
-         y="285.40396"
-         sodipodi:role="line"
-         id="tspan4689"
-         style="font-size:5.91994333px;line-height:1.25;stroke-width:0.59674591;stroke-linecap:butt;stroke-linejoin:round">Number of observations</tspan>
-    </text>
-    <path
-       transform="translate(0,-106.49997)"
-       inkscape:connector-curvature="0"
-       id="path4759"
-       style="stroke-linecap:square;stroke-linejoin:miter;fill:none;stroke:#000000;stroke-width:0.48262313;stroke-miterlimit:9;stroke-dasharray:none;stroke-opacity:1"
-       d="m 120.37054,268.20145 h 93.50577"
-       sodipodi:nodetypes="cc" />
-    <path
-       transform="translate(0,-106.49997)"
-       inkscape:connector-curvature="0"
-       id="path5294"
-       style="stroke-linecap:square;stroke-linejoin:miter;fill:none;stroke:#000000;stroke-width:0.48262307;stroke-miterlimit:4;stroke-dasharray:none"
-       d="M 116.67033,264.76798 V 173.46355"
-       sodipodi:nodetypes="cc" />
-    <text
-       transform="translate(0,-106.49997)"
+         style="stroke-linecap:butt;stroke-linejoin:round">Are the 77 genotypes enough to predict the PfCRT genotype-phenotype map?</flowPara></flowRoot>    <text
        xml:space="preserve"
-       style="stroke-linecap:butt;stroke-linejoin:miter;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:9.34139919px;line-height:0%;font-family:Lato;-inkscape-font-specification:'Lato, Light';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.77844989px;stroke-opacity:1"
-       x="90.518135"
-       y="222.32249"
-       id="text5588"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10.65530491px;line-height:1;font-family:roboto;-inkscape-font-specification:'roboto Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;opacity:0.98999999;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.52916664;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:0.26458333, 0.26458333;stroke-dashoffset:0;stroke-opacity:1"
+       x="-162.49986"
+       y="138.77641"
+       id="text431"><tspan
          sodipodi:role="line"
-         id="tspan5590"
-         x="90.518135"
-         y="222.32249"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.7306242px;line-height:1;font-family:Arial;-inkscape-font-specification:Arial;stroke-width:0.77844989px;stroke-linecap:butt;stroke-linejoin:round">R<tspan
-   style="font-size:6.3249054px;baseline-shift:super;stroke-width:0.77844989px;stroke-linecap:butt;stroke-linejoin:round"
-   id="tspan5592">2</tspan></tspan></text>
-    <path
-       transform="translate(0,-106.49997)"
-       style="stroke-linecap:butt;stroke-linejoin:miter;fill:none;stroke:#6f6f6f;stroke-width:1.05833328;stroke-miterlimit:4;stroke-dasharray:1.05833333, 1.05833332999999996;stroke-dashoffset:0;stroke-opacity:1"
-       d="M 212.61641,189.42295 H 116.87954"
-       id="path2753"
-       inkscape:connector-curvature="0" />
-  </g>
-  <g
-     inkscape:groupmode="layer"
-     id="layer3"
-     inkscape:label="fit-score">
-    <g
-       style="stroke-linecap:butt;stroke-linejoin:round"
-       id="g4735"
-       transform="matrix(0.95756039,0,0,-0.95756039,75.547852,192.7735)">
-      <g
-         style="stroke-linecap:butt;stroke-linejoin:round"
-         id="g4737"
-         clip-path="url(#clipPath4739)">
-        <path
-           d="m 66.339375,129.11763 6.51,-3.00445 6.51,-3.42125 6.51,-1.83689 6.51,-0.31974 6.51,-1.3853 6.509995,-1.64147 6.51,0.13541 6.51001,-0.55129 6.50999,-0.45886 6.51,-0.15795 6.51,-0.0201"
-           style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
-           id="path4743"
-           inkscape:connector-curvature="0" />
-      </g>
-    </g>
-  </g>
-  <g
-     inkscape:groupmode="layer"
-     id="layer4"
-     inkscape:label="pred-score">
-    <g
-       style="stroke-linecap:butt;stroke-linejoin:round"
-       id="g4745"
-       transform="matrix(0.95756039,0,0,-0.95756039,75.547852,192.7735)">
-      <g
-         style="stroke-linecap:butt;stroke-linejoin:round"
-         id="g4747"
-         clip-path="url(#clipPath4749)">
-        <path
-           d="m 66.339375,70.574042 6.51,7.456123 6.51,9.764227 6.51,4.816426 6.51,3.876136 6.51,4.226926 6.509995,3.42139 6.51,0.17533 6.51001,3.15507 6.50999,0.25643 6.51,1.32698 6.51,0.27752"
-           style="fill:none;stroke:#ff0000;stroke-width:2;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
-           id="path4753"
-           inkscape:connector-curvature="0" />
-      </g>
-    </g>
+         id="tspan429"
+         style="stroke-width:0.52916664;stroke-linecap:butt;stroke-linejoin:round"
+         x="-162.49986"
+         y="146.7679" /></text>
   </g>
 </svg>
