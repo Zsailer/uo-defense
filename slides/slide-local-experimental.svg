@@ -109,6 +109,118 @@
          height="203.85001"
          style="stroke-linecap:butt;stroke-linejoin:round" />
     </clipPath>
+    <style
+       id="style991"
+       type="text/css">
+*{stroke-linecap:butt;stroke-linejoin:round;}
+  </style>
+    <clipPath
+       id="paded54bc0a">
+      <rect
+         id="rect1017"
+         y="10.7"
+         x="10.7"
+         width="558"
+         height="54.36" />
+    </clipPath>
+    <style
+       id="style1207"
+       type="text/css">
+*{stroke-linecap:butt;stroke-linejoin:round;}
+  </style>
+    <clipPath
+       id="p92d25e53c0">
+      <rect
+         id="rect1233"
+         y="10.7"
+         x="10.7"
+         width="558"
+         height="54.36" />
+    </clipPath>
+    <style
+       id="style1454"
+       type="text/css">
+*{stroke-linecap:butt;stroke-linejoin:round;}
+  </style>
+    <clipPath
+       id="p28c281404e">
+      <rect
+         id="rect1480"
+         y="10.7"
+         x="10.7"
+         width="558"
+         height="54.36" />
+    </clipPath>
+    <style
+       id="style1653"
+       type="text/css">
+*{stroke-linecap:butt;stroke-linejoin:round;}
+  </style>
+    <clipPath
+       id="pcbd842a656">
+      <rect
+         id="rect1679"
+         y="10.7"
+         x="10.7"
+         width="558"
+         height="54.36" />
+    </clipPath>
+    <style
+       id="style1859"
+       type="text/css">
+*{stroke-linecap:butt;stroke-linejoin:round;}
+  </style>
+    <clipPath
+       id="p83ebbb36c9">
+      <rect
+         id="rect1885"
+         y="10.7"
+         x="10.7"
+         width="558"
+         height="54.36" />
+    </clipPath>
+    <style
+       id="style2074"
+       type="text/css">
+*{stroke-linecap:butt;stroke-linejoin:round;}
+  </style>
+    <clipPath
+       id="p1708827c35">
+      <rect
+         id="rect2100"
+         y="10.7"
+         x="10.7"
+         width="558"
+         height="54.36" />
+    </clipPath>
+    <style
+       id="style2257"
+       type="text/css">
+*{stroke-linecap:butt;stroke-linejoin:round;}
+  </style>
+    <clipPath
+       id="pdc164c8d86">
+      <rect
+         id="rect2283"
+         y="10.7"
+         x="10.7"
+         width="558"
+         height="54.36" />
+    </clipPath>
+    <style
+       id="style2440"
+       type="text/css">
+*{stroke-linecap:butt;stroke-linejoin:round;}
+  </style>
+    <clipPath
+       id="pebd5b5c402">
+      <rect
+         id="rect2469"
+         y="10.7"
+         x="10.7"
+         width="558"
+         height="54.36" />
+    </clipPath>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -117,18 +229,19 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.49497475"
-     inkscape:cx="-56.427865"
-     inkscape:cy="156.85102"
+     inkscape:zoom="0.35"
+     inkscape:cx="898.57574"
+     inkscape:cy="147.04686"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer2"
      showgrid="false"
      units="px"
-     inkscape:window-width="1920"
-     inkscape:window-height="1058"
-     inkscape:window-x="1440"
-     inkscape:window-y="0"
-     inkscape:window-maximized="1" />
+     inkscape:window-width="1440"
+     inkscape:window-height="856"
+     inkscape:window-x="1873"
+     inkscape:window-y="76"
+     inkscape:window-maximized="0"
+     inkscape:snap-global="false" />
   <metadata
      id="metadata5">
     <rdf:RDF>
@@ -142,7 +255,47 @@
     </rdf:RDF>
   </metadata>
   <g
-     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="title">
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot844"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:42.66666794px;line-height:1;font-family:xkcd;-inkscape-font-specification:xkcd;text-align:center;text-anchor:middle;opacity:0.98999999;vector-effect:none;fill:#008000;fill-opacity:1;stroke:none;stroke-width:10.66666698;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       transform="matrix(0.25535162,0,0,0.25535162,177.4304,21.82679)"><flowRegion
+         id="flowRegion846"
+         style="line-height:1;text-align:center;text-anchor:middle;stroke-linecap:butt;stroke-linejoin:round"><rect
+           id="rect848"
+           width="943.48242"
+           height="412.14224"
+           x="-523.25903"
+           y="-43.67532"
+           style="line-height:1;text-align:center;text-anchor:middle;stroke-linecap:butt;stroke-linejoin:round" /></flowRegion><flowPara
+         id="flowPara850"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;line-height:1;font-family:roboto;-inkscape-font-specification:'roboto Light';text-align:center;text-anchor:middle;fill:#000000;stroke-linecap:butt;stroke-linejoin:round">Are multi-way interactions common in experimental genotype-phenotype maps?</flowPara></flowRoot>  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="citations">
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot858"
+       style="stroke-linecap:round;stroke-linejoin:round;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:40.27201843px;line-height:1;font-family:roboto;-inkscape-font-specification:'roboto Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;opacity:0.98999999;vector-effect:none;fill:none;fill-opacity:1;stroke:#404040;stroke-width:2.66666675;stroke-miterlimit:10;stroke-dasharray:1.33333333, 1.33333333000000009;stroke-dashoffset:0;stroke-opacity:1"
+       transform="matrix(0.18423526,0,0,0.18423526,294.93295,61.941131)"><flowRegion
+         id="flowRegion860"
+         style="stroke-linecap:butt;stroke-linejoin:round"><rect
+           id="rect862"
+           width="844.48755"
+           height="183.84776"
+           x="-517.19812"
+           y="639.18781"
+           style="stroke-linecap:butt;stroke-linejoin:round" /></flowRegion><flowPara
+         id="flowPara864"
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-linecap:butt;stroke-linejoin:round">Sailer and Harms. <flowSpan
+   style="font-style:italic"
+   id="flowSpan866">Genetics</flowSpan>. 2017</flowPara></flowRoot>  </g>
+  <g
+     inkscape:label="data"
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,-106.49997)"
@@ -190,49 +343,668 @@
        id="matplotlib.axis_2-9"
        style="stroke-linecap:butt;stroke-linejoin:round"
        transform="matrix(0.35277778,0,0,0.35277778,-69.64841,183.18504)" />
+    <g
+       style="stroke-linecap:butt;stroke-linejoin:round"
+       id="patch_1"
+       transform="matrix(0.35277779,0,0,0.35277779,31.937344,214.68121)">
+      <path
+         inkscape:connector-curvature="0"
+         d="M 0,75.76 H 579.4 V 0 H 0 Z"
+         style="fill:#ffffff;stroke-linecap:butt;stroke-linejoin:round"
+         id="path995" />
+    </g>
     <flowRoot
        xml:space="preserve"
-       id="flowRoot844"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:42.66666794px;line-height:1;font-family:xkcd;-inkscape-font-specification:xkcd;text-align:center;text-anchor:middle;opacity:0.98999999;vector-effect:none;fill:#008000;fill-opacity:1;stroke:none;stroke-width:10.66666698;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       transform="matrix(0.30595825,0,0,0.30595825,185.68539,131.07158)"><flowRegion
-         id="flowRegion846"
-         style="line-height:1;text-align:center;text-anchor:middle;stroke-linecap:butt;stroke-linejoin:round"><rect
-           id="rect848"
-           width="943.48242"
-           height="412.14224"
-           x="-523.25903"
-           y="-43.67532"
-           style="line-height:1;text-align:center;text-anchor:middle;stroke-linecap:butt;stroke-linejoin:round" /></flowRegion><flowPara
-         id="flowPara850"
-         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;line-height:1;font-family:roboto;-inkscape-font-specification:'roboto Light';text-align:center;text-anchor:middle;fill:#000000;stroke-linecap:butt;stroke-linejoin:round"><flowSpan
-   style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:1;font-family:roboto;-inkscape-font-specification:'roboto Medium';text-align:center;text-anchor:middle;stroke-linecap:butt;stroke-linejoin:round"
-   id="flowSpan852">local epistasis</flowSpan> is common in experimental genotype-phenotype maps</flowPara></flowRoot>    <rect
-       style="opacity:0.98999999;vector-effect:none;fill:#afdde9;fill-opacity:0.28095239;stroke:none;stroke-width:2.82222223;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       id="rect849"
-       width="219.69556"
-       height="111.18412"
-       x="59.868374"
-       y="156.95074" />
-    <rect
-       style="opacity:0.98999999;vector-effect:none;fill:#afdde9;fill-opacity:0.28095242;stroke:none;stroke-width:2.82222223;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       id="rect851"
-       width="3.7417734"
-       height="0.53453904"
-       x="195.10675"
-       y="394.82062" />
-    <flowRoot
-       xml:space="preserve"
-       id="flowRoot853"
-       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:42.66666794px;line-height:1.25;font-family:roboto;-inkscape-font-specification:'roboto Medium';text-align:center;text-anchor:middle;opacity:0.98999999;vector-effect:none;fill:#afdde9;fill-opacity:0.28095242;stroke:none;stroke-width:10.66666698;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       transform="matrix(0.26458333,0,0,0.26458333,226.11002,98.481884)"><flowRegion
-         id="flowRegion855"
-         style="stroke-linecap:butt;stroke-linejoin:round"><rect
-           id="rect857"
-           width="765.69562"
-           height="272.74118"
-           x="-595.98999"
-           y="402.8121"
+       id="flowRoot1525"
+       style="line-height:1;fill:#000000;fill-opacity:1;stroke-width:2.66666667;stroke-miterlimit:10;stroke-dasharray:1.33333333, 1.33333333000000009;stroke-dashoffset:0;-inkscape-font-specification:'roboto Light';font-family:roboto;font-weight:300;font-style:normal;font-stretch:normal;font-variant:normal;font-size:40.27201971px;font-variant-east_asian:normal;opacity:0.99;vector-effect:none;stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;text-anchor:middle;text-align:center;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal"><flowRegion
+         id="flowRegion1527"><rect
+           id="rect1529"
+           width="1025.7142"
+           height="294.28571"
+           x="-588.57141"
+           y="1248.5714"
            style="stroke-linecap:butt;stroke-linejoin:round" /></flowRegion><flowPara
-         id="flowPara859"
-         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:roboto;-inkscape-font-specification:'roboto Light';fill:#000000;fill-opacity:1;stroke:none;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1">placeholder</flowPara></flowRoot>  </g>
+         id="flowPara1531"></flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot2328"
+       style="line-height:1;fill:#000000;fill-opacity:1;stroke-width:2.66666667;stroke-miterlimit:10;stroke-dasharray:1.33333333, 1.33333333000000009;stroke-dashoffset:0;-inkscape-font-specification:'roboto Light';font-family:roboto;font-weight:300;font-style:normal;font-stretch:normal;font-variant:normal;font-size:40.27201971px;font-variant-east_asian:normal;opacity:0.99;vector-effect:none;stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;text-anchor:middle;text-align:center;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal"><flowRegion
+         id="flowRegion2330"><rect
+           id="rect2332"
+           width="1080"
+           height="211.42857"
+           x="-714.28571"
+           y="1988.5714"
+           style="stroke-linecap:butt;stroke-linejoin:round" /></flowRegion><flowPara
+         id="flowPara2334"></flowPara></flowRoot>    <g
+       id="g2790"
+       transform="matrix(0.66084781,0,0,0.66084781,93.006952,-78.732745)"
+       style="stroke-linecap:butt;stroke-linejoin:round">
+      <flowRoot
+         transform="matrix(0.26458333,0,0,0.26458333,-61.302651,334.05235)"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:40.27201843px;line-height:1;font-family:roboto;-inkscape-font-specification:'roboto Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;opacity:0.98999999;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.66666675;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:1.33333333, 1.33333333;stroke-dashoffset:0;stroke-opacity:1"
+         id="flowRoot868"
+         xml:space="preserve"><flowRegion
+           style="stroke-linecap:butt;stroke-linejoin:round"
+           id="flowRegion870"><rect
+             style="stroke-linecap:butt;stroke-linejoin:round"
+             y="192.70038"
+             x="78.791901"
+             height="428.16113"
+             width="591.65204"
+             id="rect872" /></flowRegion><flowPara
+           style="stroke-linecap:butt;stroke-linejoin:round"
+           id="flowPara874">Weinreich et. al <flowSpan
+   id="flowSpan2630"
+   style="font-style:italic;stroke-linecap:butt;stroke-linejoin:round">Science</flowSpan>. 2006</flowPara></flowRoot>      <g
+         transform="matrix(0.35277779,0,0,0.35277779,109.46693,375.7224)"
+         id="axes_1"
+         style="stroke-linecap:butt;stroke-linejoin:round">
+        <g
+           id="patch_2"
+           style="stroke-linecap:butt;stroke-linejoin:round">
+          <path
+             id="path998"
+             style="fill:#c4ad66;stroke-linecap:butt;stroke-linejoin:round"
+             d="M 10.7,62.589091 H 542.12857 V 13.170909 H 10.7 Z"
+             clip-path="url(#paded54bc0a)"
+             inkscape:connector-curvature="0" />
+        </g>
+        <g
+           id="patch_3"
+           style="stroke-linecap:butt;stroke-linejoin:round">
+          <path
+             id="path1001"
+             style="fill:#b47cc7;stroke-linecap:butt;stroke-linejoin:round"
+             d="M 10.7,62.589091 H 540.30711 V 13.170909 H 10.7 Z"
+             clip-path="url(#paded54bc0a)"
+             inkscape:connector-curvature="0" />
+        </g>
+        <g
+           id="patch_4"
+           style="stroke-linecap:butt;stroke-linejoin:round">
+          <path
+             id="path1004"
+             style="fill:#d65f5f;stroke-linecap:butt;stroke-linejoin:round"
+             d="M 10.7,62.589091 H 515.06583 V 13.170909 H 10.7 Z"
+             clip-path="url(#paded54bc0a)"
+             inkscape:connector-curvature="0" />
+        </g>
+        <g
+           id="patch_5"
+           style="stroke-linecap:butt;stroke-linejoin:round">
+          <path
+             id="path1007"
+             style="fill:#6acc65;stroke-linecap:butt;stroke-linejoin:round"
+             d="M 10.7,62.589091 H 500.79712 V 13.170909 H 10.7 Z"
+             clip-path="url(#paded54bc0a)"
+             inkscape:connector-curvature="0" />
+        </g>
+        <g
+           id="patch_6"
+           style="stroke-linecap:butt;stroke-linejoin:round">
+          <path
+             id="path1010"
+             style="fill:#4878cf;stroke-linecap:butt;stroke-linejoin:round"
+             d="M 10.7,62.589091 H 490.04838 V 13.170909 H 10.7 Z"
+             clip-path="url(#paded54bc0a)"
+             inkscape:connector-curvature="0" />
+        </g>
+        <g
+           id="matplotlib.axis_1-79"
+           style="stroke-linecap:butt;stroke-linejoin:round" />
+        <g
+           id="matplotlib.axis_2-3"
+           style="stroke-linecap:butt;stroke-linejoin:round" />
+      </g>
+      <g
+         transform="matrix(0.35277779,0,0,0.35277779,109.46693,355.98127)"
+         id="axes_1-0"
+         style="stroke-linecap:butt;stroke-linejoin:round">
+        <g
+           id="patch_2-2"
+           style="stroke-linecap:butt;stroke-linejoin:round">
+          <path
+             id="path1214"
+             style="fill:#c4ad66;stroke-linecap:butt;stroke-linejoin:round"
+             d="M 10.7,62.589091 H 542.12857 V 13.170909 H 10.7 Z"
+             clip-path="url(#p92d25e53c0)"
+             inkscape:connector-curvature="0" />
+        </g>
+        <g
+           id="patch_3-4"
+           style="stroke-linecap:butt;stroke-linejoin:round">
+          <path
+             id="path1217"
+             style="fill:#b47cc7;stroke-linecap:butt;stroke-linejoin:round"
+             d="M 10.7,62.589091 H 541.78835 V 13.170909 H 10.7 Z"
+             clip-path="url(#p92d25e53c0)"
+             inkscape:connector-curvature="0" />
+        </g>
+        <g
+           id="patch_4-8"
+           style="stroke-linecap:butt;stroke-linejoin:round">
+          <path
+             id="path1220"
+             style="fill:#d65f5f;stroke-linecap:butt;stroke-linejoin:round"
+             d="M 10.7,62.589091 H 536.97969 V 13.170909 H 10.7 Z"
+             clip-path="url(#p92d25e53c0)"
+             inkscape:connector-curvature="0" />
+        </g>
+        <g
+           id="patch_5-3"
+           style="stroke-linecap:butt;stroke-linejoin:round">
+          <path
+             id="path1223"
+             style="fill:#6acc65;stroke-linecap:butt;stroke-linejoin:round"
+             d="M 10.7,62.589091 H 530.31794 V 13.170909 H 10.7 Z"
+             clip-path="url(#p92d25e53c0)"
+             inkscape:connector-curvature="0" />
+        </g>
+        <g
+           id="patch_6-9"
+           style="stroke-linecap:butt;stroke-linejoin:round">
+          <path
+             id="path1226"
+             style="fill:#4878cf;stroke-linecap:butt;stroke-linejoin:round"
+             d="M 10.7,62.589091 H 510.043 V 13.170909 H 10.7 Z"
+             clip-path="url(#p92d25e53c0)"
+             inkscape:connector-curvature="0" />
+        </g>
+        <g
+           id="matplotlib.axis_1-0"
+           style="stroke-linecap:butt;stroke-linejoin:round" />
+        <g
+           id="matplotlib.axis_2-5"
+           style="stroke-linecap:butt;stroke-linejoin:round" />
+      </g>
+      <flowRoot
+         transform="matrix(0.26458333,0,0,0.26458333,74.637691,63.671737)"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:40.27201843px;line-height:1;font-family:roboto;-inkscape-font-specification:'roboto Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;opacity:0.98999999;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.66666675;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:1.33333333, 1.33333333;stroke-dashoffset:0;stroke-opacity:1"
+         id="flowRoot1278"
+         xml:space="preserve"><flowRegion
+           style="stroke-linecap:butt;stroke-linejoin:round"
+           id="flowRegion1280"><rect
+             style="stroke-linecap:butt;stroke-linejoin:round"
+             y="1140"
+             x="-548.57141"
+             height="294.28571"
+             width="914.28571"
+             id="rect1282" /></flowRegion><flowPara
+           style="stroke-linecap:butt;stroke-linejoin:round"
+           id="flowPara1284">Khan et al. <flowSpan
+   id="flowSpan2628"
+   style="font-style:italic;stroke-linecap:butt;stroke-linejoin:round">Science</flowSpan>. 2011</flowPara></flowRoot>      <g
+         transform="matrix(0.35277779,0,0,0.35277779,109.46693,454.68694)"
+         id="axes_1-2"
+         style="stroke-linecap:butt;stroke-linejoin:round">
+        <g
+           id="patch_2-7"
+           style="stroke-linecap:butt;stroke-linejoin:round">
+          <path
+             id="path1461"
+             style="fill:#c4ad66;stroke-linecap:butt;stroke-linejoin:round"
+             d="M 10.7,62.589091 H 542.12857 V 13.170909 H 10.7 Z"
+             clip-path="url(#p28c281404e)"
+             inkscape:connector-curvature="0" />
+        </g>
+        <g
+           id="patch_3-3"
+           style="stroke-linecap:butt;stroke-linejoin:round">
+          <path
+             id="path1464"
+             style="fill:#b47cc7;stroke-linecap:butt;stroke-linejoin:round"
+             d="M 10.7,62.589091 H 518.99216 V 13.170909 H 10.7 Z"
+             clip-path="url(#p28c281404e)"
+             inkscape:connector-curvature="0" />
+        </g>
+        <g
+           id="patch_4-7"
+           style="stroke-linecap:butt;stroke-linejoin:round">
+          <path
+             id="path1467"
+             style="fill:#d65f5f;stroke-linecap:butt;stroke-linejoin:round"
+             d="M 10.7,62.589091 H 487.14643 V 13.170909 H 10.7 Z"
+             clip-path="url(#p28c281404e)"
+             inkscape:connector-curvature="0" />
+        </g>
+        <g
+           id="patch_5-9"
+           style="stroke-linecap:butt;stroke-linejoin:round">
+          <path
+             id="path1470"
+             style="fill:#6acc65;stroke-linecap:butt;stroke-linejoin:round"
+             d="M 10.7,62.589091 H 431.3083 V 13.170909 H 10.7 Z"
+             clip-path="url(#p28c281404e)"
+             inkscape:connector-curvature="0" />
+        </g>
+        <g
+           id="patch_6-0"
+           style="stroke-linecap:butt;stroke-linejoin:round">
+          <path
+             id="path1473"
+             style="fill:#4878cf;stroke-linecap:butt;stroke-linejoin:round"
+             d="M 10.7,62.589091 H 384.29669 V 13.170909 H 10.7 Z"
+             clip-path="url(#p28c281404e)"
+             inkscape:connector-curvature="0" />
+        </g>
+        <g
+           id="matplotlib.axis_1-2"
+           style="stroke-linecap:butt;stroke-linejoin:round" />
+        <g
+           id="matplotlib.axis_2-39"
+           style="stroke-linecap:butt;stroke-linejoin:round" />
+      </g>
+      <flowRoot
+         transform="matrix(0.26458333,0,0,0.26458333,-8.8198701,106.43716)"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:40.27201843px;line-height:1;font-family:roboto;-inkscape-font-specification:'roboto Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;opacity:0.98999999;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.66666675;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:1.33333333, 1.33333333;stroke-dashoffset:0;stroke-opacity:1"
+         id="flowRoot1533"
+         xml:space="preserve"><flowRegion
+           style="stroke-linecap:butt;stroke-linejoin:round"
+           id="flowRegion1535"><rect
+             style="stroke-linecap:butt;stroke-linejoin:round"
+             y="1351.4286"
+             x="-337.14285"
+             height="330.00003"
+             width="821.42853"
+             id="rect1537" /></flowRegion><flowPara
+           style="stroke-linecap:butt;stroke-linejoin:round"
+           id="flowPara1539">de Visser et al. <flowSpan
+   id="flowSpan2638"
+   style="font-style:italic;stroke-linecap:butt;stroke-linejoin:round">The Amer. Naturalist</flowSpan>. 2009</flowPara></flowRoot>      <g
+         transform="matrix(0.35277779,0,0,0.35277779,109.46693,395.46353)"
+         id="axes_1-7"
+         style="stroke-linecap:butt;stroke-linejoin:round">
+        <g
+           id="patch_2-0"
+           style="stroke-linecap:butt;stroke-linejoin:round">
+          <path
+             id="path1660"
+             style="fill:#c4ad66;stroke-linecap:butt;stroke-linejoin:round"
+             d="M 10.7,62.589091 H 542.12857 V 13.170909 H 10.7 Z"
+             clip-path="url(#pcbd842a656)"
+             inkscape:connector-curvature="0" />
+        </g>
+        <g
+           id="patch_3-39"
+           style="stroke-linecap:butt;stroke-linejoin:round">
+          <path
+             id="path1663"
+             style="fill:#b47cc7;stroke-linecap:butt;stroke-linejoin:round"
+             d="M 10.7,62.589091 H 542.05724 V 13.170909 H 10.7 Z"
+             clip-path="url(#pcbd842a656)"
+             inkscape:connector-curvature="0" />
+        </g>
+        <g
+           id="patch_4-86"
+           style="stroke-linecap:butt;stroke-linejoin:round">
+          <path
+             id="path1666"
+             style="fill:#d65f5f;stroke-linecap:butt;stroke-linejoin:round"
+             d="M 10.7,62.589091 H 525.19895 V 13.170909 H 10.7 Z"
+             clip-path="url(#pcbd842a656)"
+             inkscape:connector-curvature="0" />
+        </g>
+        <g
+           id="patch_5-5"
+           style="stroke-linecap:butt;stroke-linejoin:round">
+          <path
+             id="path1669"
+             style="fill:#6acc65;stroke-linecap:butt;stroke-linejoin:round"
+             d="M 10.7,62.589091 H 497.76604 V 13.170909 H 10.7 Z"
+             clip-path="url(#pcbd842a656)"
+             inkscape:connector-curvature="0" />
+        </g>
+        <g
+           id="patch_6-7"
+           style="stroke-linecap:butt;stroke-linejoin:round">
+          <path
+             id="path1672"
+             style="fill:#4878cf;stroke-linecap:butt;stroke-linejoin:round"
+             d="M 10.7,62.589091 H 490.94157 V 13.170909 H 10.7 Z"
+             clip-path="url(#pcbd842a656)"
+             inkscape:connector-curvature="0" />
+        </g>
+        <g
+           id="matplotlib.axis_1-6"
+           style="stroke-linecap:butt;stroke-linejoin:round" />
+        <g
+           id="matplotlib.axis_2-2"
+           style="stroke-linecap:butt;stroke-linejoin:round" />
+      </g>
+      <flowRoot
+         transform="matrix(0.26458333,0,0,0.26458333,-10.5208,47.213753)"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:40.27201843px;line-height:1;font-family:roboto;-inkscape-font-specification:'roboto Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;opacity:0.98999999;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.66666675;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:1.33333333, 1.33333333;stroke-dashoffset:0;stroke-opacity:1"
+         id="flowRoot1533-7"
+         xml:space="preserve"><flowRegion
+           style="stroke-linecap:butt;stroke-linejoin:round"
+           id="flowRegion1535-0"><rect
+             style="stroke-linecap:butt;stroke-linejoin:round"
+             y="1351.4286"
+             x="-337.14285"
+             height="327.14288"
+             width="834.28571"
+             id="rect1537-3" /></flowRegion><flowPara
+           style="stroke-linecap:butt;stroke-linejoin:round"
+           id="flowPara1539-9">de Visser et al. <flowSpan
+   id="flowSpan2632"
+   style="font-style:italic;stroke-linecap:butt;stroke-linejoin:round">The Amer. Naturalist</flowSpan>. 2009</flowPara></flowRoot>      <g
+         transform="matrix(0.35277779,0,0,0.35277779,109.46693,415.20466)"
+         id="axes_1-9"
+         style="stroke-linecap:butt;stroke-linejoin:round">
+        <g
+           id="patch_2-1"
+           style="stroke-linecap:butt;stroke-linejoin:round">
+          <path
+             id="path1866"
+             style="fill:#c4ad66;stroke-linecap:butt;stroke-linejoin:round"
+             d="M 10.7,62.589091 H 542.12857 V 13.170909 H 10.7 Z"
+             clip-path="url(#p83ebbb36c9)"
+             inkscape:connector-curvature="0" />
+        </g>
+        <g
+           id="patch_3-7"
+           style="stroke-linecap:butt;stroke-linejoin:round">
+          <path
+             id="path1869"
+             style="fill:#b47cc7;stroke-linecap:butt;stroke-linejoin:round"
+             d="M 10.7,62.589091 H 532.52232 V 13.170909 H 10.7 Z"
+             clip-path="url(#p83ebbb36c9)"
+             inkscape:connector-curvature="0" />
+        </g>
+        <g
+           id="patch_4-2"
+           style="stroke-linecap:butt;stroke-linejoin:round">
+          <path
+             id="path1872"
+             style="fill:#d65f5f;stroke-linecap:butt;stroke-linejoin:round"
+             d="M 10.7,62.589091 H 502.9232 V 13.170909 H 10.7 Z"
+             clip-path="url(#p83ebbb36c9)"
+             inkscape:connector-curvature="0" />
+        </g>
+        <g
+           id="patch_5-36"
+           style="stroke-linecap:butt;stroke-linejoin:round">
+          <path
+             id="path1875"
+             style="fill:#6acc65;stroke-linecap:butt;stroke-linejoin:round"
+             d="M 10.7,62.589091 H 481.20482 V 13.170909 H 10.7 Z"
+             clip-path="url(#p83ebbb36c9)"
+             inkscape:connector-curvature="0" />
+        </g>
+        <g
+           id="patch_6-5"
+           style="stroke-linecap:butt;stroke-linejoin:round">
+          <path
+             id="path1878"
+             style="fill:#4878cf;stroke-linecap:butt;stroke-linejoin:round"
+             d="M 10.7,62.589091 H 436.3622 V 13.170909 H 10.7 Z"
+             clip-path="url(#p83ebbb36c9)"
+             inkscape:connector-curvature="0" />
+        </g>
+        <g
+           id="matplotlib.axis_1-5"
+           style="stroke-linecap:butt;stroke-linejoin:round" />
+        <g
+           id="matplotlib.axis_2-8"
+           style="stroke-linecap:butt;stroke-linejoin:round" />
+      </g>
+      <flowRoot
+         transform="matrix(0.26458333,0,0,0.26458333,111.92117,-35.098829)"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:40.27201843px;line-height:1;font-family:roboto;-inkscape-font-specification:'roboto Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;opacity:0.98999999;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.66666675;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:1.33333333, 1.33333333;stroke-dashoffset:0;stroke-opacity:1"
+         id="flowRoot1930"
+         xml:space="preserve"><flowRegion
+           style="stroke-linecap:butt;stroke-linejoin:round"
+           id="flowRegion1932"><rect
+             style="stroke-linecap:butt;stroke-linejoin:round"
+             y="1737.1428"
+             x="-702.85712"
+             height="208.57143"
+             width="808.57141"
+             id="rect1934" /></flowRegion><flowPara
+           style="stroke-linecap:butt;stroke-linejoin:round"
+           id="flowPara1936">Flynn et al. <flowSpan
+   id="flowSpan2634"
+   style="font-style:italic;stroke-linecap:butt;stroke-linejoin:round">PLoS Genetics</flowSpan>. 2013</flowPara></flowRoot>      <flowRoot
+         transform="matrix(0.26458333,0,0,0.26458333,111.92117,-15.357694)"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:40.27201843px;line-height:1;font-family:roboto;-inkscape-font-specification:'roboto Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;opacity:0.98999999;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.66666675;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:1.33333333, 1.33333333;stroke-dashoffset:0;stroke-opacity:1"
+         id="flowRoot1930-1"
+         xml:space="preserve"><flowRegion
+           style="stroke-linecap:butt;stroke-linejoin:round"
+           id="flowRegion1932-4"><rect
+             style="stroke-linecap:butt;stroke-linejoin:round"
+             y="1737.1428"
+             x="-702.85712"
+             height="208.57143"
+             width="808.57141"
+             id="rect1934-7" /></flowRegion><flowPara
+           style="stroke-linecap:butt;stroke-linejoin:round"
+           id="flowPara1936-1">Flynn et al. <flowSpan
+   id="flowSpan2636"
+   style="font-style:italic;stroke-linecap:butt;stroke-linejoin:round">PLoS Genetics</flowSpan>. 2013</flowPara></flowRoot>      <g
+         transform="matrix(0.35277779,0,0,0.35277779,109.46693,434.9458)"
+         id="axes_1-8"
+         style="stroke-linecap:butt;stroke-linejoin:round">
+        <g
+           id="patch_2-4"
+           style="stroke-linecap:butt;stroke-linejoin:round">
+          <path
+             id="path2081"
+             style="fill:#c4ad66;stroke-linecap:butt;stroke-linejoin:round"
+             d="M 10.7,62.589091 H 542.12857 V 13.170909 H 10.7 Z"
+             clip-path="url(#p1708827c35)"
+             inkscape:connector-curvature="0" />
+        </g>
+        <g
+           id="patch_3-8"
+           style="stroke-linecap:butt;stroke-linejoin:round">
+          <path
+             id="path2084"
+             style="fill:#b47cc7;stroke-linecap:butt;stroke-linejoin:round"
+             d="M 10.7,62.589091 H 538.52643 V 13.170909 H 10.7 Z"
+             clip-path="url(#p1708827c35)"
+             inkscape:connector-curvature="0" />
+        </g>
+        <g
+           id="patch_4-0"
+           style="stroke-linecap:butt;stroke-linejoin:round">
+          <path
+             id="path2087"
+             style="fill:#d65f5f;stroke-linecap:butt;stroke-linejoin:round"
+             d="M 10.7,62.589091 H 531.49635 V 13.170909 H 10.7 Z"
+             clip-path="url(#p1708827c35)"
+             inkscape:connector-curvature="0" />
+        </g>
+        <g
+           id="patch_5-4"
+           style="stroke-linecap:butt;stroke-linejoin:round">
+          <path
+             id="path2090"
+             style="fill:#6acc65;stroke-linecap:butt;stroke-linejoin:round"
+             d="M 10.7,62.589091 H 493.0846 V 13.170909 H 10.7 Z"
+             clip-path="url(#p1708827c35)"
+             inkscape:connector-curvature="0" />
+        </g>
+        <g
+           id="patch_6-6"
+           style="stroke-linecap:butt;stroke-linejoin:round">
+          <path
+             id="path2093"
+             style="fill:#4878cf;stroke-linecap:butt;stroke-linejoin:round"
+             d="M 10.7,62.589091 H 406.91692 V 13.170909 H 10.7 Z"
+             clip-path="url(#p1708827c35)"
+             inkscape:connector-curvature="0" />
+        </g>
+        <g
+           id="matplotlib.axis_1-03"
+           style="stroke-linecap:butt;stroke-linejoin:round" />
+        <g
+           id="matplotlib.axis_2-26"
+           style="stroke-linecap:butt;stroke-linejoin:round" />
+      </g>
+      <g
+         transform="matrix(0.35277779,0,0,0.35277779,109.46693,474.42808)"
+         id="axes_1-4"
+         style="stroke-linecap:butt;stroke-linejoin:round">
+        <g
+           id="patch_2-13"
+           style="stroke-linecap:butt;stroke-linejoin:round">
+          <path
+             id="path2264"
+             style="fill:#c4ad66;stroke-linecap:butt;stroke-linejoin:round"
+             d="M 10.7,62.589091 H 542.12857 V 13.170909 H 10.7 Z"
+             clip-path="url(#pdc164c8d86)"
+             inkscape:connector-curvature="0" />
+        </g>
+        <g
+           id="patch_3-78"
+           style="stroke-linecap:butt;stroke-linejoin:round">
+          <path
+             id="path2267"
+             style="fill:#b47cc7;stroke-linecap:butt;stroke-linejoin:round"
+             d="M 10.7,62.589091 H 532.15244 V 13.170909 H 10.7 Z"
+             clip-path="url(#pdc164c8d86)"
+             inkscape:connector-curvature="0" />
+        </g>
+        <g
+           id="patch_4-83"
+           style="stroke-linecap:butt;stroke-linejoin:round">
+          <path
+             id="path2270"
+             style="fill:#d65f5f;stroke-linecap:butt;stroke-linejoin:round"
+             d="M 10.7,62.589091 H 447.82656 V 13.170909 H 10.7 Z"
+             clip-path="url(#pdc164c8d86)"
+             inkscape:connector-curvature="0" />
+        </g>
+        <g
+           id="patch_5-8"
+           style="stroke-linecap:butt;stroke-linejoin:round">
+          <path
+             id="path2273"
+             style="fill:#6acc65;stroke-linecap:butt;stroke-linejoin:round"
+             d="M 10.7,62.589091 H 362.34571 V 13.170909 H 10.7 Z"
+             clip-path="url(#pdc164c8d86)"
+             inkscape:connector-curvature="0" />
+        </g>
+        <g
+           id="patch_6-1"
+           style="stroke-linecap:butt;stroke-linejoin:round">
+          <path
+             id="path2276"
+             style="fill:#4878cf;stroke-linecap:butt;stroke-linejoin:round"
+             d="M 10.7,62.589091 H 233.51957 V 13.170909 H 10.7 Z"
+             clip-path="url(#pdc164c8d86)"
+             inkscape:connector-curvature="0" />
+        </g>
+        <g
+           id="matplotlib.axis_1-53"
+           style="stroke-linecap:butt;stroke-linejoin:round" />
+        <g
+           id="matplotlib.axis_2-54"
+           style="stroke-linecap:butt;stroke-linejoin:round" />
+      </g>
+      <flowRoot
+         transform="matrix(0.26458333,0,0,0.26458333,115.2676,-43.911064)"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:40.27201843px;line-height:1;font-family:roboto;-inkscape-font-specification:'roboto Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;opacity:0.98999999;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.66666675;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:1.33333333, 1.33333333;stroke-dashoffset:0;stroke-opacity:1"
+         id="flowRoot2336"
+         xml:space="preserve"><flowRegion
+           style="stroke-linecap:butt;stroke-linejoin:round"
+           id="flowRegion2338"><rect
+             style="stroke-linecap:butt;stroke-linejoin:round"
+             y="1994.2858"
+             x="-751.42859"
+             height="251.42857"
+             width="882.85712"
+             id="rect2340" /></flowRegion><flowPara
+           style="stroke-linecap:butt;stroke-linejoin:round"
+           id="flowPara2342">Lalic et al. <flowSpan
+   id="flowSpan2640"
+   style="font-style:italic;stroke-linecap:butt;stroke-linejoin:round">Jour of Evo Bio</flowSpan>. 2015</flowPara></flowRoot>      <g
+         transform="matrix(0.35277779,0,0,0.35277779,109.46693,494.16922)"
+         id="axes_1-6"
+         style="stroke-linecap:butt;stroke-linejoin:round">
+        <g
+           id="patch_2-5"
+           style="stroke-linecap:butt;stroke-linejoin:round">
+          <path
+             id="path2447"
+             style="fill:#77bedb;stroke-linecap:butt;stroke-linejoin:round"
+             d="M 10.7,62.589091 H 542.12857 V 13.170909 H 10.7 Z"
+             clip-path="url(#pebd5b5c402)"
+             inkscape:connector-curvature="0" />
+        </g>
+        <g
+           id="patch_3-9"
+           style="stroke-linecap:butt;stroke-linejoin:round">
+          <path
+             id="path2450"
+             style="fill:#c4ad66;stroke-linecap:butt;stroke-linejoin:round"
+             d="M 10.7,62.589091 H 540.42702 V 13.170909 H 10.7 Z"
+             clip-path="url(#pebd5b5c402)"
+             inkscape:connector-curvature="0" />
+        </g>
+        <g
+           id="patch_4-5"
+           style="stroke-linecap:butt;stroke-linejoin:round">
+          <path
+             id="path2453"
+             style="fill:#b47cc7;stroke-linecap:butt;stroke-linejoin:round"
+             d="M 10.7,62.589091 H 502.49802 V 13.170909 H 10.7 Z"
+             clip-path="url(#pebd5b5c402)"
+             inkscape:connector-curvature="0" />
+        </g>
+        <g
+           id="patch_5-49"
+           style="stroke-linecap:butt;stroke-linejoin:round">
+          <path
+             id="path2456"
+             style="fill:#d65f5f;stroke-linecap:butt;stroke-linejoin:round"
+             d="M 10.7,62.589091 H 383.14013 V 13.170909 H 10.7 Z"
+             clip-path="url(#pebd5b5c402)"
+             inkscape:connector-curvature="0" />
+        </g>
+        <g
+           id="patch_6-17"
+           style="stroke-linecap:butt;stroke-linejoin:round">
+          <path
+             id="path2459"
+             style="fill:#6acc65;stroke-linecap:butt;stroke-linejoin:round"
+             d="M 10.7,62.589091 H 248.41131 V 13.170909 H 10.7 Z"
+             clip-path="url(#pebd5b5c402)"
+             inkscape:connector-curvature="0" />
+        </g>
+        <g
+           id="patch_7"
+           style="stroke-linecap:butt;stroke-linejoin:round">
+          <path
+             id="path2462"
+             style="fill:#4878cf;stroke-linecap:butt;stroke-linejoin:round"
+             d="M 10.7,62.589091 H 125.07019 V 13.170909 H 10.7 Z"
+             clip-path="url(#pebd5b5c402)"
+             inkscape:connector-curvature="0" />
+        </g>
+        <g
+           id="matplotlib.axis_1-55"
+           style="stroke-linecap:butt;stroke-linejoin:round" />
+        <g
+           id="matplotlib.axis_2-4"
+           style="stroke-linecap:butt;stroke-linejoin:round" />
+      </g>
+      <flowRoot
+         transform="matrix(0.26458333,0,0,0.26458333,30.238095,-71.794928)"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:40.27201843px;line-height:1;font-family:roboto;-inkscape-font-specification:'roboto Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;opacity:0.98999999;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.66666675;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:1.33333333, 1.33333333;stroke-dashoffset:0;stroke-opacity:1"
+         id="flowRoot2518"
+         xml:space="preserve"><flowRegion
+           style="stroke-linecap:butt;stroke-linejoin:round"
+           id="flowRegion2520"><rect
+             style="stroke-linecap:butt;stroke-linejoin:round"
+             y="2174.2856"
+             x="-402.85715"
+             height="188.57143"
+             width="868.57141"
+             id="rect2522" /></flowRegion><flowPara
+           style="stroke-linecap:butt;stroke-linejoin:round"
+           id="flowPara2524">Palmer. <flowSpan
+   id="flowSpan2642"
+   style="font-style:italic;stroke-linecap:butt;stroke-linejoin:round">Nature Comms</flowSpan>. 2015</flowPara></flowRoot>    </g>
+  </g>
 </svg>

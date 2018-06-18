@@ -4158,7 +4158,7 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="0.49497475"
-     inkscape:cx="374.07461"
+     inkscape:cx="-21.905185"
      inkscape:cy="231.32536"
      inkscape:document-units="mm"
      inkscape:current-layer="layer9"
@@ -4166,7 +4166,7 @@
      units="px"
      inkscape:window-width="1670"
      inkscape:window-height="986"
-     inkscape:window-x="1514"
+     inkscape:window-x="1769"
      inkscape:window-y="0"
      inkscape:window-maximized="0"
      inkscape:snap-global="false" />
@@ -8170,7 +8170,7 @@
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="eq1"
-     style="display:none;stroke-linecap:butt;stroke-linejoin:round">
+     style="display:inline;stroke-linecap:butt;stroke-linejoin:round">
     <flowRoot
        xml:space="preserve"
        id="flowRoot4089"
@@ -8274,7 +8274,7 @@
      inkscape:groupmode="layer"
      id="layer3"
      inkscape:label="eq2"
-     style="display:none;stroke-linecap:butt;stroke-linejoin:round">
+     style="display:inline;stroke-linecap:butt;stroke-linejoin:round">
     <flowRoot
        xml:space="preserve"
        id="flowRoot4089-7"
@@ -8378,7 +8378,7 @@
      inkscape:groupmode="layer"
      id="layer4"
      inkscape:label="eq3"
-     style="display:none;stroke-linecap:butt;stroke-linejoin:round">
+     style="display:inline;stroke-linecap:butt;stroke-linejoin:round">
     <flowRoot
        xml:space="preserve"
        id="flowRoot4089-0"

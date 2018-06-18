@@ -3397,11 +3397,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.7"
-     inkscape:cx="645.96547"
+     inkscape:zoom="0.35"
+     inkscape:cx="365.96547"
      inkscape:cy="219.73703"
      inkscape:document-units="mm"
-     inkscape:current-layer="g8809"
+     inkscape:current-layer="layer1"
      showgrid="false"
      units="px"
      inkscape:window-width="1440"
@@ -3474,8 +3474,8 @@
     <flowRoot
        xml:space="preserve"
        id="flowRoot844"
-       style="stroke-linecap:round;stroke-linejoin:round;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:42.66666794px;line-height:1.25;font-family:roboto;-inkscape-font-specification:roboto;text-align:end;text-anchor:end;opacity:0.98999999;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:10.66666698;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       transform="matrix(0.31478802,0,0,0.31478802,-70.164807,112.63535)"><flowRegion
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:42.66666794px;line-height:1.25;font-family:roboto;-inkscape-font-specification:roboto;text-align:end;text-anchor:end;opacity:0.98999999;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:10.66666698;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       transform="matrix(0.28814434,0,0,0.28814434,-32.77498,117.1493)"><flowRegion
          id="flowRegion846"
          style="stroke-linecap:butt;stroke-linejoin:round"><rect
            id="rect848"
@@ -3485,9 +3485,21 @@
            y="10.872918"
            style="stroke-linecap:butt;stroke-linejoin:round" /></flowRegion><flowPara
          id="flowPara850"
-         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:roboto;-inkscape-font-specification:'roboto Light';stroke-linecap:butt;stroke-linejoin:round">Does adding <flowSpan
-   style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:roboto;-inkscape-font-specification:'roboto Medium';stroke-linecap:butt;stroke-linejoin:round"
-   id="flowSpan852">local epistasis</flowSpan> improve predictions?</flowPara></flowRoot>  </g>
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:roboto;-inkscape-font-specification:'roboto Light';stroke-linecap:butt;stroke-linejoin:round">Does adding multi-way interactions improve predictions?</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot2760"
+       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:40.27201843px;line-height:1;font-family:roboto;-inkscape-font-specification:'roboto Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;opacity:0.98999999;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:1, 1;stroke-dashoffset:0;stroke-opacity:1"
+       transform="matrix(0.26458333,0,0,0.26458333,0,106.49997)"><flowRegion
+         id="flowRegion2762"
+         style="stroke-linecap:butt;stroke-linejoin:round"><rect
+           id="rect2764"
+           width="1157.1428"
+           height="317.14285"
+           x="-611.42859"
+           y="831.42859"
+           style="stroke-linecap:butt;stroke-linejoin:round" /></flowRegion><flowPara
+         id="flowPara2766"
+         style="stroke-linecap:butt;stroke-linejoin:round" /></flowRoot>  </g>
   <g
      inkscape:groupmode="layer"
      id="layer2"
@@ -3495,8 +3507,8 @@
      style="display:inline;stroke-linecap:butt;stroke-linejoin:round">
     <g
        id="g9170"
-       transform="translate(-4.2333333)"
-       style="stroke-linecap:butt;stroke-linejoin:round;display:inline">
+       transform="translate(-4.2333333,-4.2333332)"
+       style="display:inline;stroke-linecap:butt;stroke-linejoin:round">
       <g
          transform="matrix(0.77721839,0,0,-0.77721839,96.078559,173.45007)"
          id="g1561"
@@ -3740,8 +3752,8 @@
     <flowRoot
        xml:space="preserve"
        id="flowRoot9854"
-       style="stroke-linecap:round;stroke-linejoin:round;display:inline;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:42.66666794px;line-height:1.25;font-family:roboto;-inkscape-font-specification:'roboto Medium';text-align:end;text-anchor:end;opacity:0.98999999;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:10.66666698;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       transform="matrix(0.26458333,0,0,0.26458333,17.148228,-55.057522)"><flowRegion
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:42.66666794px;line-height:1.25;font-family:roboto;-inkscape-font-specification:'roboto Medium';text-align:end;text-anchor:end;display:inline;opacity:0.98999999;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:10.66666698;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       transform="matrix(0.26458333,0,0,0.26458333,17.148228,-59.290855)"><flowRegion
          id="flowRegion9856"
          style="stroke-linecap:butt;stroke-linejoin:round"><rect
            id="rect9858"
@@ -3756,8 +3768,8 @@
    id="flowSpan9862">model</flowSpan></flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot9854-7"
-       style="stroke-linecap:round;stroke-linejoin:round;display:inline;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:42.66666794px;line-height:1.25;font-family:roboto;-inkscape-font-specification:'roboto Medium';text-align:end;text-anchor:end;opacity:0.98999999;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:10.66666698;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       transform="matrix(0.26458333,0,0,0.26458333,-74.276328,-140.66464)"><flowRegion
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:42.66666794px;line-height:1.25;font-family:roboto;-inkscape-font-specification:'roboto Medium';text-align:end;text-anchor:end;display:inline;opacity:0.98999999;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:10.66666698;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       transform="matrix(0.26458333,0,0,0.26458333,-74.276328,-144.89797)"><flowRegion
          id="flowRegion9856-9"
          style="stroke-linecap:butt;stroke-linejoin:round"><rect
            id="rect9858-3"
@@ -7066,7 +7078,7 @@
     <g
        style="stroke-linecap:butt;stroke-linejoin:round"
        id="g8809"
-       transform="matrix(2.2031377,0,0,2.2031377,-749.45603,-511.26253)">
+       transform="matrix(2.2031377,0,0,2.2031377,-749.45603,-515.49586)">
       <g
          transform="matrix(0.35277777,0,0,-0.35277777,380.98788,310.41867)"
          id="g3801"
@@ -8175,22 +8187,22 @@
       <g
          transform="matrix(0.35277777,0,0,-0.35277777,380.98788,310.41867)"
          id="g4487"
-         style="stroke-linecap:butt;stroke-linejoin:round;fill:#c3c3c3;fill-opacity:1">
+         style="fill:#c3c3c3;fill-opacity:1;stroke-linecap:butt;stroke-linejoin:round">
         <g
            clip-path="url(#clipPath4493)"
            id="g4489"
-           style="stroke-linecap:butt;stroke-linejoin:round;fill:#c3c3c3;fill-opacity:1">
+           style="fill:#c3c3c3;fill-opacity:1;stroke-linecap:butt;stroke-linejoin:round">
           <g
              transform="translate(73.233036,62.149782)"
              id="g4495"
-             style="stroke-linecap:butt;stroke-linejoin:round;fill:#c3c3c3;fill-opacity:1">
+             style="fill:#c3c3c3;fill-opacity:1;stroke-linecap:butt;stroke-linejoin:round">
             <g
                id="g4497"
-               style="stroke-linecap:butt;stroke-linejoin:round;fill:#c3c3c3;fill-opacity:1">
+               style="fill:#c3c3c3;fill-opacity:1;stroke-linecap:butt;stroke-linejoin:round">
               <g
                  clip-path="url(#clipPath4503)"
                  id="g4499"
-                 style="stroke-linecap:butt;stroke-linejoin:round;fill:#c3c3c3;fill-opacity:1">
+                 style="fill:#c3c3c3;fill-opacity:1;stroke-linecap:butt;stroke-linejoin:round">
                 <path
                    inkscape:connector-curvature="0"
                    id="path4505"
@@ -8201,14 +8213,14 @@
             <g
                transform="translate(11.405227,4.1805429)"
                id="g4507"
-               style="stroke-linecap:butt;stroke-linejoin:round;fill:#c3c3c3;fill-opacity:1">
+               style="fill:#c3c3c3;fill-opacity:1;stroke-linecap:butt;stroke-linejoin:round">
               <g
                  id="g4509"
-                 style="stroke-linecap:butt;stroke-linejoin:round;fill:#c3c3c3;fill-opacity:1">
+                 style="fill:#c3c3c3;fill-opacity:1;stroke-linecap:butt;stroke-linejoin:round">
                 <g
                    clip-path="url(#clipPath4515)"
                    id="g4511"
-                   style="stroke-linecap:butt;stroke-linejoin:round;fill:#c3c3c3;fill-opacity:1">
+                   style="fill:#c3c3c3;fill-opacity:1;stroke-linecap:butt;stroke-linejoin:round">
                   <path
                      inkscape:connector-curvature="0"
                      id="path4517"
@@ -8219,14 +8231,14 @@
               <g
                  transform="translate(14.674246,-3.6110571)"
                  id="g4519"
-                 style="stroke-linecap:butt;stroke-linejoin:round;fill:#c3c3c3;fill-opacity:1">
+                 style="fill:#c3c3c3;fill-opacity:1;stroke-linecap:butt;stroke-linejoin:round">
                 <g
                    id="g4521"
-                   style="stroke-linecap:butt;stroke-linejoin:round;fill:#c3c3c3;fill-opacity:1">
+                   style="fill:#c3c3c3;fill-opacity:1;stroke-linecap:butt;stroke-linejoin:round">
                   <g
                      clip-path="url(#clipPath4527)"
                      id="g4523"
-                     style="stroke-linecap:butt;stroke-linejoin:round;fill:#c3c3c3;fill-opacity:1">
+                     style="fill:#c3c3c3;fill-opacity:1;stroke-linecap:butt;stroke-linejoin:round">
                     <path
                        inkscape:connector-curvature="0"
                        id="path4529"
@@ -8237,14 +8249,14 @@
                 <g
                    transform="translate(1.6163513,26.972914)"
                    id="g4531"
-                   style="stroke-linecap:butt;stroke-linejoin:round;fill:#c3c3c3;fill-opacity:1">
+                   style="fill:#c3c3c3;fill-opacity:1;stroke-linecap:butt;stroke-linejoin:round">
                   <g
                      id="g4533"
-                     style="stroke-linecap:butt;stroke-linejoin:round;fill:#c3c3c3;fill-opacity:1">
+                     style="fill:#c3c3c3;fill-opacity:1;stroke-linecap:butt;stroke-linejoin:round">
                     <g
                        clip-path="url(#clipPath4539)"
                        id="g4535"
-                       style="stroke-linecap:butt;stroke-linejoin:round;fill:#c3c3c3;fill-opacity:1">
+                       style="fill:#c3c3c3;fill-opacity:1;stroke-linecap:butt;stroke-linejoin:round">
                       <path
                          inkscape:connector-curvature="0"
                          id="path4541"
@@ -8255,14 +8267,14 @@
                   <g
                      transform="translate(-27.695824,-27.231771)"
                      id="g4543"
-                     style="stroke-linecap:butt;stroke-linejoin:round;fill:#c3c3c3;fill-opacity:1">
+                     style="fill:#c3c3c3;fill-opacity:1;stroke-linecap:butt;stroke-linejoin:round">
                     <g
                        id="g4545"
-                       style="stroke-linecap:butt;stroke-linejoin:round;fill:#c3c3c3;fill-opacity:1">
+                       style="fill:#c3c3c3;fill-opacity:1;stroke-linecap:butt;stroke-linejoin:round">
                       <g
                          clip-path="url(#clipPath4551)"
                          id="g4547"
-                         style="stroke-linecap:butt;stroke-linejoin:round;fill:#c3c3c3;fill-opacity:1">
+                         style="fill:#c3c3c3;fill-opacity:1;stroke-linecap:butt;stroke-linejoin:round">
                         <path
                            inkscape:connector-curvature="0"
                            id="path4553"
@@ -8273,14 +8285,14 @@
                     <g
                        transform="translate(0,0.45947143)"
                        id="g4555"
-                       style="stroke-linecap:butt;stroke-linejoin:round;fill:#c3c3c3;fill-opacity:1">
+                       style="fill:#c3c3c3;fill-opacity:1;stroke-linecap:butt;stroke-linejoin:round">
                       <g
                          id="g4557"
-                         style="stroke-linecap:butt;stroke-linejoin:round;fill:#c3c3c3;fill-opacity:1">
+                         style="fill:#c3c3c3;fill-opacity:1;stroke-linecap:butt;stroke-linejoin:round">
                         <g
                            clip-path="url(#clipPath4563)"
                            id="g4559"
-                           style="stroke-linecap:butt;stroke-linejoin:round;fill:#c3c3c3;fill-opacity:1">
+                           style="fill:#c3c3c3;fill-opacity:1;stroke-linecap:butt;stroke-linejoin:round">
                           <path
                              inkscape:connector-curvature="0"
                              id="path4565"
@@ -8291,14 +8303,14 @@
                       <g
                          transform="translate(0,-0.28474286)"
                          id="g4567"
-                         style="stroke-linecap:butt;stroke-linejoin:round;fill:#c3c3c3;fill-opacity:1">
+                         style="fill:#c3c3c3;fill-opacity:1;stroke-linecap:butt;stroke-linejoin:round">
                         <g
                            id="g4569"
-                           style="stroke-linecap:butt;stroke-linejoin:round;fill:#c3c3c3;fill-opacity:1">
+                           style="fill:#c3c3c3;fill-opacity:1;stroke-linecap:butt;stroke-linejoin:round">
                           <g
                              clip-path="url(#clipPath4575)"
                              id="g4571"
-                             style="stroke-linecap:butt;stroke-linejoin:round;fill:#c3c3c3;fill-opacity:1">
+                             style="fill:#c3c3c3;fill-opacity:1;stroke-linecap:butt;stroke-linejoin:round">
                             <path
                                inkscape:connector-curvature="0"
                                id="path4577"
@@ -8309,14 +8321,14 @@
                         <g
                            transform="translate(19.813718,9.2347286)"
                            id="g4579"
-                           style="stroke-linecap:butt;stroke-linejoin:round;fill:#c3c3c3;fill-opacity:1">
+                           style="fill:#c3c3c3;fill-opacity:1;stroke-linecap:butt;stroke-linejoin:round">
                           <g
                              id="g4581"
-                             style="stroke-linecap:butt;stroke-linejoin:round;fill:#c3c3c3;fill-opacity:1">
+                             style="fill:#c3c3c3;fill-opacity:1;stroke-linecap:butt;stroke-linejoin:round">
                             <g
                                clip-path="url(#clipPath4587)"
                                id="g4583"
-                               style="stroke-linecap:butt;stroke-linejoin:round;fill:#c3c3c3;fill-opacity:1">
+                               style="fill:#c3c3c3;fill-opacity:1;stroke-linecap:butt;stroke-linejoin:round">
                               <path
                                  inkscape:connector-curvature="0"
                                  id="path4589"
@@ -8327,14 +8339,14 @@
                           <g
                              transform="translate(-3.2692496,23.808386)"
                              id="g4591"
-                             style="stroke-linecap:butt;stroke-linejoin:round;fill:#c3c3c3;fill-opacity:1">
+                             style="fill:#c3c3c3;fill-opacity:1;stroke-linecap:butt;stroke-linejoin:round">
                             <g
                                id="g4593"
-                               style="stroke-linecap:butt;stroke-linejoin:round;fill:#c3c3c3;fill-opacity:1">
+                               style="fill:#c3c3c3;fill-opacity:1;stroke-linecap:butt;stroke-linejoin:round">
                               <g
                                  clip-path="url(#clipPath4599)"
                                  id="g4595"
-                                 style="stroke-linecap:butt;stroke-linejoin:round;fill:#c3c3c3;fill-opacity:1">
+                                 style="fill:#c3c3c3;fill-opacity:1;stroke-linecap:butt;stroke-linejoin:round">
                                 <path
                                    inkscape:connector-curvature="0"
                                    id="path4601"
@@ -8345,14 +8357,14 @@
                             <g
                                transform="translate(9.4436354,-5.8437)"
                                id="g4603"
-                               style="stroke-linecap:butt;stroke-linejoin:round;fill:#c3c3c3;fill-opacity:1">
+                               style="fill:#c3c3c3;fill-opacity:1;stroke-linecap:butt;stroke-linejoin:round">
                               <g
                                  id="g4605"
-                                 style="stroke-linecap:butt;stroke-linejoin:round;fill:#c3c3c3;fill-opacity:1">
+                                 style="fill:#c3c3c3;fill-opacity:1;stroke-linecap:butt;stroke-linejoin:round">
                                 <g
                                    clip-path="url(#clipPath4611)"
                                    id="g4607"
-                                   style="stroke-linecap:butt;stroke-linejoin:round;fill:#c3c3c3;fill-opacity:1">
+                                   style="fill:#c3c3c3;fill-opacity:1;stroke-linecap:butt;stroke-linejoin:round">
                                 <path
                                    inkscape:connector-curvature="0"
                                    id="path4613"
@@ -8363,14 +8375,14 @@
                               <g
                                  transform="translate(-25.988104,-27.755957)"
                                  id="g4615"
-                                 style="stroke-linecap:butt;stroke-linejoin:round;fill:#c3c3c3;fill-opacity:1">
+                                 style="fill:#c3c3c3;fill-opacity:1;stroke-linecap:butt;stroke-linejoin:round">
                                 <g
                                    id="g4617"
-                                   style="stroke-linecap:butt;stroke-linejoin:round;fill:#c3c3c3;fill-opacity:1">
+                                   style="fill:#c3c3c3;fill-opacity:1;stroke-linecap:butt;stroke-linejoin:round">
                                 <g
                                    clip-path="url(#clipPath4623)"
                                    id="g4619"
-                                   style="stroke-linecap:butt;stroke-linejoin:round;fill:#c3c3c3;fill-opacity:1">
+                                   style="fill:#c3c3c3;fill-opacity:1;stroke-linecap:butt;stroke-linejoin:round">
                                 <path
                                    inkscape:connector-curvature="0"
                                    id="path4625"
@@ -8381,14 +8393,14 @@
                                 <g
                                    transform="translate(0,0.55007143)"
                                    id="g4627"
-                                   style="stroke-linecap:butt;stroke-linejoin:round;fill:#c3c3c3;fill-opacity:1">
+                                   style="fill:#c3c3c3;fill-opacity:1;stroke-linecap:butt;stroke-linejoin:round">
                                 <g
                                    id="g4629"
-                                   style="stroke-linecap:butt;stroke-linejoin:round;fill:#c3c3c3;fill-opacity:1">
+                                   style="fill:#c3c3c3;fill-opacity:1;stroke-linecap:butt;stroke-linejoin:round">
                                 <g
                                    clip-path="url(#clipPath4635)"
                                    id="g4631"
-                                   style="stroke-linecap:butt;stroke-linejoin:round;fill:#c3c3c3;fill-opacity:1">
+                                   style="fill:#c3c3c3;fill-opacity:1;stroke-linecap:butt;stroke-linejoin:round">
                                 <path
                                    inkscape:connector-curvature="0"
                                    id="path4637"
@@ -8399,14 +8411,14 @@
                                 <g
                                    transform="translate(0,0.12942857)"
                                    id="g4639"
-                                   style="stroke-linecap:butt;stroke-linejoin:round;fill:#c3c3c3;fill-opacity:1">
+                                   style="fill:#c3c3c3;fill-opacity:1;stroke-linecap:butt;stroke-linejoin:round">
                                 <g
                                    id="g4641"
-                                   style="stroke-linecap:butt;stroke-linejoin:round;fill:#c3c3c3;fill-opacity:1">
+                                   style="fill:#c3c3c3;fill-opacity:1;stroke-linecap:butt;stroke-linejoin:round">
                                 <g
                                    clip-path="url(#clipPath4647)"
                                    id="g4643"
-                                   style="stroke-linecap:butt;stroke-linejoin:round;fill:#c3c3c3;fill-opacity:1">
+                                   style="fill:#c3c3c3;fill-opacity:1;stroke-linecap:butt;stroke-linejoin:round">
                                 <path
                                    inkscape:connector-curvature="0"
                                    id="path4649"
@@ -8417,14 +8429,14 @@
                                 <g
                                    transform="translate(0,0.07765714)"
                                    id="g4651"
-                                   style="stroke-linecap:butt;stroke-linejoin:round;fill:#c3c3c3;fill-opacity:1">
+                                   style="fill:#c3c3c3;fill-opacity:1;stroke-linecap:butt;stroke-linejoin:round">
                                 <g
                                    id="g4653"
-                                   style="stroke-linecap:butt;stroke-linejoin:round;fill:#c3c3c3;fill-opacity:1">
+                                   style="fill:#c3c3c3;fill-opacity:1;stroke-linecap:butt;stroke-linejoin:round">
                                 <g
                                    clip-path="url(#clipPath4659)"
                                    id="g4655"
-                                   style="stroke-linecap:butt;stroke-linejoin:round;fill:#c3c3c3;fill-opacity:1">
+                                   style="fill:#c3c3c3;fill-opacity:1;stroke-linecap:butt;stroke-linejoin:round">
                                 <path
                                    inkscape:connector-curvature="0"
                                    id="path4661"
@@ -8435,14 +8447,14 @@
                                 <g
                                    transform="translate(0,0.29768571)"
                                    id="g4663"
-                                   style="stroke-linecap:butt;stroke-linejoin:round;fill:#c3c3c3;fill-opacity:1">
+                                   style="fill:#c3c3c3;fill-opacity:1;stroke-linecap:butt;stroke-linejoin:round">
                                 <g
                                    id="g4665"
-                                   style="stroke-linecap:butt;stroke-linejoin:round;fill:#c3c3c3;fill-opacity:1">
+                                   style="fill:#c3c3c3;fill-opacity:1;stroke-linecap:butt;stroke-linejoin:round">
                                 <g
                                    clip-path="url(#clipPath4671)"
                                    id="g4667"
-                                   style="stroke-linecap:butt;stroke-linejoin:round;fill:#c3c3c3;fill-opacity:1">
+                                   style="fill:#c3c3c3;fill-opacity:1;stroke-linecap:butt;stroke-linejoin:round">
                                 <path
                                    inkscape:connector-curvature="0"
                                    id="path4673"
@@ -8453,14 +8465,14 @@
                                 <g
                                    transform="translate(0,-0.86717143)"
                                    id="g4675"
-                                   style="stroke-linecap:butt;stroke-linejoin:round;fill:#c3c3c3;fill-opacity:1">
+                                   style="fill:#c3c3c3;fill-opacity:1;stroke-linecap:butt;stroke-linejoin:round">
                                 <g
                                    id="g4677"
-                                   style="stroke-linecap:butt;stroke-linejoin:round;fill:#c3c3c3;fill-opacity:1">
+                                   style="fill:#c3c3c3;fill-opacity:1;stroke-linecap:butt;stroke-linejoin:round">
                                 <g
                                    clip-path="url(#clipPath4683)"
                                    id="g4679"
-                                   style="stroke-linecap:butt;stroke-linejoin:round;fill:#c3c3c3;fill-opacity:1">
+                                   style="fill:#c3c3c3;fill-opacity:1;stroke-linecap:butt;stroke-linejoin:round">
                                 <path
                                    inkscape:connector-curvature="0"
                                    id="path4685"
@@ -8471,14 +8483,14 @@
                                 <g
                                    transform="translate(0,-0.15531429)"
                                    id="g4687"
-                                   style="stroke-linecap:butt;stroke-linejoin:round;fill:#c3c3c3;fill-opacity:1">
+                                   style="fill:#c3c3c3;fill-opacity:1;stroke-linecap:butt;stroke-linejoin:round">
                                 <g
                                    id="g4689"
-                                   style="stroke-linecap:butt;stroke-linejoin:round;fill:#c3c3c3;fill-opacity:1">
+                                   style="fill:#c3c3c3;fill-opacity:1;stroke-linecap:butt;stroke-linejoin:round">
                                 <g
                                    clip-path="url(#clipPath4695)"
                                    id="g4691"
-                                   style="stroke-linecap:butt;stroke-linejoin:round;fill:#c3c3c3;fill-opacity:1">
+                                   style="fill:#c3c3c3;fill-opacity:1;stroke-linecap:butt;stroke-linejoin:round">
                                 <path
                                    inkscape:connector-curvature="0"
                                    id="path4697"
@@ -8489,14 +8501,14 @@
                                 <g
                                    transform="translate(30.806245,2.0255571)"
                                    id="g4699"
-                                   style="stroke-linecap:butt;stroke-linejoin:round;fill:#c3c3c3;fill-opacity:1">
+                                   style="fill:#c3c3c3;fill-opacity:1;stroke-linecap:butt;stroke-linejoin:round">
                                 <g
                                    id="g4701"
-                                   style="stroke-linecap:butt;stroke-linejoin:round;fill:#c3c3c3;fill-opacity:1">
+                                   style="fill:#c3c3c3;fill-opacity:1;stroke-linecap:butt;stroke-linejoin:round">
                                 <g
                                    clip-path="url(#clipPath4707)"
                                    id="g4703"
-                                   style="stroke-linecap:butt;stroke-linejoin:round;fill:#c3c3c3;fill-opacity:1">
+                                   style="fill:#c3c3c3;fill-opacity:1;stroke-linecap:butt;stroke-linejoin:round">
                                 <path
                                    inkscape:connector-curvature="0"
                                    id="path4709"
@@ -8507,14 +8519,14 @@
                                 <g
                                    transform="translate(12.150556,81.669429)"
                                    id="g4711"
-                                   style="stroke-linecap:butt;stroke-linejoin:round;fill:#c3c3c3;fill-opacity:1">
+                                   style="fill:#c3c3c3;fill-opacity:1;stroke-linecap:butt;stroke-linejoin:round">
                                 <g
                                    id="g4713"
-                                   style="stroke-linecap:butt;stroke-linejoin:round;fill:#c3c3c3;fill-opacity:1">
+                                   style="fill:#c3c3c3;fill-opacity:1;stroke-linecap:butt;stroke-linejoin:round">
                                 <g
                                    clip-path="url(#clipPath4719)"
                                    id="g4715"
-                                   style="stroke-linecap:butt;stroke-linejoin:round;fill:#c3c3c3;fill-opacity:1">
+                                   style="fill:#c3c3c3;fill-opacity:1;stroke-linecap:butt;stroke-linejoin:round">
                                 <path
                                    inkscape:connector-curvature="0"
                                    id="path4721"
@@ -8525,14 +8537,14 @@
                                 <g
                                    transform="translate(-28.681652,-82.193614)"
                                    id="g4723"
-                                   style="stroke-linecap:butt;stroke-linejoin:round;fill:#c3c3c3;fill-opacity:1">
+                                   style="fill:#c3c3c3;fill-opacity:1;stroke-linecap:butt;stroke-linejoin:round">
                                 <g
                                    id="g4725"
-                                   style="stroke-linecap:butt;stroke-linejoin:round;fill:#c3c3c3;fill-opacity:1">
+                                   style="fill:#c3c3c3;fill-opacity:1;stroke-linecap:butt;stroke-linejoin:round">
                                 <g
                                    clip-path="url(#clipPath4731)"
                                    id="g4727"
-                                   style="stroke-linecap:butt;stroke-linejoin:round;fill:#c3c3c3;fill-opacity:1">
+                                   style="fill:#c3c3c3;fill-opacity:1;stroke-linecap:butt;stroke-linejoin:round">
                                 <path
                                    inkscape:connector-curvature="0"
                                    id="path4733"
@@ -8543,14 +8555,14 @@
                                 <g
                                    transform="translate(-14.275149,-1.5337286)"
                                    id="g4735"
-                                   style="stroke-linecap:butt;stroke-linejoin:round;fill:#c3c3c3;fill-opacity:1">
+                                   style="fill:#c3c3c3;fill-opacity:1;stroke-linecap:butt;stroke-linejoin:round">
                                 <g
                                    id="g4737"
-                                   style="stroke-linecap:butt;stroke-linejoin:round;fill:#c3c3c3;fill-opacity:1">
+                                   style="fill:#c3c3c3;fill-opacity:1;stroke-linecap:butt;stroke-linejoin:round">
                                 <g
                                    clip-path="url(#clipPath4743)"
                                    id="g4739"
-                                   style="stroke-linecap:butt;stroke-linejoin:round;fill:#c3c3c3;fill-opacity:1">
+                                   style="fill:#c3c3c3;fill-opacity:1;stroke-linecap:butt;stroke-linejoin:round">
                                 <path
                                    inkscape:connector-curvature="0"
                                    id="path4745"
@@ -8561,14 +8573,14 @@
                                 <g
                                    transform="translate(30.081414,28.597243)"
                                    id="g4747"
-                                   style="stroke-linecap:butt;stroke-linejoin:round;fill:#c3c3c3;fill-opacity:1">
+                                   style="fill:#c3c3c3;fill-opacity:1;stroke-linecap:butt;stroke-linejoin:round">
                                 <g
                                    id="g4749"
-                                   style="stroke-linecap:butt;stroke-linejoin:round;fill:#c3c3c3;fill-opacity:1">
+                                   style="fill:#c3c3c3;fill-opacity:1;stroke-linecap:butt;stroke-linejoin:round">
                                 <g
                                    clip-path="url(#clipPath4755)"
                                    id="g4751"
-                                   style="stroke-linecap:butt;stroke-linejoin:round;fill:#c3c3c3;fill-opacity:1">
+                                   style="fill:#c3c3c3;fill-opacity:1;stroke-linecap:butt;stroke-linejoin:round">
                                 <path
                                    inkscape:connector-curvature="0"
                                    id="path4757"
@@ -8579,14 +8591,14 @@
                                 <g
                                    transform="translate(21.625024,11.422071)"
                                    id="g4759"
-                                   style="stroke-linecap:butt;stroke-linejoin:round;fill:#c3c3c3;fill-opacity:1">
+                                   style="fill:#c3c3c3;fill-opacity:1;stroke-linecap:butt;stroke-linejoin:round">
                                 <g
                                    id="g4761"
-                                   style="stroke-linecap:butt;stroke-linejoin:round;fill:#c3c3c3;fill-opacity:1">
+                                   style="fill:#c3c3c3;fill-opacity:1;stroke-linecap:butt;stroke-linejoin:round">
                                 <g
                                    clip-path="url(#clipPath4767)"
                                    id="g4763"
-                                   style="stroke-linecap:butt;stroke-linejoin:round;fill:#c3c3c3;fill-opacity:1">
+                                   style="fill:#c3c3c3;fill-opacity:1;stroke-linecap:butt;stroke-linejoin:round">
                                 <path
                                    inkscape:connector-curvature="0"
                                    id="path4769"
@@ -8597,14 +8609,14 @@
                                 <g
                                    transform="translate(-27.628534,2.0579143)"
                                    id="g4771"
-                                   style="stroke-linecap:butt;stroke-linejoin:round;fill:#c3c3c3;fill-opacity:1">
+                                   style="fill:#c3c3c3;fill-opacity:1;stroke-linecap:butt;stroke-linejoin:round">
                                 <g
                                    id="g4773"
-                                   style="stroke-linecap:butt;stroke-linejoin:round;fill:#c3c3c3;fill-opacity:1">
+                                   style="fill:#c3c3c3;fill-opacity:1;stroke-linecap:butt;stroke-linejoin:round">
                                 <g
                                    clip-path="url(#clipPath4779)"
                                    id="g4775"
-                                   style="stroke-linecap:butt;stroke-linejoin:round;fill:#c3c3c3;fill-opacity:1">
+                                   style="fill:#c3c3c3;fill-opacity:1;stroke-linecap:butt;stroke-linejoin:round">
                                 <path
                                    inkscape:connector-curvature="0"
                                    id="path4781"
@@ -8615,14 +8627,14 @@
                                 <g
                                    transform="translate(-4.0774311,13.810029)"
                                    id="g4783"
-                                   style="stroke-linecap:butt;stroke-linejoin:round;fill:#c3c3c3;fill-opacity:1">
+                                   style="fill:#c3c3c3;fill-opacity:1;stroke-linecap:butt;stroke-linejoin:round">
                                 <g
                                    id="g4785"
-                                   style="stroke-linecap:butt;stroke-linejoin:round;fill:#c3c3c3;fill-opacity:1">
+                                   style="fill:#c3c3c3;fill-opacity:1;stroke-linecap:butt;stroke-linejoin:round">
                                 <g
                                    clip-path="url(#clipPath4791)"
                                    id="g4787"
-                                   style="stroke-linecap:butt;stroke-linejoin:round;fill:#c3c3c3;fill-opacity:1">
+                                   style="fill:#c3c3c3;fill-opacity:1;stroke-linecap:butt;stroke-linejoin:round">
                                 <path
                                    inkscape:connector-curvature="0"
                                    id="path4793"
@@ -8661,7 +8673,7 @@
     <g
        style="stroke-linecap:butt;stroke-linejoin:round"
        id="g4887"
-       transform="matrix(1.2531836,0,0,-1.2531836,176.09425,151.69046)">
+       transform="matrix(1.2531836,0,0,-1.2531836,176.09425,147.45713)">
       <text
          transform="matrix(1,0,0,-1,0,0.9765625)"
          style="font-style:italic;font-variant:normal;font-size:10px;font-family:DejaVuSans;-inkscape-font-specification:DejaVuSans-Oblique;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-linecap:butt;stroke-linejoin:round"
@@ -8698,7 +8710,7 @@
        xml:space="preserve"
        id="flowRoot11394-2"
        style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:42.66666794px;line-height:1.25;font-family:roboto;-inkscape-font-specification:'roboto Light';text-align:center;text-anchor:middle;display:inline;opacity:0.98999999;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:10.66666698;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       transform="matrix(0.26458333,0,0,0.26458333,301.625,-138.33928)"><flowRegion
+       transform="matrix(0.26458333,0,0,0.26458333,301.625,-142.57261)"><flowRegion
          id="flowRegion11396-2"
          style="stroke-linecap:butt;stroke-linejoin:round"><rect
            id="rect11398-7"

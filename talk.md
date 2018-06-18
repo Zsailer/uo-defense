@@ -22,7 +22,7 @@ This is amazing.
 
 <!-- Protein evolution depends on the genotype-phenotype map. (wordgame) -->
 
-![sm.inkscape](slides/slide-wordgame.svg) 100000,110000,101000,100100,100010,100001
+![sm.inkscape](slides/slide-wordgame.svg) 110000000,111000000,110100000,110010000,110001000,110000100,010000010,010000011
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
@@ -76,6 +76,10 @@ What are the physical/chemical determinants of a protein's evolutionary outcome.
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
+![sm.inkscape](slides/slide-add-prediction.svg) 110,111
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
 ![sm.inkscape](slides/slide-what-to-do-about-epistasis.svg)
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
@@ -88,7 +92,7 @@ What are the physical/chemical determinants of a protein's evolutionary outcome.
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
-![sm.inkscape](slides/slide-global-model.svg) 11100000000000,11111000000000,11111100000000,11111110000000,11111111000000,11111100100000,11111100110000,11111100111000,11111100111100,11110000111101
+![sm.inkscape](slides/slide-global-model.svg) 11100000000000,11111000000000,11111100000000,11111110000000,11111111000000,11111100100000,11111100110000,11111100111000,11111100111100,11110000011101
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
@@ -116,7 +120,13 @@ What are the physical/chemical determinants of a protein's evolutionary outcome.
 
 <!-- High-order epistasis is ubiquitous in experimental maps -->
 
-![sm.inkscape](slides/slide-local-experimental.svg)
+![sm.inkscape](slides/slide-local-experimental.svg) 110,111
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+<!-- Do they matter for evolution? -->
+
+![sm.inkscape](slides/slide-he-matter-for-evolution.svg) 1100000000000,1111111000000,1111111100000,1100001100000,1100001010000,1100011011000,1100111011100,1101111011110,1111111011111
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
@@ -164,9 +174,10 @@ Any system that involves a collection of states will likely exhibit high-order e
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
-# Specific, multi-way interactions are not useful for prediction.
+<!-- How should we treat epistasis -->
 
-It is uncertainty.
+![sm.inkscape](slides/slide-epistasis-as-uncertainty.svg) 11000,11100,11110,11111
+
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
@@ -193,29 +204,24 @@ It is uncertainty.
 
 # More conclusions
 
-- Local epistasis models are the wrong model.
-- Epistasis, at this point, is our measure of uncertainty.
-- Few measurements are needed to predict
-- Software is great.
+- Developed a general model for predicting sparsely sampled genotype-phenotype maps.
+- The software is fast, high-quality, free, open source, and includes documentation.
+-
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
 # Future directions
 
-- Variational Auto encoders
-- Better global models (ensemble model)
+- Better models for decomposing global epistasis (ensemble model)
+- Add Jake's citation
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
-# Open source contributions
+![sm.inkscape](slides/slide-open-source.svg)
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
-# Phylogenetics in Python
-
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
-
-# Bioinformatics program
+![sm.inkscape](slides/slide-phylogenetics.svg)
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
@@ -226,3 +232,13 @@ It is uncertainty.
 ![sm.inkscape](slides/slide-people-i-admire.svg)
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+![sm.inkscape](slides/slide-wife.svg)
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+![sm.inkscape](slides/slide-family.svg)
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+Questions?

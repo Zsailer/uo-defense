@@ -402,9 +402,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.175"
-     inkscape:cx="622.39464"
-     inkscape:cy="459.73196"
+     inkscape:zoom="0.35"
+     inkscape:cx="645.25178"
+     inkscape:cy="802.5891"
      inkscape:document-units="mm"
      inkscape:current-layer="layer3"
      showgrid="false"
@@ -487,7 +487,7 @@
     </g>
     <g
        style="stroke-linecap:butt;stroke-linejoin:round"
-       transform="matrix(4.4369429,0,0,4.4369429,-389.078,-714.71139)"
+       transform="matrix(4.0603325,0,0,4.0603325,-340.86342,-641.92823)"
        id="g15320">
       <g
          style="stroke-linecap:butt;stroke-linejoin:round"
@@ -658,63 +658,63 @@
     </g>
     <text
        id="text4436-1-3"
-       style="font-variant:normal;font-weight:normal;font-size:10.97239113px;line-height:0%;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.91436583;stroke-linecap:butt;stroke-linejoin:round"
-       x="73.013962"
-       y="283.3483">
+       style="font-variant:normal;font-weight:normal;font-size:10.04104805px;line-height:0%;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.8367539;stroke-linecap:butt;stroke-linejoin:round"
+       x="82.005898"
+       y="271.41553">
       <tspan
          id="tspan4438-5-0"
          sodipodi:role="line"
-         y="283.3483"
-         x="73.013962 77.66935 82.324814 86.980171 88.838989 91.166656 93.025467 97.212036"
-         style="font-size:8.37303448px;line-height:1.25;stroke-width:0.91436583;stroke-linecap:butt;stroke-linejoin:round">additive</tspan>
+         y="271.41553"
+         x="82.005898 86.266129 90.526428 94.786644 96.487679 98.617775 100.31881 104.15002"
+         style="font-size:7.66232586px;line-height:1.25;stroke-width:0.8367539;stroke-linecap:butt;stroke-linejoin:round">additive</tspan>
     </text>
     <text
        id="text4442-5-6"
-       style="font-variant:normal;font-weight:normal;font-size:10.97239113px;line-height:0%;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.91436583;stroke-linecap:butt;stroke-linejoin:round"
-       x="112.67371"
-       y="283.3483">
+       style="font-variant:normal;font-weight:normal;font-size:10.04104805px;line-height:0%;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.8367539;stroke-linecap:butt;stroke-linejoin:round"
+       x="118.29929"
+       y="271.41553">
       <tspan
          id="tspan4444-5-2"
          sodipodi:role="line"
-         y="283.3483"
-         x="112.67371 117.56353 121.75008 123.60893 128.26439 132.45081 136.63737 138.49611 140.82387 142.68269 147.33809"
-         style="font-size:8.37303448px;line-height:1.25;stroke-width:0.91436583;stroke-linecap:butt;stroke-linejoin:round">+classifier</tspan>
+         y="271.41553"
+         x="118.29929 122.77407 126.60526 128.30634 132.56662 136.39769 140.2289 141.92986 144.06004 145.76108 150.02133"
+         style="font-size:7.66232586px;line-height:1.25;stroke-width:0.8367539;stroke-linecap:butt;stroke-linejoin:round">+classifier</tspan>
     </text>
     <text
        id="text4448-8-2"
-       style="font-variant:normal;font-weight:normal;font-size:10.97239113px;line-height:0%;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.91436583;stroke-linecap:butt;stroke-linejoin:round"
-       x="159.15912"
-       y="283.3483">
+       style="font-variant:normal;font-weight:normal;font-size:10.04104805px;line-height:0%;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.8367539;stroke-linecap:butt;stroke-linejoin:round"
+       x="160.83899"
+       y="271.41553">
       <tspan
          id="tspan4450-2-5"
          sodipodi:role="line"
-         y="283.3483"
-         x="159.15912 164.04893 168.70424 173.35953 178.01503 179.87381 181.73267 186.38809 191.04349 195.69887"
-         style="font-size:8.37303448px;line-height:1.25;stroke-width:0.91436583;stroke-linecap:butt;stroke-linejoin:round">+nonlinear</tspan>
+         y="271.41553"
+         x="160.83899 165.31374 169.5739 173.83405 178.09439 179.79539 181.49648 185.75674 190.01698 194.27721"
+         style="font-size:7.66232586px;line-height:1.25;stroke-width:0.8367539;stroke-linecap:butt;stroke-linejoin:round">+nonlinear</tspan>
     </text>
     <text
        id="text4454-9-2"
-       style="font-variant:normal;font-weight:normal;font-size:10.97239113px;line-height:0%;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.91436583;stroke-linecap:butt;stroke-linejoin:round"
-       x="207.10016"
-       y="283.3483">
+       style="font-variant:normal;font-weight:normal;font-size:10.04104805px;line-height:0%;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.8367539;stroke-linecap:butt;stroke-linejoin:round"
+       x="204.71075"
+       y="271.41553">
       <tspan
          id="tspan4456-8-2"
          sodipodi:role="line"
-         y="283.3483"
-         x="207.10016 211.98996 216.6454 221.30083 223.15958 225.94786 231.99316 233.85199 238.0385"
-         style="font-size:8.37303448px;line-height:1.25;stroke-width:0.91436583;stroke-linecap:butt;stroke-linejoin:round">+pairwise</tspan>
+         y="271.41553"
+         x="204.71075 209.18552 213.4458 217.70605 219.40704 221.95865 227.49083 229.19188 233.02304"
+         style="font-size:7.66232586px;line-height:1.25;stroke-width:0.8367539;stroke-linecap:butt;stroke-linejoin:round">+pairwise</tspan>
     </text>
     <text
        id="text4460-2-7"
-       style="font-variant:normal;font-weight:normal;font-size:10.97239113px;line-height:0%;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.91436583;stroke-linecap:butt;stroke-linejoin:round"
-       x="251.64467"
-       y="283.3483">
+       style="font-variant:normal;font-weight:normal;font-size:10.04104805px;line-height:0%;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.8367539;stroke-linecap:butt;stroke-linejoin:round"
+       x="245.4743"
+       y="271.41553">
       <tspan
          id="tspan4462-0-1"
          sodipodi:role="line"
-         y="283.3483"
-         x="251.64467 256.53461 261.18997 263.04877 267.70419 272.35956 275.14783 279.80325 282.59143 287.24689 291.90225"
-         style="font-size:8.37303448px;line-height:1.25;stroke-width:0.91436583;stroke-linecap:butt;stroke-linejoin:round">+high-order</tspan>
+         y="271.41553"
+         x="245.4743 249.94917 254.20938 255.91042 260.17068 264.43091 266.98251 271.2428 273.79431 278.0546 282.31482"
+         style="font-size:7.66232586px;line-height:1.25;stroke-width:0.8367539;stroke-linecap:butt;stroke-linejoin:round">+high-order</tspan>
     </text>
   </g>
   <g
@@ -724,12 +724,12 @@
     <path
        inkscape:connector-curvature="0"
        id="path15602"
-       d="m 85.467857,89.12778 47.546653,-14.21499 46.07614,-0.98034 47.05649,-8.82311 47.05652,-7.84272"
-       style="fill:none;stroke:#000000;stroke-width:2.58797526;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+       d="m 93.402689,84.64078 43.510861,-13.008413 42.16517,-0.897127 43.0623,-8.0742 43.06233,-7.177024"
+       style="fill:none;stroke:#000000;stroke-width:2.3683064;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <g
        style="stroke-linecap:butt;stroke-linejoin:round"
        id="g15600"
-       transform="matrix(3.6533545,0,0,3.6533545,-299.46704,-667.40336)">
+       transform="matrix(3.3432555,0,0,3.3432555,-258.85869,-607.67552)">
       <circle
          style="opacity:0.98999999;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.3350457;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="path15322"
@@ -769,12 +769,12 @@
     <path
        inkscape:connector-curvature="0"
        id="path15604"
-       d="M 85.467857,117.06757 132.52434,77.85382 180.071,67.07006 l 48.527,61.76165 45.58601,-24.99878"
-       style="fill:none;stroke:#f60000;stroke-width:2.58797526;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+       d="m 93.402689,110.20902 43.062291,-35.885259 43.51088,-9.868428 44.408,56.519277 41.71663,-22.876863"
+       style="fill:none;stroke:#f60000;stroke-width:2.3683064;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <g
        style="stroke-linecap:butt;stroke-linejoin:round"
        id="g15611"
-       transform="matrix(3.6533545,0,0,3.6533545,-299.46704,-667.40336)">
+       transform="matrix(3.3432555,0,0,3.3432555,-258.85869,-607.67552)">
       <circle
          style="opacity:0.98999999;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:#fb0000;stroke-width:0.3350457;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="path15322-18"
@@ -810,7 +810,7 @@
        xml:space="preserve"
        id="flowRoot15779"
        style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:32px;line-height:1.25;font-family:roboto;-inkscape-font-specification:'roboto Light';text-align:center;text-anchor:middle;opacity:0.98999999;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:#f60000;stroke-width:10.66666698;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       transform="matrix(0.43216407,0,0,0.43216407,-103.61903,17.573931)"><flowRegion
+       transform="matrix(0.39220034,0,0,0.39220034,-77.407326,13.02112)"><flowRegion
          id="flowRegion15781"
          style="stroke-linecap:butt;stroke-linejoin:round"><rect
            id="rect15783"
@@ -820,5 +820,27 @@
            y="-17.411352"
            style="stroke-linecap:butt;stroke-linejoin:round" /></flowRegion><flowPara
          id="flowPara15785"
-         style="fill:#000000;fill-opacity:1;stroke:none;stroke-linecap:butt;stroke-linejoin:round">Global epistais good; local epistasis bad.</flowPara></flowRoot>  </g>
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-linecap:butt;stroke-linejoin:round"><flowSpan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:roboto;-inkscape-font-specification:roboto;stroke-linecap:butt;stroke-linejoin:round"
+   id="flowSpan981">Global epistasis</flowSpan> helps predictions, </flowPara><flowPara
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-linecap:butt;stroke-linejoin:round"
+         id="flowPara979">but <flowSpan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:roboto;-inkscape-font-specification:roboto;stroke-linecap:butt;stroke-linejoin:round"
+   id="flowSpan983">specific epistasis</flowSpan> does not.</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot985"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.27201843px;line-height:1;font-family:roboto;-inkscape-font-specification:roboto;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;opacity:0.98999999;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:1, 1;stroke-dashoffset:0;stroke-opacity:1"
+       transform="matrix(0.1897074,0,0,0.1897074,17.352431,92.034384)"><flowRegion
+         id="flowRegion987"
+         style="stroke-linecap:butt;stroke-linejoin:round"><rect
+           id="rect989"
+           width="565.71436"
+           height="102.85717"
+           x="1154.2858"
+           y="462.85715"
+           style="stroke-linecap:butt;stroke-linejoin:round" /></flowRegion><flowPara
+         id="flowPara991"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:roboto;-inkscape-font-specification:'roboto Light';fill:#000000;fill-opacity:1;stroke:none;stroke-linecap:butt;stroke-linejoin:round">Sailer and Harms. <flowSpan
+   style="font-style:italic;font-variant:normal;font-weight:300;font-stretch:normal;font-family:roboto;-inkscape-font-specification:'roboto Light Italic';stroke-linecap:butt;stroke-linejoin:round"
+   id="flowSpan993">In Prep</flowSpan>.</flowPara></flowRoot>  </g>
 </svg>

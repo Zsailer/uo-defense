@@ -2207,10 +2207,10 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="0.35"
-     inkscape:cx="395.73478"
-     inkscape:cy="126.59747"
+     inkscape:cx="-164.26522"
+     inkscape:cy="355.1689"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer4"
+     inkscape:current-layer="layer1"
      showgrid="false"
      units="px"
      inkscape:window-width="1440"
@@ -2583,7 +2583,7 @@
      inkscape:groupmode="layer"
      id="layer3"
      inkscape:label="scatter-1"
-     style="display:none;stroke-linecap:butt;stroke-linejoin:round">
+     style="display:inline;stroke-linecap:butt;stroke-linejoin:round">
     <g
        transform="matrix(1.2531836,0,0,-1.2531836,110.47449,152.74877)"
        id="g1973"
@@ -4220,7 +4220,7 @@
      inkscape:groupmode="layer"
      id="layer4"
      inkscape:label="scatter-2"
-     style="display:inline;stroke-linecap:butt;stroke-linejoin:round">
+     style="display:none;stroke-linecap:butt;stroke-linejoin:round">
     <g
        style="stroke-linecap:butt;stroke-linejoin:round"
        id="g5814"
@@ -5898,7 +5898,7 @@
      inkscape:groupmode="layer"
      id="layer5"
      inkscape:label="logistic"
-     style="display:inline;stroke-linecap:butt;stroke-linejoin:round">
+     style="display:none;stroke-linecap:butt;stroke-linejoin:round">
     <g
        id="g2694"
        style="display:inline;stroke-linecap:butt;stroke-linejoin:round"
