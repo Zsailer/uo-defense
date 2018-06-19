@@ -8655,15 +8655,6 @@
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient2300"
-       id="linearGradient12658"
-       gradientUnits="userSpaceOnUse"
-       x1="881.00714"
-       y1="-69.39193"
-       x2="1003.5905"
-       y2="-69.39193" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient2300"
        id="linearGradient12327"
        gradientUnits="userSpaceOnUse"
        x1="539.94531"
@@ -8744,6 +8735,24 @@
          id="path13366"
          style="stroke:#000000;stroke-width:0.80000001;stroke-linecap:butt;stroke-linejoin:round" />
     </defs>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2300"
+       id="linearGradient5323"
+       gradientUnits="userSpaceOnUse"
+       x1="881.00714"
+       y1="-69.39193"
+       x2="1003.5905"
+       y2="-69.39193" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2300"
+       id="linearGradient5339"
+       gradientUnits="userSpaceOnUse"
+       x1="881.00714"
+       y1="-69.39193"
+       x2="1003.5905"
+       y2="-69.39193" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -8753,7 +8762,7 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="0.7"
-     inkscape:cx="822.96157"
+     inkscape:cx="772.96157"
      inkscape:cy="200.39994"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
@@ -8761,8 +8770,8 @@
      units="px"
      inkscape:window-width="1920"
      inkscape:window-height="1058"
-     inkscape:window-x="441"
-     inkscape:window-y="0"
+     inkscape:window-x="353"
+     inkscape:window-y="15"
      inkscape:window-maximized="0"
      inkscape:snap-global="false" />
   <metadata
@@ -24207,7 +24216,7 @@
     </g>
     <g
        id="g12543-8"
-       transform="translate(-33.31196,-40.401531)"
+       transform="translate(-206.80303,-41.913436)"
        style="display:inline;stroke-linecap:butt;stroke-linejoin:round">
       <flowRoot
          transform="matrix(0.26458333,0,0,0.26458333,100.12934,342.5428)"
@@ -24222,7 +24231,21 @@
              height="123.23861"
              width="620.23364"
              id="rect12250-1-0" /></flowRegion><flowPara
-           style="fill:url(#linearGradient12658);fill-opacity:1;stroke-linecap:butt;stroke-linejoin:round"
+           style="fill:url(#linearGradient5339);fill-opacity:1;stroke-linecap:butt;stroke-linejoin:round"
            id="flowPara12252-0-4">40,320 trajectories possible.</flowPara></flowRoot>    </g>
-  </g>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot5311"
+       style="display:inline;stroke-linecap:round;stroke-linejoin:round;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:42.66666794px;line-height:1;font-family:roboto;-inkscape-font-specification:'roboto Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;writing-mode:lr-tb;text-anchor:end;opacity:0.98999999;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.66666675;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       transform="matrix(0.26458333,0,0,0.26458333,-44.601191,103.47616)"><flowRegion
+         id="flowRegion5313"
+         style="font-size:42.66666794px;stroke-linecap:butt;stroke-linejoin:round"><rect
+           id="rect5315"
+           width="672.85712"
+           height="250"
+           x="674.28571"
+           y="655.71429"
+           style="font-size:42.66666794px;stroke-linecap:butt;stroke-linejoin:round" /></flowRegion><flowPara
+         id="flowPara5317"
+         style="font-size:42.66666794px;stroke-linecap:butt;stroke-linejoin:round">It took decades to evolve.</flowPara></flowRoot>  </g>
 </svg>

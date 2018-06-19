@@ -194,7 +194,7 @@ Any system that involves a collection of states will likely exhibit high-order e
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
-![sm.inkscape](slides/slide-best-model-2.svg)
+![sm.inkscape](slides/slide-best-model-x.svg)
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
@@ -202,26 +202,23 @@ Any system that involves a collection of states will likely exhibit high-order e
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
-# Conclusions
-
-- Only a few trajectories to drug resistance are possible.
-- Many neutral steps were required.
-- This main explain why drug resistance took so long to evolve.
+![sm.inkscape](slides/slide-conclusions.svg)
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
-# More conclusions
-
-- Developed a general model for predicting sparsely sampled genotype-phenotype maps.
-- The software is fast, high-quality, free, open source, and includes documentation.
--
+![sm.inkscape](slides/slide-conclusions-epistasis.svg)
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
-# Future directions
+![sm.inkscape](slides/slide-conclusions-pfcrt.svg)
 
-- Better models for decomposing global epistasis (ensemble model)
-- Add Jake's citation
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+![sm.inkscape](slides/slide-future-directions.svg)
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+![sm.inkscape](slides/slide-python-packages.svg)
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
