@@ -4,11 +4,7 @@
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
-# Proteins evolved.
-
-(Show a diverse set of proteins with cool functions)
-
-This is amazing.
+![sm.inkscape](slides/slide-proteins-are-amazing.svg)
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
@@ -18,7 +14,7 @@ This is amazing.
 
 <!-- Protein evolution depends on the genotype-phenotype map. (wordgame) -->
 
-![sm.inkscape](slides/slide-wordgame.svg) 1110000000,1111000000,1110100000,1110010000,1110001000,1110000100,1010000010,0010000011
+![sm.inkscape](slides/slide-wordgame.svg) 11000000000,11100000000,11100000000,11110000000,11101000000,11100100000,11100010000,11100001000,11000000100,11000000110,11000000111
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
@@ -31,6 +27,10 @@ This is amazing.
 <!-- Genotype-phenotypes maps are intractable. -->
 
 ![sm.inkscape](slides/slide-gpm-size.svg)
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+## We need computational tools to predict sparsely sampled genotype-phenotype maps.
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
@@ -72,7 +72,8 @@ This is amazing.
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
-![sm.inkscape](slides/slide-model.svg) 1100000000000,1111000000000,1111110000000,1111111000000,1111111100000,1111111110000,1110101111000,1100000001100,1100000001110,1100000001111
+![sm.inkscape](slides/slide-model.svg) 1100000000000,1111000000000,1110110000000,1110111000000,1110111100000,1110111110000,1110101111000,1100000001100,1100000001110,1100000001111
+
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
@@ -130,7 +131,7 @@ This is amazing.
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
-![sm.inkscape](slides/slide-high-order-model.svg)
+![sm.inkscape](slides/slide-high-order-model.svg) 10000000,11110000,11111000,11011100,11011110,11011011
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
@@ -162,7 +163,9 @@ This is amazing.
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
-## High-order epistasis arises because mutations can affect multiple states in a system simultaneously
+## High-order epistasis arises because mutations affect multiple states in a system simultaneously
+
+Any system that involves a collection of states will likely exhibit high-order epistasis.
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
@@ -170,9 +173,6 @@ This is amazing.
 
 (Anneliese's experiment)
 
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
-
-Any system that involves a collection of states will likely exhibit high-order epistasis.
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
@@ -182,11 +182,11 @@ Any system that involves a collection of states will likely exhibit high-order e
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
-# The best model.
+![sm.inkscape](slides/slide-best-model.svg)
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
-![sm.inkscape](slides/slide-nobs-power.svg)
+![sm.inkscape](slides/slide-nobs-power.svg) 1000000,1110000,1111000,1101100,1101110,1101111
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
@@ -194,8 +194,11 @@ Any system that involves a collection of states will likely exhibit high-order e
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
-![sm.inkscape](slides/slide-pred-pfcrt-map.svg) 10000,11000,10100,10010,10001
+![sm.inkscape](slides/slide-best-model-2.svg)
 
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+![sm.inkscape](slides/slide-pred-pfcrt-map.svg) 10000,11000,10100,10010,10001
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 

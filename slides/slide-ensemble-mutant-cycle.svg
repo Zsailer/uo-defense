@@ -17,7 +17,7 @@
    version="1.1"
    id="svg8"
    inkscape:version="0.92.2 5c3e80d, 2017-08-06"
-   sodipodi:docname="slide-ensemble-mutant-cyle.svg">
+   sodipodi:docname="slide-ensemble-mutant-cycle.svg">
   <defs
      id="defs2"
      style="stroke-linecap:butt;stroke-linejoin:round">
@@ -477,16 +477,16 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="0.35"
-     inkscape:cx="1101.5247"
+     inkscape:cx="491.5247"
      inkscape:cy="193.79083"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer2"
      showgrid="false"
      units="px"
      inkscape:window-width="1440"
      inkscape:window-height="856"
-     inkscape:window-x="1748"
-     inkscape:window-y="0"
+     inkscape:window-x="67"
+     inkscape:window-y="50"
      inkscape:window-maximized="0"
      inkscape:snap-global="false" />
   <metadata
@@ -564,7 +564,7 @@
            y="311.42859"
            style="stroke-linecap:butt;stroke-linejoin:round" /></flowRegion><flowPara
          id="flowPara4819"
-         style="stroke-linecap:butt;stroke-linejoin:round"></flowPara></flowRoot>    <flowRoot
+         style="stroke-linecap:butt;stroke-linejoin:round" /></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot4889"
        style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:32px;line-height:1;font-family:roboto;-inkscape-font-specification:'roboto Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;writing-mode:lr-tb;text-anchor:end;opacity:0.98999999;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:6.66666651;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -588,7 +588,7 @@
     <flowRoot
        xml:space="preserve"
        id="flowRoot1232"
-       style="stroke-linecap:round;stroke-linejoin:round;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:40.27201843px;line-height:1;font-family:roboto;-inkscape-font-specification:'roboto Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;opacity:0.98999999;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:10;stroke-dasharray:1, 1;stroke-dashoffset:0;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:40.27201843px;line-height:1;font-family:roboto;-inkscape-font-specification:'roboto Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;opacity:0.98999999;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:1, 1;stroke-dashoffset:0;stroke-opacity:1"
        transform="matrix(0.28425674,0,0,0.28425674,289.37979,-20.923207)"><flowRegion
          id="flowRegion1234"
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:roboto;-inkscape-font-specification:'roboto Light';fill:#000000;stroke-linecap:butt;stroke-linejoin:round"><rect
@@ -599,7 +599,7 @@
            y="134.11153"
            style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:roboto;-inkscape-font-specification:'roboto Light';fill:#000000;stroke-linecap:butt;stroke-linejoin:round" /></flowRegion><flowPara
          id="flowPara1238"
-         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:roboto;-inkscape-font-specification:'roboto Light';text-align:end;text-anchor:end;fill:#000000;stroke-linecap:butt;stroke-linejoin:round">How do multiple mutations affect systems that explore multiple states?</flowPara></flowRoot>  </g>
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:roboto;-inkscape-font-specification:'roboto Light';text-align:end;text-anchor:end;fill:#000000;stroke-linecap:butt;stroke-linejoin:round">How do mutations affect systems that explore multiple states?</flowPara></flowRoot>  </g>
   <g
      inkscape:groupmode="layer"
      id="layer3"

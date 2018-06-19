@@ -1452,16 +1452,16 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="0.49497475"
-     inkscape:cx="547.4964"
+     inkscape:cx="116.16127"
      inkscape:cy="185.42245"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer5"
+     inkscape:current-layer="layer3"
      showgrid="false"
      units="px"
-     inkscape:window-width="1440"
-     inkscape:window-height="856"
-     inkscape:window-x="1760"
-     inkscape:window-y="35"
+     inkscape:window-width="1736"
+     inkscape:window-height="964"
+     inkscape:window-x="38"
+     inkscape:window-y="21"
      inkscape:window-maximized="0"
      inkscape:snap-global="false" />
   <metadata
@@ -1537,7 +1537,7 @@
            x="-731.35046"
            y="204.8222"
            style="stroke-linecap:butt;stroke-linejoin:round;-inkscape-font-specification:'roboto Light';font-family:roboto;font-weight:300;font-style:normal;font-stretch:normal;font-variant:normal;" /></flowRegion><flowPara
-         id="flowPara850"></flowPara></flowRoot>    <flowRoot
+         id="flowPara850" /></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot852"
        style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:40.27201843px;line-height:1;font-family:roboto;-inkscape-font-specification:'roboto Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;opacity:0.98999999;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:1, 1;stroke-dashoffset:0;stroke-opacity:1"
@@ -1562,7 +1562,7 @@
            x="-941.46216"
            y="-187.11697"
            style="stroke-linecap:butt;stroke-linejoin:round" /></flowRegion><flowPara
-         id="flowPara3967"></flowPara></flowRoot>    <flowRoot
+         id="flowPara3967" /></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot3969"
        style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:40.27201843px;line-height:1;font-family:roboto;-inkscape-font-specification:'roboto Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;opacity:0.98999999;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:1, 1;stroke-dashoffset:0;stroke-opacity:1"
@@ -1592,7 +1592,7 @@
        xml:space="preserve"
        id="flowRoot860"
        style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:40.27201843px;line-height:1;font-family:roboto;-inkscape-font-specification:'roboto Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;opacity:0.98999999;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:1, 1;stroke-dashoffset:0;stroke-opacity:1"
-       transform="matrix(0.29106601,0,0,0.29106601,-20.504405,-29.081481)"><flowRegion
+       transform="matrix(0.29106601,0,0,0.29106601,-29.05703,-29.081481)"><flowRegion
          id="flowRegion862"
          style="stroke-linecap:butt;stroke-linejoin:round"><rect
            id="rect864"
@@ -1602,7 +1602,7 @@
            y="198.76129"
            style="stroke-linecap:butt;stroke-linejoin:round" /></flowRegion><flowPara
          id="flowPara866"
-         style="font-style:italic;stroke-linecap:butt;stroke-linejoin:round">How should we treat epistasis?</flowPara></flowRoot>  </g>
+         style="font-style:italic;stroke-linecap:butt;stroke-linejoin:round">How should we treat any remaining epistasis?</flowPara></flowRoot>  </g>
   <g
      inkscape:groupmode="layer"
      id="layer4"
