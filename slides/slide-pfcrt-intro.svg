@@ -476,15 +476,15 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.24748738"
-     inkscape:cx="1086.8854"
-     inkscape:cy="-12.512889"
+     inkscape:zoom="0.70000002"
+     inkscape:cx="866.35438"
+     inkscape:cy="358.07461"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer2"
+     inkscape:current-layer="layer4"
      showgrid="false"
      units="px"
-     inkscape:window-width="1399"
-     inkscape:window-height="657"
+     inkscape:window-width="1605"
+     inkscape:window-height="812"
      inkscape:window-x="81"
      inkscape:window-y="17"
      inkscape:window-maximized="0"
@@ -969,7 +969,7 @@
      inkscape:groupmode="layer"
      id="layer4"
      inkscape:label="chloroquine"
-     style="display:none;stroke-linecap:butt;stroke-linejoin:round">
+     style="display:inline;stroke-linecap:butt;stroke-linejoin:round">
     <g
        id="g2295"
        transform="matrix(2.1978525,0,0,2.2042392,108.80482,-267.11694)"
@@ -1175,7 +1175,21 @@
          inkscape:connector-curvature="0"
          style="opacity:1;fill:none;stroke:#000000;stroke-width:0.48083249;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none" />
     </g>
-  </g>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot1276"
+       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:40px;line-height:1;font-family:roboto;-inkscape-font-specification:'roboto Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;writing-mode:lr-tb;text-anchor:end;opacity:0.98999999;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.66666675;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       transform="matrix(0.26458333,0,0,0.26458333,-184.83036,-59.720238)"><flowRegion
+         id="flowRegion1278"
+         style="stroke-linecap:butt;stroke-linejoin:round"><rect
+           id="rect1280"
+           width="334.28571"
+           height="192.85713"
+           x="1260"
+           y="378.57144"
+           style="stroke-linecap:butt;stroke-linejoin:round" /></flowRegion><flowPara
+         id="flowPara1282"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:xkcd;-inkscape-font-specification:xkcd;stroke-linecap:butt;stroke-linejoin:round">chloroquine</flowPara></flowRoot>  </g>
   <g
      inkscape:groupmode="layer"
      id="layer5"

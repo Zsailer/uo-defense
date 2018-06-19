@@ -2419,7 +2419,7 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="0.35"
-     inkscape:cx="847.2548"
+     inkscape:cx="858.68337"
      inkscape:cy="27.026818"
      inkscape:document-units="mm"
      inkscape:current-layer="layer3"
@@ -3061,7 +3061,7 @@
            x="-8.5714283"
            y="897.14288"
            style="stroke-linecap:butt;stroke-linejoin:round" /></flowRegion><flowPara
-         id="flowPara621"></flowPara></flowRoot>    <flowRoot
+         id="flowPara621" /></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot631"
        style="line-height:1;fill:#000000;fill-opacity:1;stroke-width:2;stroke-miterlimit:10;stroke-dasharray:1, 1;stroke-dashoffset:0;-inkscape-font-specification:'roboto Light Italic';font-family:roboto;font-weight:300;font-style:italic;font-stretch:normal;font-variant:normal;font-size:40.27201971px;font-variant-east_asian:normal;opacity:0.99;vector-effect:none;stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;text-anchor:end;text-align:end;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal"><flowRegion
@@ -3072,7 +3072,7 @@
            x="934.28571"
            y="360"
            style="stroke-linecap:butt;stroke-linejoin:round" /></flowRegion><flowPara
-         id="flowPara637"></flowPara></flowRoot>  </g>
+         id="flowPara637" /></flowRoot>  </g>
   <g
      inkscape:groupmode="layer"
      id="layer2"
@@ -3132,7 +3132,7 @@
     <flowRoot
        xml:space="preserve"
        id="flowRoot671"
-       style="stroke-linecap:round;stroke-linejoin:round;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:40.27201843px;line-height:1;font-family:roboto;-inkscape-font-specification:'roboto Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;writing-mode:lr-tb;text-anchor:end;opacity:0.98999999;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:10;stroke-dasharray:1, 1;stroke-dashoffset:0;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:40.27201843px;line-height:1;font-family:roboto;-inkscape-font-specification:'roboto Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;writing-mode:lr-tb;text-anchor:end;opacity:0.98999999;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:1, 1;stroke-dashoffset:0;stroke-opacity:1"
        transform="matrix(0.38391079,0,0,0.38391079,-133.84669,-217.37087)"><flowRegion
          id="flowRegion673"
          style="stroke-linecap:butt;stroke-linejoin:round"><rect
@@ -3145,5 +3145,5 @@
          id="flowPara677"
          style="stroke-linecap:butt;stroke-linejoin:round">N<flowSpan
    style="font-size:64.99999762%;baseline-shift:sub;stroke-linecap:butt;stroke-linejoin:round"
-   id="flowSpan679">obs</flowSpan> = 37</flowPara></flowRoot>  </g>
+   id="flowSpan1460">obs/mut</flowSpan> = 37</flowPara></flowRoot>  </g>
 </svg>

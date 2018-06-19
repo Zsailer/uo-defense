@@ -157,17 +157,17 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.49497475"
-     inkscape:cx="807.85301"
-     inkscape:cy="366.65519"
+     inkscape:zoom="1.4"
+     inkscape:cx="983.30178"
+     inkscape:cy="-33.344808"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer5"
+     inkscape:current-layer="layer2"
      showgrid="false"
      units="px"
      inkscape:window-width="1813"
      inkscape:window-height="1025"
-     inkscape:window-x="1522"
-     inkscape:window-y="0"
+     inkscape:window-x="451"
+     inkscape:window-y="68"
      inkscape:window-maximized="0" />
   <metadata
      id="metadata5">
@@ -297,7 +297,7 @@
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="papers"
-     style="display:none;stroke-linecap:butt;stroke-linejoin:round">
+     style="display:inline;stroke-linecap:butt;stroke-linejoin:round">
     <flowRoot
        xml:space="preserve"
        id="flowRoot868"
@@ -437,20 +437,31 @@
    id="flowSpan1052">In Prep.</flowSpan></flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot956-2-9-9-9"
-       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:26.66666603px;line-height:1.25;font-family:roboto;-inkscape-font-specification:'roboto Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;opacity:0.98999999;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:26.66666603;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.99215686"
-       transform="matrix(0.26458333,0,0,0.26458333,294.82227,-12.861214)"><flowRegion
+       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:26.66666603px;line-height:1.25;font-family:roboto;-inkscape-font-specification:'roboto Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;writing-mode:lr-tb;text-anchor:end;opacity:0.98999999;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:26.66666603;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.99215686"
+       transform="matrix(0.26458333,0,0,0.26458333,296.89767,-12.861214)"><flowRegion
          id="flowRegion958-2-0-9-8"
-         style="stroke-linecap:butt;stroke-linejoin:round"><rect
+         style="text-align:end;text-anchor:end;stroke-linecap:butt;stroke-linejoin:round"><rect
            id="rect960-7-2-7-6"
-           width="503.05597"
-           height="248.49751"
+           width="391.62741"
+           height="249.21178"
            x="-260.61935"
            y="691.71576"
-           style="stroke-linecap:butt;stroke-linejoin:round" /></flowRegion><flowPara
+           style="text-align:end;text-anchor:end;stroke-linecap:butt;stroke-linejoin:round" /></flowRegion><flowPara
          id="flowPara962-3-3-0-5"
-         style="stroke-linecap:butt;stroke-linejoin:round">Sailer and Harms. <flowSpan
-   style="font-style:italic;font-variant:normal;font-weight:300;font-stretch:normal;font-family:roboto;-inkscape-font-specification:'roboto Light Italic';stroke-linecap:butt;stroke-linejoin:round"
-   id="flowSpan1052-7">In Prep</flowSpan>.</flowPara></flowRoot>  </g>
+         style="text-align:end;text-anchor:end;stroke-linecap:butt;stroke-linejoin:round">Sailer, Summers, Shafik, Joule, Martin and Harms. <flowSpan
+   style="font-style:italic;font-variant:normal;font-weight:300;font-stretch:normal;font-family:roboto;-inkscape-font-specification:'roboto Light Italic';text-align:end;text-anchor:end;stroke-linecap:butt;stroke-linejoin:round"
+   id="flowSpan1052-7">In Prep</flowSpan>.</flowPara></flowRoot>    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10.58333302px;line-height:1;font-family:roboto;-inkscape-font-specification:'roboto Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;opacity:0.98999999;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.70555556;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       x="212.74654"
+       y="258.38644"
+       id="text937"><tspan
+         sodipodi:role="line"
+         id="tspan935"
+         style="stroke-width:0.70555556;stroke-linecap:butt;stroke-linejoin:round"
+         x="212.74654"
+         y="266.32394" /></text>
+  </g>
   <g
      inkscape:groupmode="layer"
      id="layer3"

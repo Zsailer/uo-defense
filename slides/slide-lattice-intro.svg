@@ -279,14 +279,14 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="0.49497475"
-     inkscape:cx="381.50552"
+     inkscape:cx="147.15013"
      inkscape:cy="-112.57067"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer7"
+     inkscape:current-layer="layer3"
      showgrid="false"
      units="px"
      inkscape:window-width="1920"
-     inkscape:window-height="1058"
+     inkscape:window-height="1036"
      inkscape:window-x="84"
      inkscape:window-y="0"
      inkscape:window-maximized="0"
@@ -1772,7 +1772,7 @@
            y="614.94415"
            style="stroke-linecap:butt;stroke-linejoin:round" /></flowRegion><flowPara
          id="flowPara1904"
-         style="stroke-linecap:butt;stroke-linejoin:round">= kT log</flowPara></flowRoot>    <flowRoot
+         style="stroke-linecap:butt;stroke-linejoin:round">= -kT log</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot1910"
        style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:40.27201843px;line-height:1;font-family:roboto;-inkscape-font-specification:'roboto Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;display:inline;opacity:0.98999999;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:6.41007853;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:6.41007874, 12.82015748;stroke-dashoffset:0;stroke-opacity:1"
@@ -1830,7 +1830,7 @@
      inkscape:groupmode="layer"
      id="layer4"
      inkscape:label="map"
-     style="display:inline;stroke-linecap:butt;stroke-linejoin:round">
+     style="display:none;stroke-linecap:butt;stroke-linejoin:round">
     <g
        style="display:inline;stroke-linecap:butt;stroke-linejoin:round"
        id="axes_1"
@@ -3248,7 +3248,7 @@
      inkscape:groupmode="layer"
      id="layer8"
      inkscape:label="axis"
-     style="display:inline;stroke-linecap:butt;stroke-linejoin:round">
+     style="display:none;stroke-linecap:butt;stroke-linejoin:round">
     <g
        transform="matrix(1.1379089,0,0,1.1379089,58.504161,-869.2705)"
        id="g9884"
@@ -3509,7 +3509,7 @@
      inkscape:groupmode="layer"
      id="layer6"
      inkscape:label="epistasis"
-     style="display:inline;stroke-linecap:butt;stroke-linejoin:round">
+     style="display:none;stroke-linecap:butt;stroke-linejoin:round">
     <image
        width="1"
        height="1"
@@ -3524,7 +3524,7 @@
      inkscape:groupmode="layer"
      id="layer7"
      inkscape:label="epistasis-pw"
-     style="display:inline;stroke-linecap:butt;stroke-linejoin:round">
+     style="display:none;stroke-linecap:butt;stroke-linejoin:round">
     <image
        id="image306"
        mask="url(#mask302-3)"
@@ -3535,12 +3535,12 @@
        width="1"
        style="display:inline;stroke-linecap:butt;stroke-linejoin:round" />
     <path
-       style="fill:none;stroke:#d80000;stroke-width:1.76388889;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       style="fill:none;stroke:#d80000;stroke-width:1.76388884;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="M 137.91107,28.534667 253.90605,63.814242"
        id="path1391"
        inkscape:connector-curvature="0" />
     <path
-       style="display:inline;stroke-linecap:round;stroke-linejoin:miter;fill:none;stroke:#d80000;stroke-width:1.76388884;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="display:inline;fill:none;stroke:#d80000;stroke-width:1.76388884;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="M 253.90605,28.534667 137.91106,63.814242"
        id="path1391-0"
        inkscape:connector-curvature="0" />

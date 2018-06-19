@@ -3398,7 +3398,7 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="0.35"
-     inkscape:cx="365.96547"
+     inkscape:cx="-194.03453"
      inkscape:cy="219.73703"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
@@ -3407,7 +3407,7 @@
      inkscape:window-width="1440"
      inkscape:window-height="856"
      inkscape:window-x="0"
-     inkscape:window-y="869"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:snap-global="false" />
   <metadata
@@ -3786,10 +3786,10 @@
      inkscape:groupmode="layer"
      id="layer3"
      inkscape:label="scatter-add"
-     style="display:none;stroke-linecap:butt;stroke-linejoin:round">
+     style="display:inline;stroke-linecap:butt;stroke-linejoin:round">
     <g
        id="g8964"
-       transform="translate(-212.70357,-117.19075)"
+       transform="translate(-212.70357,-121.42411)"
        style="display:inline;stroke-linecap:butt;stroke-linejoin:round">
       <g
          transform="matrix(0.77721811,0,0,-0.77721811,302.3242,290.21082)"
@@ -5385,7 +5385,7 @@
     <g
        style="display:inline;stroke-linecap:butt;stroke-linejoin:round"
        id="g6900"
-       transform="matrix(1.2531836,0,0,-1.2531836,176.09119,151.69046)">
+       transform="matrix(1.2531836,0,0,-1.2531836,176.09119,147.4571)">
       <text
          transform="matrix(1,0,0,-1,0,0.9765625)"
          style="font-style:italic;font-variant:normal;font-size:10px;font-family:DejaVuSans;-inkscape-font-specification:DejaVuSans-Oblique;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-linecap:butt;stroke-linejoin:round"
@@ -5423,11 +5423,11 @@
      inkscape:groupmode="layer"
      id="layer4"
      inkscape:label="scatter-pw"
-     style="display:none;stroke-linecap:butt;stroke-linejoin:round">
+     style="display:inline;stroke-linecap:butt;stroke-linejoin:round">
     <g
        style="stroke-linecap:butt;stroke-linejoin:round"
        id="g7697"
-       transform="matrix(2.2031381,0,0,2.2031381,-732.23489,-364.84488)">
+       transform="matrix(2.2031381,0,0,2.2031381,-732.23489,-369.07824)">
       <g
          transform="matrix(0.35277777,0,0,-0.35277777,373.50434,244.13583)"
          id="g2115"
@@ -7022,7 +7022,7 @@
     <g
        style="stroke-linecap:butt;stroke-linejoin:round"
        id="g3201"
-       transform="matrix(1.2525148,0,0,-1.2525148,176.10372,151.68377)">
+       transform="matrix(1.2525148,0,0,-1.2525148,176.10372,147.45041)">
       <text
          transform="matrix(1,0,0,-1,0,0.9765625)"
          style="font-style:italic;font-variant:normal;font-size:10px;font-family:DejaVuSans;-inkscape-font-specification:DejaVuSans-Oblique;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-linecap:butt;stroke-linejoin:round"
@@ -7074,7 +7074,7 @@
      inkscape:groupmode="layer"
      id="layer5"
      inkscape:label="scatter-he"
-     style="display:inline;stroke-linecap:butt;stroke-linejoin:round">
+     style="display:none;stroke-linecap:butt;stroke-linejoin:round">
     <g
        style="stroke-linecap:butt;stroke-linejoin:round"
        id="g8809"

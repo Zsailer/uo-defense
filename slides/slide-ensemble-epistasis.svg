@@ -288,10 +288,10 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="0.98994949"
-     inkscape:cx="673.59188"
-     inkscape:cy="347.88792"
+     inkscape:cx="758.44469"
+     inkscape:cy="186.26351"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer5"
+     inkscape:current-layer="layer6"
      showgrid="false"
      units="px"
      inkscape:window-width="1440"
@@ -631,8 +631,8 @@
     <flowRoot
        xml:space="preserve"
        id="flowRoot1898"
-       style="stroke-linecap:round;stroke-linejoin:round;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:40.27201843px;line-height:1;font-family:roboto;-inkscape-font-specification:'roboto Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;opacity:0.98999999;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:6.41007853;stroke-miterlimit:4;stroke-dasharray:6.41007874, 12.82015748000000066;stroke-dashoffset:0;stroke-opacity:1"
-       transform="matrix(0.38726607,0,0,0.38726607,-208.89415,-70.733888)"><flowRegion
+       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:40.27201843px;line-height:1;font-family:roboto;-inkscape-font-specification:'roboto Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;opacity:0.98999999;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:6.41007853;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:6.41007874, 12.82015748;stroke-dashoffset:0;stroke-opacity:1"
+       transform="matrix(0.38726607,0,0,0.38726607,-208.09234,-70.733888)"><flowRegion
          id="flowRegion1900"
          style="stroke-linecap:butt;stroke-linejoin:round"><rect
            id="rect1902"
@@ -642,7 +642,7 @@
            y="614.94415"
            style="stroke-linecap:butt;stroke-linejoin:round" /></flowRegion><flowPara
          id="flowPara1904"
-         style="stroke-linecap:butt;stroke-linejoin:round">= kT log</flowPara></flowRoot>    <flowRoot
+         style="stroke-linecap:butt;stroke-linejoin:round">= -kT log</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot1910"
        style="stroke-linecap:round;stroke-linejoin:round;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:40.27201843px;line-height:1;font-family:roboto;-inkscape-font-specification:'roboto Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;opacity:0.98999999;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:6.41007853;stroke-miterlimit:4;stroke-dasharray:6.41007874, 12.82015748000000066;stroke-dashoffset:0;stroke-opacity:1"

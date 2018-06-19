@@ -85,7 +85,7 @@
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
-![sm.inkscape](slides/slide-high-order.svg) 11000000000,11110000000,11111000000,11111110000,11111111000,11111111100,11111111110,11111111111
+![sm.inkscape](slides/slide-high-order.svg) 11000000000,11110000000,11111000000,11101111000,11101111100,11101111110,11101111111
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
@@ -167,12 +167,6 @@
 
 Any system that involves a collection of states will likely exhibit high-order epistasis.
 
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
-
-# Can we observe this experimentally?
-
-(Anneliese's experiment)
-
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
@@ -191,10 +185,6 @@ Any system that involves a collection of states will likely exhibit high-order e
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
 ![sm.inkscape](slides/slide-calibration-curve.svg)
-
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
-
-![sm.inkscape](slides/slide-best-model-x.svg)
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
@@ -243,6 +233,10 @@ Any system that involves a collection of states will likely exhibit high-order e
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
 ![sm.inkscape](slides/slide-family.svg)
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+# Thank you!
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
